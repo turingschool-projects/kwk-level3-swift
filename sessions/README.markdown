@@ -5,8 +5,8 @@
 |Time	|Session	|
 |---	|---	|
 |*9:15-9:30*  | Opening Circle|
-|*9:30-10:00* | [Class: Intro to Playgrounds](playgrounds/commands_and_functions.markdown)|
-|*10:00-11:00*| Lab: Commands & Functions (iPad)|
+|*9:30-10:00* | [Class: Intro to Playgrounds](playgrounds/intro_to_playgrounds.markdown)|
+|*10:00-11:00*| [Lab: Commands & Functions (iPad)]((playgrounds/commands_and_functions.markdown))|
 |*11:00-12:00*| Collaboration: Work Styles & Strengthsfinder|
 |*12:00-1:00* | Lunch|
 |*1:00-1:30*  | Class: How to Pair|
