@@ -2,6 +2,8 @@
 
 ### Day 1
 
+|Time	|Session	|
+|---	|---	|
 |*9:15-9:30*  | Opening Circle|
 |*9:30-10:00* | Class: Intro to Playgrounds|
 |*10:00-11:00*| Lab: Commands & Functions (iPad)|
