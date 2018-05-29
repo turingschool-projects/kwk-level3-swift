@@ -2,6 +2,10 @@
 
 ## Learning Goals
 
+* Students will practice using the Swift Playground tool
+* Students will learn to combine a small set of instructions into complex patterns
+* Students will practice following the execution of code to find and fix bugs
+
 ## Plan
 
 In this session you'll work through a few introductory tutorials in the Swift Playgrounds. You have about one hour of work time.
