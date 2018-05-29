@@ -1,4 +1,4 @@
-# Commands & Functions
+# Lab Notes: Commands & Functions
 
 ## Learning Goals
 
