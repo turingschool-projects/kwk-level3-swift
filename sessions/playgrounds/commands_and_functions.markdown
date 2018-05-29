@@ -35,3 +35,12 @@ Get through all the intros? Now try to complete "The Shortest Route" considering
 * Can you use only the `green` teleporter to solve the level in 9 instructions?
 * How many does it take to use only the blue teleporter?
 * What if you do no teleporting?
+
+## Circle Back
+
+As we close our tutorial time, we'll either write in our journals or discuss as a group:
+
+* What instructions have we learned for Byte? Consider recording these in your notebook and/or on a poster in the classroom.
+* What was your most common mistake?
+* Did it start to get confusing when there were a lot of instructions? What strategies did you use to understand what you're doing?
+* If you could add one instruction for Byte to be able to do, what would it be? Why?
