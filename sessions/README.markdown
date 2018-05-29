@@ -2,14 +2,14 @@
 
 ### Day 1
 
-|Time	|Session	|
-|---	|---	|
+|Time|Session|
+|---|---|
 |*9:15-9:30*  | Opening Circle|
 |*9:30-10:00* | [Class: Intro to Playgrounds](playgrounds/intro_to_playgrounds.markdown)|
 |*10:00-11:00*| [Lab: Commands & Functions (iPad)]((playgrounds/commands_and_functions.markdown))|
 |*11:00-12:00*| Collaboration: Work Styles & Strengthsfinder|
 |*12:00-1:00* | Lunch|
-|*1:00-1:30*  | Class: How to Pair|
+|*1:00-1:30*  | [Class: How to Pair](playgrounds/how_to_pair.markdown)|
 |*1:30-2:30*  | Lab: Functions & For Loops (iPad)|
 |*2:30-3:00*  | Class: Xcode Intro|
 |*3:00-4:00*  | Lab: Xcode Setup & iPad Worktime|
