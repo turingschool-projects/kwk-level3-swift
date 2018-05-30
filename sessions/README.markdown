@@ -24,10 +24,10 @@
 |*10:00-11:00*| Lab: Variables, Strings, and Printing | Assigned | Mike |
 |*11:00-12:00*| Challenge: Number Guesser |  | _Author Needed_ |
 |*12:00-1:00* | Lunch|
-|*1:00-1:30*  | Conditionals | | _Author Needed_ |
-|*1:30-2:30*  | Lab: If This Then That | | _Author Needed_ |
-|*2:30-3:00*  | Class: For & For-In | | _Author Needed_ |
-|*3:00-4:00*  | Lab: Practicing Loops | | _Author Needed_ |
+|*1:00-1:30*  | Conditionals | Drafted | Amy |
+|*1:30-2:30*  | Lab: If This Then That | Drafted | Amy |
+|*2:30-3:00*  | Class: For & For-In | Assigned | Leta  |
+|*3:00-4:00*  | Lab: Practicing Loops | Assigned | Leta  |
 |*4:00-4:15*  | Wrap Up | Assigned | EM |
 
 ### Day 3
@@ -69,7 +69,7 @@
 |*10:00-11:00*| Lab: Working in Spirals | Assigned | Jeff |
 |*11:00-12:00*| Challenge: ? | Assigned | Jeff |
 |*12:00-1:00* | Lunch |
-|*1:00-1:30*  | Class: Running Apps on the iPad | Assigned | Amy |
+|*1:00-1:30*  | Class: Side Loading | Assigned | Amy |
 |*1:30-2:30*  | Lab: Working with Code | Assigned | Amy |
 |*2:30-3:00*  | Demo: Viewfinder | | _Author Needed_ |
 |*3:00-4:00*  | Feedback: Retrospective & Survey | Assigned | EM |
