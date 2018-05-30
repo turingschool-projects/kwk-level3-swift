@@ -2,9 +2,9 @@
 
 ## Learning Goals
 
-* Students will be able to use all features Xcode playgrounds
-* Students will be able to navigate the main panes of Xcode (single view application), device sizes, and file tree.
-* Students will be able to add and modify UI elements on the storyboard.
+* Students will be able to use all features in Xcode playgrounds
+* Students will be able to navigate the main panes of Xcode (single view application), device sizes, and file tree
+* Students will be able to add and modify UI elements on the storyboard
 * Students will be able to run and navigate the simulator to see a small project on a device
 
 ## Plan
@@ -22,10 +22,12 @@ In this session you'll work guide the students through 2 activities - one on XCo
 
 ### Playgrounds
 
+XCode Playgrounds are just what they sounds like - a safe place to play with code and see what happens. It's a great place to iterate on small problems so you can quickly see the outcome of a given method (without running an entire project). It's also a place that developers go to solve problems just for fun/practice. As we learn programming concepts this week, we will utilize XCode Playgrounds here and there since it's a lot easier and quicker to run than a project.
+
 #### Expected
 
 * Create three variables - your name, age, and favorite thing to do during the summer.
-* Print to the console, a sentence that uses all three of your variables!
+* Print to the console a sentence that uses all three of your variables!
 
 #### The Big Finish
 
