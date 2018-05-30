@@ -116,8 +116,8 @@
 |*12:00-1:00* | Lunch |
 |*1:00-1:30*  | Class: Palette Shifting |  | _Author Needed_ |
 |*1:30-2:30*  | Collaboration: Paired Worktime |  | _Author Needed_ |
-|*2:30-3:00*  | Class: Storing & Sharing Images | Assigned | _Author Needed_ |
-|*3:00-4:00*  | Lab: Implementing Storing & Sharing | Assigned | _Author Needed_ |
+|*2:30-3:00*  | Class: Storing & Sharing Images |  | _Author Needed_ |
+|*3:00-4:00*  | Lab: Implementing Storing & Sharing |  | _Author Needed_ |
 |*4:00-4:15*  | Wrap Up | Assigned | EM |
 
 ### Day 9
@@ -131,8 +131,8 @@
 |*12:00-1:00* | Lunch |
 |*1:00-1:30*  | Class: How to Demo |  | _Author Needed_ |
 |*1:30-2:30*  | Lab: Writing Your Demo |  | _Author Needed_ |
-|*2:30-3:00*  | Class: Demo Practice | Assigned | _Author Needed_ |
-|*3:00-4:00*  | ? | Assigned | _Author Needed_ |
+|*2:30-3:00*  | Class: Demo Practice |  | _Author Needed_ |
+|*3:00-4:00*  | ? |  | _Author Needed_ |
 |*4:00-4:15*  | Wrap Up | Assigned | EM |
 
 ### Day 10
