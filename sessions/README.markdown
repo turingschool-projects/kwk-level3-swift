@@ -10,7 +10,7 @@
 |*11:00-12:00*| Collaboration: Work Styles & Strengthsfinder|
 |*12:00-1:00* | Lunch|
 |*1:00-1:30*  | [Class: How to Pair](playgrounds/how_to_pair.markdown)|
-|*1:30-2:30*  | Lab: Functions & For Loops (iPad)|
+|*1:30-2:30*  | [Lab: Functions & For Loops (iPad)](playgrounds/functions_and_for_loops.markdown)|
 |*2:30-3:00*  | Class: Xcode Intro|
 |*3:00-4:00*  | Lab: Xcode Setup & iPad Worktime|
 |*4:00-4:15*  | Wrap Up|
