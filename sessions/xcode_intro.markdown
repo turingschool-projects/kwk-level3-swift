@@ -46,20 +46,32 @@ XCode Playgrounds are just what they sounds like - a safe place to play with cod
 
 ### Projects
 
+XCode Projects provide us developers with a lot more tools! It allows us to create an entire application - from the User Interface (UI) to functionality with Swift code. There are multiple panes, and different things that can be used within each pane. It is a large application and can be overwhelming; we will learn the most important features, step by step.
+
 #### Expected
 
 * Use the file tree to navigate to the storyboard
 * Add three UI Elements from the Object Library to your storyboard - two labels and a button. switch, or slider.
-* Run your application on the simulator - does it look how you expected?
+* Run your application on the simulator
 * Change the background color of your application
 * Change the color or font or size of your UI Elements.
-* Run your application on the simulator - are your changes reflected?
+* Re-run your application on the simulator - are your changes reflected?
 
 #### The Big Finish
 
-* Add an icon image
-<!-- provide files so they don't have to fight with names and sizes -->
+* Add an icon image:
+  - In your simulator, click to `home` button (circle at bottom center). Find your application by the `Product Name` you typed in earlier. What is the icon above it? Let's make a custom icon so your users have a visual to click on!
+  - Go to [INSERT URL OR SOMETHING] and download the zip file with photos.
+  - In XCode's Navigation Pane, click `Assets.xcassets`, then click `AppIcon` in the Document Outline.
+  - Using `Finder`, drag and drop the two images you would like to use for your icon (you need one that ends in -60@2x _and_ one that ends in -60@3x) into the 2x and 3x boxes right above the label for `iPhone App - iOS 7-11 - 60pt`
+  - Re-run your simulator, click `home` and you should see your new icon!
+
+* Still have work time? Find an image on Google Images and bring that into your project with an image UI Element.
 
 ## Circle Back
 
 As we close our tutorial time, we'll either write in our journals or discuss as a group:
+
+- What is the difference between an XCode Playground and Project? When would you want to use one or the other?
+- What did you enjoy about building the UI?
+- What questions do you still have about building a UI?
