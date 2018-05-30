@@ -29,3 +29,18 @@
 |*2:30-3:00*  | Class: For & For-In | | _Author Needed_ |
 |*3:00-4:00*  | Lab: Practicing Loops | | _Author Needed_ |
 |*4:00-4:15*  | Wrap Up | Assigned | EM |
+
+### Day 3
+
+|Time|Session|Status|Assigned|
+|---|---|---|---|
+|*9:15-9:30*  | Stand Up & Technical Warm-Up | Assigned | EM |
+|*9:30-10:00* | Intro to Methods |  | _Author Needed_ |
+|*10:00-11:00*| Lab: Methods and Return Values |  | _Author Needed_ |
+|*11:00-12:00*| Challenge: There a Hole in the Bottom of the Sea |  | _Author Needed_ |
+|*12:00-1:00* | Lunch |
+|*1:00-1:30*  | Arrays | | Pam |
+|*1:30-2:30*  | Lab: Arrays & Iteration | | Pam |
+|*2:30-3:00*  | Class: Dictionaries | | _Author Needed_ |
+|*3:00-4:00*  | Lab: Using Dictionaries | | _Author Needed_ |
+|*4:00-4:15*  | Wrap Up | Assigned | EM |
