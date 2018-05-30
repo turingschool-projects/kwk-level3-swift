@@ -16,7 +16,3 @@
 |*4:00-4:15*  | Wrap Up|
 
 ### Day 2
-
-https://github.com/turingschool-projects/kwk-level3-swift/blob/master/sessions/playgrounds/commands_and_functions.md
-
-https://github.com/turingschool-projects/kwk-level3-swift/blob/master/sessions/playgrounds/commands_and_functions.markdown
