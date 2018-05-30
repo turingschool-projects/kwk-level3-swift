@@ -11,8 +11,8 @@
 |*12:00-1:00* | Lunch|
 |*1:00-1:30*  | [Class: How to Pair](playgrounds/how_to_pair.markdown)| Draft | _Reviewer Needed_ |
 |*1:30-2:30*  | [Lab: Functions & For Loops (iPad)](playgrounds/functions_and_for_loops.markdown)| Early Draft | Leta |
-|*2:30-3:00*  | Class: Xcode Intro| Assigned | Amy |
-|*3:00-4:00*  | Lab: Xcode Setup & iPad Worktime| Assigned | Amy |
+|*2:30-3:00*  | [Class: Xcode Intro](./xcode_intro_slides.markdown) | Final Draft | Amy |
+|*3:00-4:00*  | [Lab: Xcode Setup & iPad Worktime](./xcode_intro_lab.markdown) | Final Draft | Amy |
 |*4:00-4:15*  | Wrap Up | Assigned | EM |
 
 ### Day 2
@@ -24,8 +24,8 @@
 |*10:00-11:00*| Lab: Variables, Strings, and Printing | Assigned | Mike |
 |*11:00-12:00*| Challenge: Number Guesser |  | _Author Needed_ |
 |*12:00-1:00* | Lunch|
-|*1:00-1:30*  | Conditionals | Drafted | Amy |
-|*1:30-2:30*  | Lab: If This Then That | Drafted | Amy |
+|*1:00-1:30*  | [Class: Conditionals](./conditionals_slides.markdown) | Drafted | Amy |
+|*1:30-2:30*  | [Lab: Conditionals](./conditionals_lab.markdown) | Drafted | Amy |
 |*2:30-3:00*  | Class: For & For-In | Assigned | Leta  |
 |*3:00-4:00*  | Lab: Practicing Loops | Assigned | Leta  |
 |*4:00-4:15*  | Wrap Up | Assigned | EM |
