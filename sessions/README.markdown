@@ -59,3 +59,18 @@
 |*3:00-3:30*  | Worktime: Finishing Touches | | |
 |*3:30-4:00*  | Collective: Gallery Walk | Assigned | EM |
 |*4:00-4:15*  | Wrap Up | Assigned | EM |
+
+### Day 5
+
+|Time|Session|Status|Assigned|
+|---|---|---|---|
+|*9:15-9:30*  | Stand Up & Technical Warm-Up | Assigned | EM |
+|*9:30-10:00* | Working in Spirals | Assigned | Jeff |
+|*10:00-11:00*| Lab: Working in Spirals | Assigned | Jeff |
+|*11:00-12:00*| Challenge: ? | Assigned | Jeff |
+|*12:00-1:00* | Lunch |
+|*1:00-1:30*  | Class: Running Apps on the iPad | Assigned | Amy |
+|*1:30-2:30*  | Lab: Working with Code | Assigned | Amy |
+|*2:30-3:00*  | Demo: Viewfinder | | _Author Needed_ |
+|*3:00-4:00*  | Feedback: Retrospective & Survey | Assigned | EM |
+|*4:00-4:15*  | Wrap Up | Assigned | EM |
