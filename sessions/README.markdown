@@ -39,8 +39,23 @@
 |*10:00-11:00*| Lab: Methods and Return Values |  | _Author Needed_ |
 |*11:00-12:00*| Challenge: There a Hole in the Bottom of the Sea |  | _Author Needed_ |
 |*12:00-1:00* | Lunch |
-|*1:00-1:30*  | Arrays | | Pam |
-|*1:30-2:30*  | Lab: Arrays & Iteration | | Pam |
+|*1:00-1:30*  | Arrays | Assigned | Pam |
+|*1:30-2:30*  | Lab: Arrays & Iteration | Assigned | Pam |
 |*2:30-3:00*  | Class: Dictionaries | | _Author Needed_ |
 |*3:00-4:00*  | Lab: Using Dictionaries | | _Author Needed_ |
+|*4:00-4:15*  | Wrap Up | Assigned | EM |
+
+### Day 4
+
+|Time|Session|Status|Assigned|
+|---|---|---|---|
+|*9:15-9:30*  | Stand Up & Journaling | Assigned | EM |
+|*9:30-10:00* | Aviatrix Intro | Assigned | Jeff |
+|*10:00-11:00*| Lab: Liftoff, Gas, and Landing | Assigned | Jeff |
+|*11:00-12:00*| Lab: Destinations & Routes | Assigned | Jeff |
+|*12:00-1:00* | Lunch |
+|*1:00-2:00*  | Lab: Flight Plans | Assigned | Jeff |
+|*2:00-3:00*  | Lab: Flight Controls | Assigned | Jeff |
+|*3:00-3:30*  | Worktime: Finishing Touches | | |
+|*3:30-4:00*  | Collective: Gallery Walk | Assigned | EM |
 |*4:00-4:15*  | Wrap Up | Assigned | EM |
