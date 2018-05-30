@@ -3,7 +3,7 @@
 ### Day 1
 
 |Time|Session|Status|Assigned|
-|---|---|
+|---|---|---|---|
 |*9:15-9:30*  | Opening Circle| Assigned | @emhickmann |
 |*9:30-10:00* | [Class: Intro to Playgrounds](playgrounds/intro_to_playgrounds.markdown)| Final Draft | |
 |*10:00-11:00*| [Lab: Commands & Functions (iPad)]((playgrounds/commands_and_functions.markdown))| Final Draft | |
