@@ -29,7 +29,7 @@ Xcode Playgrounds are just what they sounds like - a safe place to play with cod
 * Create three variables - your name, age, and favorite thing to do during the summer.
 * Print to the console a sentence that uses all three of your variables!
 
-#### The Big Finish
+#### Extension
 
 * Print the same sentence out three times, using a loop!
 
@@ -57,7 +57,7 @@ Xcode Projects provide us developers with a lot more tools! It allows us to crea
 * Change the color or font or size of your UI Elements
 * Re-run your application on the simulator - are your changes reflected?
 
-#### The Big Finish
+#### Extension
 
 * Add an icon image:
   - In your simulator, click to `home` button (circle at bottom center). Find your application by the `Product Name` you typed in earlier. What is the icon above it? Let's make a custom icon so your users have a visual to click on!

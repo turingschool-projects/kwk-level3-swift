@@ -20,18 +20,18 @@ Now you enter the tutorials. Notice on the left side that you'll have instructio
 
 ### Tutorial Work
 
-It's better to move slowly and carefully than to blast through these as quickly as possible. During this session you should complete all the "Expected" tutorials and, if you have time, continue into the "The Big Finish".
+It's better to move slowly and carefully than to blast through these as quickly as possible. During this session you should complete all the "Expected" tutorials and, if you have time, continue into the "Extension".
 
 #### Expected
 
 * Complete the "Issuing Commands" tutorial where you experiment with `moveForward()` and `collectGem()`
 * Complete the "Adding a New Command" tutorial where you add `turnLeft()` to the mix
 * Complete the "Toggling a Switch" tutorial to change the world
-* Complete "Portal Practice". Which way did you guess Byte would be facing after teleporting? Were you right?
-* Complete "Finding and Fixing Bugs". How do you turn right without a `turnRight()`?
+* Complete "Portal Practice". **Which way did you guess Byte would be facing after teleporting? Were you right?**
+* Complete "Finding and Fixing Bugs". **How do you turn right without a `turnRight()`?**
 * Complete "Bug Squash Practice". Note that if you click the speedometer icon you can change the speed to "Run Faster". Feeling stuck? Notice that the scoreboard up top is looking for you to collect one gem and have two switches activated.
 
-#### The Big Finish
+#### Extension
 
 Get through all the intros? Now try to complete "The Shortest Route" considering these ideas:
 

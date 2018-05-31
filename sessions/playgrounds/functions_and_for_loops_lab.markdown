@@ -22,6 +22,6 @@ In this session you'll work through the second set of tutorials in the Swift Pla
 
 #### Expected
 
-#### The Big Finish
+#### Extension
 
 ## Circle Back
