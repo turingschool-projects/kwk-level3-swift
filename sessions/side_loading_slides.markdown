@@ -38,7 +38,7 @@ slidenumbers: true
 
 # Identity
 
-<!-- image of this situation -->
+![inline](slide_images/side_loading_xcode_identity.png)
 
 ---
 
@@ -51,6 +51,9 @@ slidenumbers: true
 5. Back in the Interface Builder pane, select the team you just added
 
 ---
+
+![inline](slide_images/side_loading_xcode_signing.png)
+
 
 # iPad time!
 
@@ -68,7 +71,9 @@ slidenumbers: true
 
 # Run Application on iPad
 
-<!-- image with arrows for each step -->
+![inline](slide_images/side_loading_xcode_change_device.png)
+![inline](slide_images/side_loading_xcode_select_device.png)
+![inline](slide_images/side_loading_xcode_run_app.png)
 
 ---
 
