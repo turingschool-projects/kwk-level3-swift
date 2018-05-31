@@ -23,7 +23,7 @@ slidenumbers: true
 
 # Setup
 
-<!-- image of this situation, step by step -->
+![inline](slide_images/side_loading_xcode_setup.png)
 
 ^ This is a comment for presenter notes!
 ---
