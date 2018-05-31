@@ -52,8 +52,11 @@ slidenumbers: true
 
 ---
 
+# Signing
+
 ![inline](slide_images/side_loading_xcode_signing.png)
 
+---
 
 # iPad time!
 
