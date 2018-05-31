@@ -1,30 +1,94 @@
-footer: KWK Swift/iOS: TITLE OF CLASS
+footer: KWK Swift/iOS: Side Loading iPads
 slidenumbers: true
 
-# TITLE OF CLASS
+# Side Loading iPads
 
 ---
 
 # Learning Goals
 
-* Learning Goal 1
-* Learning Goal 2
+* Students will side load iPads so they can see their app on a device throughout development
 
 ---
 
-# A slide
+# Setup
 
-* with
-* some
-* info
+* Open your project in Xcode
+1. In the Navigator Pane, click on the root of the Project
+2. Then click on the Project Name under TARGETS
+3. Last, in the Interface Builder Plan, make sure you are on the 'General' Tab
 
 ^ This is a comment for presenter notes!
 ---
 
-# Another slide
+# Setup
 
-* with
-* more
-* stuff
+<!-- image of this situation, step by step -->
+
+^ This is a comment for presenter notes!
+---
+
+# Identity
+
+1. Make sure your project name is typed in for 'Display Name'
+2. For the 'Bundle Identifier' field, com.yourName.projectName
+
+
+---
+
+# Identity
+
+<!-- image of this situation -->
+
+---
+
+# Signing
+
+1. Click the drop down menu for 'Team'
+2. Select 'Add an Account'
+3. Type in your iCloud credentials
+4. Exit that window once you see your information
+5. Back in the Interface Builder pane, select the team you just added
+
+---
+
+# iPad time!
+
+* Plug your iPad into your laptop
+* Make sure the iPad is unlocked
+
+---
+
+# Run Application on iPad
+
+1. Change the device to your physical iPad
+2. Run application by clicking the play button or `cmd + r`
+
+---
+
+# Run Application on iPad
+
+<!-- image with arrows for each step -->
+
+---
+
+# It should fail
+
+<!-- go to device
+IMAGE: untrusted developer on ipad and a similar message on xcode_intro_lab -->
+
+---
+
+# How to solve that problem
+
+* iPad Settings
+* General
+* Device Management
+* Click your email, click button to approve the application
+---
+
+# Run Application on iPad
+
+* If your app is not running on your device in a minute or so, get help from a group nearby or your instructor
 
 ---
