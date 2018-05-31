@@ -79,9 +79,7 @@ slidenumbers: true
 
 # It should fail
 
-<!-- go to device
-IMAGE: untrusted developer on ipad and a similar message on xcode_intro_lab -->
-
+![inline](slide_images/side_loading_ipad_untrusted_dev.png)
 ---
 
 # How to solve that problem
