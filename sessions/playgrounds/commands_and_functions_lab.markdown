@@ -16,11 +16,11 @@ In this session you'll work through a few introductory tutorials in the Swift Pl
 * Click the "Learn to Code 1" box
 * Go through the introductory slides
 
-Now you enter the tutorials. Notice on the left side that you'll have instructions and do your programming. On the right is a virtual world where your instructions will get executed.
+Now enter the tutorials. Notice on the left side that you'll have instructions and that you'll do your programming here. On the right side is a virtual world where your instructions will get executed.
 
 ### Tutorial Work
 
-It's better to move slowly and carefully than to blast through these as quickly as possible. During this session you should complete all the "Expected" tutorials and, if you have time, continue into the "Extension".
+It's better to move slowly and carefully than to blast through these as quickly as possible. During this session you should complete all the "Expected" tutorials and, if you have time, continue into the "Extensions".
 
 #### Expected
 
