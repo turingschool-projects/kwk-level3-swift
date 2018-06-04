@@ -19,8 +19,8 @@
 
 |Time|Session|Status|Assigned|
 |---|---|---|---|
-|*9:15-9:30*  | Stand Up & Journaling | Assigned | EM |
-|*9:30-10:00* | Data Types & Variables | Assigned | Mike |
+|*9:15-9:30*  | Stand Up & Journaling | _Needs Review_ | EM |
+|*9:30-10:00* | Data Types & Variables | _Needs Review_ | Mike |
 |*10:00-11:00*| Lab: Variables, Strings, and Printing | Assigned | Mike |
 |*11:00-12:00*| Challenge: Number Guesser | Assigned | Brian |
 |*12:00-1:00* | Lunch|
