@@ -5,14 +5,14 @@
 |Time|Session|Status|Assigned|
 |---|---|---|---|
 |*9:15-9:30*  | Opening Circle| Assigned | EM |
-|*9:30-10:00* | [Class: Intro to Playgrounds](playgrounds/intro_to_playgrounds_slides.markdown)| Final Draft | |
-|*10:00-11:00*| [Lab: Commands & Functions (iPad)]((playgrounds/commands_and_functions_lab.markdown))| Final Draft | |
+|*9:30-10:00* | [Class: Intro to Playgrounds](playgrounds/intro_to_playgrounds_slides.markdown)| Complete | |
+|*10:00-11:00*| [Lab: Commands & Functions (iPad)]((playgrounds/commands_and_functions_lab.markdown))| Complete | |
 |*11:00-12:00*| Collaboration: Work Styles & Strengthsfinder| Assigned | EM |
 |*12:00-1:00* | Lunch|
-|*1:00-1:30*  | [Class: How to Pair](playgrounds/how_to_pair_slides.markdown)| Draft | _Reviewer Needed_ |
+|*1:00-1:30*  | [Class: How to Pair](playgrounds/how_to_pair_slides.markdown)| Complete | _Reviewer Needed_ |
 |*1:30-2:30*  | [Lab: Functions & For Loops (iPad)](playgrounds/functions_and_for_loops_lab.markdown)| Early Draft | Leta |
-|*2:30-3:00*  | [Class: Xcode Intro](./xcode_intro_slides.markdown) | Final Draft | Amy |
-|*3:00-4:00*  | [Lab: Xcode Setup & iPad Worktime](./xcode_intro_lab.markdown) | Final Draft | Amy |
+|*2:30-3:00*  | [Class: Xcode Intro](./xcode_intro_slides.markdown) | Complete | |
+|*3:00-4:00*  | [Lab: Xcode Setup & iPad Worktime](./xcode_intro_lab.markdown) | Complete | |
 |*4:00-4:15*  | Wrap Up | Assigned | EM |
 
 ### Day 2
@@ -22,7 +22,7 @@
 |*9:15-9:30*  | Stand Up & Journaling | Assigned | EM |
 |*9:30-10:00* | Data Types & Variables | Assigned | Mike |
 |*10:00-11:00*| Lab: Variables, Strings, and Printing | Assigned | Mike |
-|*11:00-12:00*| Challenge: Number Guesser |  | _Author Needed_ |
+|*11:00-12:00*| Challenge: Number Guesser | Assigned | Brian |
 |*12:00-1:00* | Lunch|
 |*1:00-1:30*  | [Class: Conditionals](./conditionals_slides.markdown) | Drafted | Amy |
 |*1:30-2:30*  | [Lab: Conditionals](./conditionals_lab.markdown) | Drafted | Amy |
@@ -37,7 +37,7 @@
 |*9:15-9:30*  | Stand Up & Technical Warm-Up | Assigned | EM |
 |*9:30-10:00* | Intro to Methods |  | _Author Needed_ |
 |*10:00-11:00*| Lab: Methods and Return Values |  | _Author Needed_ |
-|*11:00-12:00*| Challenge: There a Hole in the Bottom of the Sea |  | _Author Needed_ |
+|*11:00-12:00*| Challenge: There a Hole in the Bottom of the Sea | Assigned | Brian |
 |*12:00-1:00* | Lunch |
 |*1:00-1:30*  | Arrays | Assigned | Pam |
 |*1:30-2:30*  | Lab: Arrays & Iteration | Assigned | Pam |
@@ -69,7 +69,7 @@
 |*10:00-11:00*| Lab: Working in Spirals | Assigned | Jeff |
 |*11:00-12:00*| Challenge: ? | Assigned | Jeff |
 |*12:00-1:00* | Lunch |
-|*1:00-1:30*  | Class: Side Loading | Assigned | Amy |
+|*1:00-1:30*  | Class: Side Loading | Final Draft | Amy |
 |*1:30-2:30*  | Lab: Working with Code | Assigned | Amy |
 |*2:30-3:00*  | Demo: Viewfinder | | _Author Needed_ |
 |*3:00-4:00*  | Feedback: Retrospective & Survey | Assigned | EM |
