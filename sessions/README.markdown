@@ -57,7 +57,7 @@
 |*1:00-2:00*  | Lab: Flight Plans | Assigned | Jeff |
 |*2:00-3:00*  | Lab: Flight Controls | Assigned | Jeff |
 |*3:00-3:30*  | Worktime: Finishing Touches | | |
-|*3:30-4:00*  | Collective: Gallery Walk | Assigned | EM |
+|*3:30-4:00*  | Jigsaw Demo | Assigned | EM |
 |*4:00-4:15*  | Wrap Up | Assigned | Amy |
 
 ### Day 5
@@ -84,10 +84,10 @@
 |*10:00-11:00*| Lab: Viewfinder Experiments |  | _Author Needed_ |
 |*11:00-12:00*| Challenge: Paired Worktime |  | _Author Needed_ |
 |*12:00-1:00* | Lunch |
-|*1:00-1:30*  | Collaboration: Team & Pairing Reboot | Assigned | EM |
+|*1:00-1:30*  | Collaboration: Formal DTR | Assigned | EM |
 |*1:30-2:30*  | Lab: Building the "About" Page |  | _Author Needed_ |
-|*2:30-3:00*  | Class: Manipulating Images | | _Author Needed_ |
-|*3:00-4:00*  | Lab: Resizing & Cropping | | _Author Needed_ |
+|*2:30-3:00*  | Class: Manipulating Images |  | _Author Needed_ |
+|*3:00-4:00*  | Lab: Resizing & Cropping |  | _Author Needed_ |
 |*4:00-4:15*  | Wrap Up | Assigned | Amy |
 
 ### Day 7
@@ -129,10 +129,10 @@
 |*10:00-11:00*| Lab: Building a Mirror |  | _Author Needed_ |
 |*11:00-12:00*| Challenge: Paired Worktime |  | _Author Needed_ |
 |*12:00-1:00* | Lunch |
-|*1:00-1:30*  | Class: How to Demo |  | _Author Needed_ |
-|*1:30-2:30*  | Lab: Writing Your Demo |  | _Author Needed_ |
-|*2:30-3:00*  | Class: Demo Practice |  | _Author Needed_ |
-|*3:00-4:00*  | ? |  | _Author Needed_ |
+|*1:00-1:30*  | Class: How to Demo |  | EM Team |
+|*1:30-2:00*  | Lab: Writing Your Demo |  | EM Team |
+|*2:00-3:00*  | Class: Demo Practice |  | EM Team |
+|*3:00-4:00*  | Lab: Taking Your Work With You | Assigned | Amy |
 |*4:00-4:15*  | Wrap Up | Assigned | Amy |
 
 ### Day 10
@@ -143,8 +143,5 @@
 |*9:30-10:00* | Collaboration: Cross-Pair Share |  | _Author Needed_ |
 |*10:00-12:00*| Lab: Final Touches |  | _Author Needed_ |
 |*12:00-1:00* | Lunch |
-|*1:00-1:30*  | Lab: Demo Refinement |  | _Author Needed_ |
-|*1:30-2:30*  | Lab: Taking Your Work With You | Assigned | Amy |
-|*2:30-3:00*  | Pro Skills: Where to Go from Here | Assigned | EM |
-|*3:00-4:00*  | Lab: Idea Generation & Survey | Assigned | EM |
+|*1:00-4:00*  | Graduation |  | _Author Needed_ |
 |*4:00-4:15*  | Wrap Up | Assigned | Amy |
