@@ -24,8 +24,8 @@
 |*10:00-11:00*| [Lab: Variables, Strings, and Printing](./data_types_lab.markdown) | _Needs Review_ | Mike |
 |*11:00-12:00*| Challenge: Number Guesser | Assigned | Brian |
 |*12:00-1:00* | Lunch|
-|*1:00-1:30*  | [Class: Conditionals](./conditionals_slides.markdown) | Drafted | Amy |
-|*1:30-2:30*  | [Lab: Conditionals](./conditionals_lab.markdown) | Drafted | Amy |
+|*1:00-1:30*  | [Class: Conditionals](./conditionals_slides.markdown) | _Needs Review_ | Amy |
+|*1:30-2:30*  | [Lab: Conditionals](./conditionals_lab.markdown) | _Needs Review_ | Amy |
 |*2:30-3:00*  | Class: Arrays | Assigned | Pam  |
 |*3:00-4:00*  | Lab: Arrays & Iteration | Assigned | Pam  |
 |*4:00-4:15*  | Wrap Up | Assigned | EM |
@@ -35,8 +35,8 @@
 |Time|Session|Status|Assigned|
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Technical Warm-Up | Assigned | EM |
-|*9:30-10:00* | Intro to Methods |  | _Author Needed_ |
-|*10:00-11:00*| Lab: Methods and Return Values |  | _Author Needed_ |
+|*9:30-10:00* | Intro to Methods |  | Amy |
+|*10:00-11:00*| Lab: Methods and Return Values |  | Amy |
 |*11:00-12:00*| Challenge: There a Hole in the Bottom of the Sea | Assigned | Brian |
 |*12:00-1:00* | Lunch |
 |*1:00-1:30*  | Class: For & For-In | Assigned | Leta |
