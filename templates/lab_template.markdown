@@ -15,7 +15,7 @@ Give the instructor a 1-2 sentence overarching explanation of this lesson
 * Provide directions for any set up needed
 * Some common ones - open an XCode Playground, Project, or get on your iPad Swift Playgrounds App.
 
-### TOPIC TITLA
+### TOPIC TITLE
 
 Info on topic - maybe some background/rationale that was on the slides from class
 
@@ -23,7 +23,7 @@ Info on topic - maybe some background/rationale that was on the slides from clas
 
 * This should be a set of activities that kids need to do to practice/ eventually demonstrate they have this concept down.
 
-#### The Big Finish
+#### Extension
 
 * This is an early finisher/extension activity!
 
