@@ -13,7 +13,7 @@
 |*2:00-2:30*  | [Class: How to Pair](playgrounds/how_to_pair_slides.markdown)| Complete | |
 |*2:30-3:00*  | [Class: Xcode Intro](./xcode_intro_slides.markdown) | Complete | |
 |*3:00-4:00*  | [Lab: Xcode Setup & iPad Worktime](./xcode_intro_lab.markdown) | Complete | |
-|*4:00-4:15*  | Wrap Up | Assigned | EM |
+|*4:00-4:15*  | Wrap Up | Assigned | Amy |
 
 ### Day 2
 
@@ -28,7 +28,7 @@
 |*1:30-2:30*  | [Lab: Conditionals](./conditionals_lab.markdown) | _Needs Review_ | Amy |
 |*2:30-3:00*  | Class: Arrays | Assigned | Pam  |
 |*3:00-4:00*  | Lab: Arrays & Iteration | Assigned | Pam  |
-|*4:00-4:15*  | Wrap Up | Assigned | EM |
+|*4:00-4:15*  | Wrap Up | Assigned | Amy |
 
 ### Day 3
 
@@ -43,7 +43,7 @@
 |*1:30-2:30*  | Lab: Practicing Loops | Assigned | Leta |
 |*2:30-3:00*  | [Class: Dictionaries](./dictionaries_slides.markdown) | _Needs Review_ | Amy |
 |*3:00-4:00*  | [Lab: Using Dictionaries](./dictionaries_lab.markdown) | _Needs Review_ | Amy |
-|*4:00-4:15*  | Wrap Up | Assigned | EM |
+|*4:00-4:15*  | Wrap Up | Assigned | Amy |
 
 ### Day 4
 
@@ -58,7 +58,7 @@
 |*2:00-3:00*  | Lab: Flight Controls | Assigned | Jeff |
 |*3:00-3:30*  | Worktime: Finishing Touches | | |
 |*3:30-4:00*  | Collective: Gallery Walk | Assigned | EM |
-|*4:00-4:15*  | Wrap Up | Assigned | EM |
+|*4:00-4:15*  | Wrap Up | Assigned | Amy |
 
 ### Day 5
 
@@ -73,7 +73,7 @@
 |*1:30-2:30*  | Lab: Working with Code | Assigned | Amy |
 |*2:30-3:00*  | Demo: Viewfinder | | _Author Needed_ |
 |*3:00-4:00*  | Feedback: Retrospective & Survey | Assigned | EM |
-|*4:00-4:15*  | Wrap Up | Assigned | EM |
+|*4:00-4:15*  | Wrap Up | Assigned | Amy |
 
 ### Day 6
 
@@ -88,7 +88,7 @@
 |*1:30-2:30*  | Lab: Building the "About" Page |  | _Author Needed_ |
 |*2:30-3:00*  | Class: Manipulating Images | | _Author Needed_ |
 |*3:00-4:00*  | Lab: Resizing & Cropping | | _Author Needed_ |
-|*4:00-4:15*  | Wrap Up | Assigned | EM |
+|*4:00-4:15*  | Wrap Up | Assigned | Amy |
 
 ### Day 7
 
@@ -103,7 +103,7 @@
 |*1:30-2:30*  | Collaboration: Emoji & Text Worktime |  | _Author Needed_ |
 |*2:30-3:00*  | Trajectory: Careers in Tech | Assigned | EM |
 |*3:00-4:00*  | Lab: Careers Research | Assigned | EM |
-|*4:00-4:15*  | Wrap Up | Assigned | EM |
+|*4:00-4:15*  | Wrap Up | Assigned | Amy |
 
 ### Day 8
 
@@ -118,7 +118,7 @@
 |*1:30-2:30*  | Collaboration: Paired Worktime |  | _Author Needed_ |
 |*2:30-3:00*  | Class: Storing & Sharing Images |  | _Author Needed_ |
 |*3:00-4:00*  | Lab: Implementing Storing & Sharing |  | _Author Needed_ |
-|*4:00-4:15*  | Wrap Up | Assigned | EM |
+|*4:00-4:15*  | Wrap Up | Assigned | Amy |
 
 ### Day 9
 
@@ -133,7 +133,7 @@
 |*1:30-2:30*  | Lab: Writing Your Demo |  | _Author Needed_ |
 |*2:30-3:00*  | Class: Demo Practice |  | _Author Needed_ |
 |*3:00-4:00*  | ? |  | _Author Needed_ |
-|*4:00-4:15*  | Wrap Up | Assigned | EM |
+|*4:00-4:15*  | Wrap Up | Assigned | Amy |
 
 ### Day 10
 
@@ -147,4 +147,4 @@
 |*1:30-2:30*  | Lab: Taking Your Work With You | Assigned | Amy |
 |*2:30-3:00*  | Pro Skills: Where to Go from Here | Assigned | EM |
 |*3:00-4:00*  | Lab: Idea Generation & Survey | Assigned | EM |
-|*4:00-4:15*  | Wrap Up | Assigned | EM |
+|*4:00-4:15*  | Wrap Up | Assigned | Amy |
