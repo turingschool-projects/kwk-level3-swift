@@ -4,13 +4,13 @@
 
 |Time|Session|Status|Assigned|
 |---|---|---|---|
-|*9:15-9:30*  | Opening Circle| Assigned | EM |
-|*9:30-10:00* | [Class: Intro to Playgrounds](playgrounds/intro_to_playgrounds_slides.markdown)| Complete | |
-|*10:00-11:00*| [Lab: Commands & Functions (iPad)]((playgrounds/commands_and_functions_lab.markdown))| Complete | |
-|*11:00-12:00*| Collaboration: Work Styles & Strengthsfinder| Assigned | EM |
+|*9:15-9:30*  | Opening Circle | Assigned | EM |
+|*9:30-10:30*  | Welcome to KWK | | _Author Needed_ |
+|*10:30-11:00* | [Class: Intro to Playgrounds](playgrounds/intro_to_playgrounds_slides.markdown)| Complete | |
+|11:00-12:00*| [Lab: Commands & Functions (iPad)]((playgrounds/commands_and_functions_lab.markdown))| Complete | |
 |*12:00-1:00* | Lunch|
-|*1:00-1:30*  | [Class: How to Pair](playgrounds/how_to_pair_slides.markdown)| Complete | |
-|*1:30-2:30*  | _UP FOR GRABS_ | Assigned | Amy |
+|*1:00-2:00*| Collaboration: Work Styles & Strengthsfinder| Assigned | EM |
+|*2:00-2:30*  | [Class: How to Pair](playgrounds/how_to_pair_slides.markdown)| Complete | |
 |*2:30-3:00*  | [Class: Xcode Intro](./xcode_intro_slides.markdown) | Complete | |
 |*3:00-4:00*  | [Lab: Xcode Setup & iPad Worktime](./xcode_intro_lab.markdown) | Complete | |
 |*4:00-4:15*  | Wrap Up | Assigned | EM |
