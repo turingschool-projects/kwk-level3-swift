@@ -9,8 +9,8 @@
 |*10:00-11:00*| [Lab: Commands & Functions (iPad)]((playgrounds/commands_and_functions_lab.markdown))| Complete | |
 |*11:00-12:00*| Collaboration: Work Styles & Strengthsfinder| Assigned | EM |
 |*12:00-1:00* | Lunch|
-|*1:00-1:30*  | [Class: How to Pair](playgrounds/how_to_pair_slides.markdown)| Complete | _Reviewer Needed_ |
-|*1:30-2:30*  | [Lab: Functions & For Loops (iPad)](playgrounds/functions_and_for_loops_lab.markdown)| Early Draft | Leta |
+|*1:00-1:30*  | [Class: How to Pair](playgrounds/how_to_pair_slides.markdown)| Complete | |
+|*1:30-2:30*  | _UP FOR GRABS_ | Assigned | Amy |
 |*2:30-3:00*  | [Class: Xcode Intro](./xcode_intro_slides.markdown) | Complete | |
 |*3:00-4:00*  | [Lab: Xcode Setup & iPad Worktime](./xcode_intro_lab.markdown) | Complete | |
 |*4:00-4:15*  | Wrap Up | Assigned | EM |
@@ -26,8 +26,8 @@
 |*12:00-1:00* | Lunch|
 |*1:00-1:30*  | [Class: Conditionals](./conditionals_slides.markdown) | Drafted | Amy |
 |*1:30-2:30*  | [Lab: Conditionals](./conditionals_lab.markdown) | Drafted | Amy |
-|*2:30-3:00*  | Class: For & For-In | Assigned | Leta  |
-|*3:00-4:00*  | Lab: Practicing Loops | Assigned | Leta  |
+|*2:30-3:00*  | Class: Arrays | Assigned | Pam  |
+|*3:00-4:00*  | Lab: Arrays & Iteration | Assigned | Pam  |
 |*4:00-4:15*  | Wrap Up | Assigned | EM |
 
 ### Day 3
@@ -39,10 +39,10 @@
 |*10:00-11:00*| Lab: Methods and Return Values |  | _Author Needed_ |
 |*11:00-12:00*| Challenge: There a Hole in the Bottom of the Sea | Assigned | Brian |
 |*12:00-1:00* | Lunch |
-|*1:00-1:30*  | Arrays | Assigned | Pam |
-|*1:30-2:30*  | Lab: Arrays & Iteration | Assigned | Pam |
-|*2:30-3:00*  | Class: Dictionaries | | _Author Needed_ |
-|*3:00-4:00*  | Lab: Using Dictionaries | | _Author Needed_ |
+|*1:00-1:30*  | Class: For & For-In | Assigned | Leta |
+|*1:30-2:30*  | Lab: Practicing Loops | Assigned | Leta |
+|*2:30-3:00*  | [Class: Dictionaries](./dictionaries_slides.markdown) | _Needs Review_ | Amy |
+|*3:00-4:00*  | [Lab: Using Dictionaries](./dictionaries_lab.markdown) | _Needs Review_ | Amy |
 |*4:00-4:15*  | Wrap Up | Assigned | EM |
 
 ### Day 4
@@ -69,7 +69,7 @@
 |*10:00-11:00*| Lab: Working in Spirals | Assigned | Jeff |
 |*11:00-12:00*| Challenge: ? | Assigned | Jeff |
 |*12:00-1:00* | Lunch |
-|*1:00-1:30*  | Class: Side Loading | Final Draft | Amy |
+|*1:00-1:30*  | [Class: Side Loading](./side_loading_slides.markdown) | Final Draft | Amy |
 |*1:30-2:30*  | Lab: Working with Code | Assigned | Amy |
 |*2:30-3:00*  | Demo: Viewfinder | | _Author Needed_ |
 |*3:00-4:00*  | Feedback: Retrospective & Survey | Assigned | EM |
