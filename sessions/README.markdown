@@ -68,12 +68,12 @@
 |Time|Session|Status|Assigned|
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Technical Warm-Up | Assigned | EM |
-|*9:30-10:00* | Working in Spirals | Assigned | Jeff |
-|*10:00-11:00*| Lab: Working in Spirals | Assigned | Jeff |
-|*11:00-12:00*| Challenge: ? | Assigned | Jeff |
+|*9:30-10:00* | Working in Spirals | Assigned | Amy |
+|*10:00-11:00*| Lab: Working in Spirals | Assigned | Amy |
+|*11:00-12:00*| Class: StoryBoard | Assigned | Amy |
 |*12:00-1:00* | Lunch |
 |*1:00-1:30*  | [Class: Side Loading](./side_loading_slides.markdown) | Final Draft | Amy |
-|*1:30-2:45*  | Lab: Working with Code | Assigned | Amy |
+|*1:30-2:45*  | Challenge: StoryBoard | Assigned | Amy |
 |*2:45-3:15*  | Demo: Viewfinder | | _Author Needed_ |
 |*3:15-4:15*  | Feedback: Retrospective & Survey | Assigned | EM |
 |*4:15-4:45*  | Wrap Up | Assigned | Amy |
