@@ -11,7 +11,7 @@ This is a one-day Swift project for the first week of KWK Level 3 Swift/iOS camp
 
 ## Introduction
 
-Let's imagine that we're pilots setting off across the country. Maybe you decide to being the Kode with Klossy tour and will visit every city where KWK camps are happening. Let's build an tool to help plan our routes and keep track of things like travel time and fuel consumption.
+Let's imagine that we're pilots setting off to fly cross-country. Maybe you decide to take the Kode with Klossy tour and will visit every city where KWK camps are happening. Let's build a tool to help plan our routes and keep track of things like travel time and fuel consumption.
 
 ## Process & Theory
 

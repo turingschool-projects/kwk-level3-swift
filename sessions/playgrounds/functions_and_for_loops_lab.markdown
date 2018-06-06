@@ -8,7 +8,7 @@
 
 ## Plan
 
-In this session you'll work through the second set of tutorials in the Swift Playgrounds. You have about one hour of work time.
+In this session you'll work through the second set of tutorials in the Swift Playgrounds. You will have about one hour of work time.
 
 ### Getting Started
 
@@ -22,6 +22,6 @@ In this session you'll work through the second set of tutorials in the Swift Pla
 
 #### Expected
 
-#### The Big Finish
+#### Extension
 
 ## Circle Back

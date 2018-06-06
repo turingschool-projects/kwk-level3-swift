@@ -29,3 +29,8 @@ We will anchor the camp around the following principles:
 
 * Original planning Google Doc: https://docs.google.com/document/d/1uk-7OTh2PfcIIC4guN64e6yH3IWTkuSsD9tqoip3yio/edit
 * Viewfinder Project: https://github.com/turingschool/kwk-camera-app
+
+## Collaboration
+
+* If you are working on or need review of any materials, please make sure that is reflected in the appropriate table in the [sessions README](./sessions/README.markdown) so work is not overlapped.
+* Slides and Lab markdowns should be inside the sessions directory, and should end with `_slides` and `_lab` respectively - when the class and lab names do match exactly, the beginning of those files names should as well.
