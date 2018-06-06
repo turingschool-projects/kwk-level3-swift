@@ -19,11 +19,10 @@ We'll build the project in several iterations. The goal is that each iteration s
 
 ## Iterations
 
-So today we'll build the project in several parts:
+Today we'll build the project in several parts:
 
 * [I0: Up and Running](i0_up_and_running.markdown)
-* [I1: Liftoff & Landing](i1_liftoff_and_landing.markdown)
-* I2: Destinations & Routes
-* I3: Passengers & Cargo
-* I4: Running Simulations
-* I5: Extensions
+* [I1: Destinations](i1_destinations.markdown)
+* [I2: Distances](i2_distances.markdown)
+* [I3: Fuel & Refueling](i3_fuel_and_refueling.markdown)
+* I4: Extensions
