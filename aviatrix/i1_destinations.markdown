@@ -140,3 +140,108 @@ Where would you like to fly to?
 2) Denver (768 miles)
 3) Salt Lake City (1150 miles)
 ```
+
+Try flying to Denver -- but you'll find we're still stuck in St. Louis!
+
+### Flying
+
+We're displaying the menu of destinations. We're allowing the user to pick a destination. But our plane isn't budging.
+
+#### Reading the Simulator
+
+Back in the simulator look at the `fly` method. You'll find a line that looks like this:
+
+```
+plane.fly_to(destinations[number])
+```
+
+Let's break that down:
+
+* The `number` here is the menu option number that the user typed in, like `2` for Denver
+* `destinations` is an array that came from the `known_destinations` method we wrote earlier. So `destinations` contains the array `[:st_louis, :phoenix, :denver, :slc]`
+* `destinations[number]` when the `number` is `2` is like `destinations[2]` which picks out the marker `:denver`
+* So when our instruction runs it's really like `plane.fly_to(:denver)`
+
+We'll need to work on that `fly_to` method.
+
+#### `fly_to`
+
+In Aviatrix, find the `fly_to` method. It looks like this:
+
+```
+def fly_to(destination)
+  true #stub
+end
+```
+
+The `destination` that comes in is the marker like `:denver`. *Can you write one line here that stores that marker into the plane's `location` variable?
+
+Test it in your simulator and -- you're still in St. Louis???
+
+#### `location_name`
+
+Elsewhere in Aviatrix you'll find this `location_name` method:
+
+```
+def location_name
+  "St. Louis" #stub
+end
+```
+
+The job of this method is to turn a marker like `:st_louis` into a name the user is going to read like `"St. Louis"`. But right now the stub is just always saying "St. Louis", even if we're in Denver.
+
+*Can you revise this method so that it turns the current `location` marker into the real name of the city? HINT: Use the dictionary from the `location_names` method in `AviatrixData`.*
+
+When it works, your simulator should allow your plane to fly between the cities correctly.
+
+#### Dream Destinations
+
+Can you add a destination to the application? You'll need to carefully change `AviatrixData`:
+
+* Start by making a marker for the destination in the `location_names` method
+* Make up a gas price and add it to the `fuel_prices` method
+* The hard part is `known_distances`. Your best bet is to carefully copy and paste one of the existing dictionaries. You'll need to add your destination to each of the existing lists. Take extra care to add commas where needed!
+
+If you'd like to use realistic distances, you can [use this online air mileage calculator](http://www.webflyer.com/travel/mileage_calculator/).
+
+If you got one new destination to work correctly, feel free to add a couple more!
+
+## What We've Got
+
+After this work, when you run the simulator:
+
+* The `plane_data` is still mostly blank, but our `Location` is accurate
+* Flying to a different city works and we can move city to city
+* Refueling doesn't do anything yet
+
+Make sure your code works like that before you move on.
+
+## Extra Challenge
+
+Was flying around too easy for you? How about a tricky challenge?
+
+It would be neat if, when the simulator listed out the possible destinations, they were ordered by distance from the current city.
+
+When we're in St. Louis we would currently see:
+
+```
+Where would you like to fly to?
+
+0) St. Louis (0 miles)
+1) Phoenix (1260 miles)
+2) Denver (768 miles)
+3) Salt Lake City (1150 miles)
+```
+
+But if this ordering were in place we'd see:
+
+```
+Where would you like to fly to?
+
+0) St. Louis (0 miles)
+1) Denver (768 miles)
+2) Salt Lake City (1150 miles)
+3) Phoenix (1260 miles)
+```
+
+You'll have to change code in the simulator to make this happen. Can you figure it out?
