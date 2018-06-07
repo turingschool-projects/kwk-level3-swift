@@ -124,7 +124,17 @@ The `known_distances` method is returning a dictionary. `:st_louis` is a key in 
 
 So the code `known_distances[:st_louis][:phoenix]` gets us the distance between St. Louis and Phoenix. We we look at our `distance_to` method we have an argument named `target` that is the city we're heading to.
 
-*Write code in your `distance_to` method that finds the distance between St. Louis and your `target`*
+*Write code in your `distance_to` method that finds the distance between St. Louis and your `target`*. Check the output you see in the simulator against the numbers in `AviatrixData`.
+
+#### Planning for the Future
+
+You probably ended up with a line of code that looked like this:
+
+```
+AviatrixData.known_distances[:st_louis][target]
+```
+
+That'll work great as long as our current location is St. Louis. But we're about to start moving around. How can you modify this line so that it works based on our current location?
 
 #### Results
 
@@ -214,7 +224,7 @@ After this work, when you run the simulator:
 * Flying to a different city works and we can move city to city
 * Refueling doesn't do anything yet
 
-Make sure your code works like that before you move on.
+Make sure your code works like that before you move on to [I2: Distances](./i2_distances.markdown).
 
 ## Extra Challenge
 
