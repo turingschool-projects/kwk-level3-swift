@@ -7,7 +7,14 @@ As you can see in the simulator, our plane should be able to fly places. But all
 When this iteration is done we should be able to fly between known cities. When we run the simulator and hit `b` to fly we will see some output like this:
 
 ```
-<TODO: Fill in finished output>
+Where would you like to fly to?
+
+0) St. Louis (0 miles)
+1) Phoenix (1260 miles)
+2) Denver (768 miles)
+3) Salt Lake City (1150 miles)
+
+Destination Number:
 ```
 
 ## The Data
@@ -224,7 +231,7 @@ After this work, when you run the simulator:
 * Flying to a different city works and we can move city to city
 * Refueling doesn't do anything yet
 
-Make sure your code works like that before you move on to [I2: Distances](./i2_distances.markdown).
+Make sure your code works like that before you move on to [I2: Distances](./i2_distances_and_fuel.markdown).
 
 ## Extra Challenge
 

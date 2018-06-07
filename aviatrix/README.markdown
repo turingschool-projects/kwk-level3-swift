@@ -23,6 +23,4 @@ Today we'll build the project in several parts:
 
 * [I0: Up and Running](i0_up_and_running.markdown)
 * [I1: Destinations](i1_destinations.markdown)
-* [I2: Distance and Fuel](i2_distances_and_fuel.markdown)
-* [I3: Fuel & Refueling](i3_fuel_and_refueling.markdown)
-* I4: Extensions
+* [I2: Distance and Fuel](i2_distance_and_fuel.markdown)
