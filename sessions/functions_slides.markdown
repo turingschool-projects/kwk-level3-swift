@@ -94,6 +94,7 @@ func walkDog(numberOfDogs : 4)
 
 ^ Show this slide, explain that the 4 that is passed into the function call is substituted into the function, so anytime the function sees the variable `numberOfDogs` - it will substitute 4 in for that variable.
 Be careful - the spaces surrounding the ":" in the function declaration's () DO matter - (numberOfDogs : Int) works and (numberOfDogs:Int) work buts (numberOfDogs :Int) or (numberOfDogs: Int) do NOT work.
+
 ---
 
 # Arguments - Example
