@@ -9,7 +9,6 @@ slidenumbers: true
 
 * Students will be able to use function syntax to package a set of commands, including arguments and return values
 * Students will be able to follow the flow of arguments throughout a function
-* Students will be able to predict the return value of a function based on syntax and calculations
 
 ---
 
