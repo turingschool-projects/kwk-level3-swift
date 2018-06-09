@@ -9,7 +9,7 @@ slidenumbers: true
 
 * Students will be able to create a class and objects
 * Students will be able to explain the difference between a class and an object
-* Students will be able to create dynamic objects using the init function and properties.
+* Students will be able to create dynamic objects using the init function and properties
 
 ---
 
@@ -90,7 +90,7 @@ print(newStudent)
 MODEL: Instructor should model putting this code into their project's main.swift. Be careful - to run the code, you have to click the play button in top left-ish, OR `cmd + r `. ALSO, you have to open up the console drawer - click the center of the three icons in top right corner of Xcode.
 Notice that when you print(newStudent) - we get `ClassesObjects.Student` - that tells me this is an object from the class of 'Student'. Cool, but I wanted to the information - grade and studying - to show up.
 Change your print statement to print(newStudent.grade) and add in print(newStudent.studying) and print(newStudent.name) - run `cmd + r` again, and you should see `10`, then `Swift`, then `the name you typed in` printed out to the console.
-Explain to the students that by calling "dot then a property" we are accessing a specific property of this OBJECT.
+Explain to the students that by calling "dot then a property" we are **accessing** a specific property of this OBJECT. ACCESS -- in this case, checking or using the value of a property.
 
 ---
 
@@ -133,7 +133,7 @@ You should now see the print statement reflecting the new name that was passed i
 
 
 ^ Inside the code block of the class, we can add functions!
-This means that every object created from a class, will have access to this function. Let's write one so we can see it in action.
+This means that every object created from a class, will have **access** to this function. Let's write one so we can see it in action. ACCESS -- allowed to use in this case
 <Move to Xcode to model>
 MODEL: write a function `writeCode() { }` inside the code block, print a string of "\(name) is busy writing code!"
 Go back to main.swift, call newStudent.writeCode() and `cmd + r`! You should see a sentence printed to the console.

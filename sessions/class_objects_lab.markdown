@@ -1,35 +1,51 @@
-# Lab Notes: TITLE OF LAB
+# Lab Notes: Classes and Objects
 
 ## Learning Goals
 
-* Students will ...
-* Students will ...
+* Students will use correct syntax to create classes, variables, and init functions
+* Students will be able to access property information from an object
+* Students will be able to explain how objects created from the same class can have different values stored in the properties
 
 ## Plan
 
-Give the instructor a 1-2 sentence overarching explanation of this lesson
-
+You will have some time to create your own class and some objects from it! You will have plenty of partner time to brainstorm and really plan out your code before you start coding.
 
 ### Getting Started
 
-* Provide directions for any set up needed
-* Some common ones - open an XCode Playground, Project, or get on your iPad Swift Playgrounds App.
+* On your laptop, find the Xcode application by typing `cmd + space`, typing in `xcode`, then press return
+* Click `Create a new Xcode project`
+* Under `Choose a template for your new project`, select `macOS`
+* Under `Application`, select `Command Line Tool`
+* Click the blue `Next` button in the bottom right corner
+* You will be prompted to save this file. The default name is `MyPlayground` - let's change that to "ClassesAndObjects", then click the blue `Create` button in the bottom right corner
 
-### TOPIC TITLE
+### Classes
 
-Info on topic - maybe some background/rationale that was on the slides from class
+In programming, we think of `classes` as blueprints or cookie cutters. They give us the framework for an object, when a lot of objects may have something (or many things!) in common.
 
 #### Expected
 
-* This should be a set of activities that kids need to do to practice/ eventually demonstrate they have this concept down.
+* With your partner, brainstorm another class. Remember, we used Student because all students share some things, and also had some unique things about them. If you are struggling for an idea, Car and Dog are both commonly used to practice work with classes 🚗 🐶
+* With your partner, write a list of properties your class should have. What is true about every ____? (If you are talking about a car, every car has wheels...)
+* What function, or action, do you want your _____ to take? (If it's a car, I would want it to drive forward, reverse, stop...) Come up with at least 2 actions!
+* Create a new (macOS, Swift) file inside of the ClassesAndObjects folder, name it the same thing you will name your class
+* Write your class
+* Create variables for the properties your class needs
+* Write the actions for your class
+* In main.swift, create at least one object with this class and do some printing to make sure your class is behaving as expected
+* Add in an `init` function so you can pass your class something specific to the object you are creating. (For a car, I would definitely want to make sure the color could change!)
 
 #### Extension
 
-* This is an early finisher/extension activity!
-
+* Read this [blog post](https://www.weheartswift.com/swift-classes-part-2/)
+* What is a scenario where you could use a superclass and subclass?
+* If you still have time, try to build the superclass and subclass you brainstormed. You can just create a new file in the project you've been working in.
 
 ## Circle Back
 
 As we close our tutorial time, we'll either write in our journals or discuss as a group:
 
-- Provide some guiding questions to reflect on - should be a mix of technical and a reflection on challenges/how are you navigating bugs/what is your problem solving like, etc.
+- Why do you think the instructors had you spend so much time brainstorming and writing in your notebooks before coding? What about that process was helpful?
+- What is the difference between a class and an object?
+- What is a NEW example of something that would make a good class? Explain why this would make a good class.
+- What are properties? How do we _access_ the properties of an object (in other words, how do I check what the values of an objects' properties are)?
