@@ -7,10 +7,9 @@ slidenumbers: true
 
 # Learning Goals
 
-* Students will
-
-- command line tool, --> macOS project
-- maybe i'll just have a starter repo for them to download?? how does that wokr??
+* Students will be able to create a class and objects
+* Students will be able to explain the difference between a class and an object
+* Students will be able to create dynamic objects using the init function and properties.
 
 ---
 
@@ -137,5 +136,21 @@ This means that every object created from a class, will have access to this func
 write a function `writeCode() { }` inside the code block, print a string of "\(name) is busy writing code!"
 Go back to main.swift, call newStudent.writeCode() and `cmd + r`! You should see a sentence printed to the console.
 Re-iterate that `writeCode()` is a function, but more specifically an ACTION for this class, and this class only. You can even try calling it in main.swift withOUT the newStudent, preceding it, and see an error!
+
+---
+
+# Classes vs. Objects
+
+* Classes are the blueprints or cookie cutters
+* Objects are created from the class - in many cases we will pass an argument in to create a class that changes it's properties.
+* There can be MANY objects that are created from just one class!
+
+^ Consider doing a turn-and-talk before showing the slides here to get students talking/gauge their understanding of the difference.
+As you explain, encourage students to share their understanding/any other metaphor they've developed to make sense of this.
+MODEL: Go back into your main.swift and create a new object with the student class - or several!
+Example:
+var secondStudent = Student("Christie")
+var thirdStudent = Student("Cindy")
+Print out all the information about each object to show that they all share writeCode() and studying, but all have their own names.
 
 ---
