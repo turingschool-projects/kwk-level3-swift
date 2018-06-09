@@ -19,8 +19,6 @@ slidenumbers: true
 * The key can be thought of as a title
 * The value is usually the meat of the data we care about
 
-^ This is a comment for presenter notes!
-
 ---
 
 # When would we use them?
@@ -42,7 +40,7 @@ Turn and Talk: For each set of data, would an array or dictionary be better to s
 - List of students and their birthdays
 
 ^ Packing - dictionary, Students - array, State/Capitals - dictionary, Instagram - array, Students/Birthdays - dictionary
-^ Lead a discussion on why each data type is better for the given list
+Lead a discussion on why each data type is better for the given list
 ---
 
 # Create a Dictionary
@@ -95,10 +93,21 @@ phones["apple"] = nil
 
 ---
 
+# Start a dictionary with data
+
+```
+var phones = [
+  "apple": "iPhone",
+  "google": "Pixel 2"
+  ]
+```
+
+---
+
 # Whiteboards
 
 Create a dictionary with a list of 3 people (yourself, family, friends, or other students here!) and their birthdays
 
-^ Give campers ~5 minutes to white board, have partners give feedback, and then lead a debrief on how everyone did it (there should be little variation)
+^ Give students ~5 minutes to white board, have partners give feedback, and then lead a debrief on how everyone did it (there should be little variation)
 
 ---
