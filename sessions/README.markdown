@@ -6,11 +6,11 @@
 |---|---|---|---|
 |*9:15-9:30*  | Opening Circle | Assigned | EM |
 |*9:30-10:30* | Welcome to KWK | | _Author Needed_ |
-|*10:30-11:00*| [Class: Intro to Playgrounds](playgrounds/intro_to_playgrounds_slides.markdown)| Complete | |
-|11:00-12:00* | [Lab: Commands & Functions (iPad)]((playgrounds/commands_and_functions_lab.markdown))| Complete | |
+|*10:30-11:00*  | Collaboration: Work Styles & Strengthsfinder| Assigned | EM |
+|*11:00-12:00*  | [Class: How to Pair](playgrounds/how_to_pair_slides.markdown)| Complete | |
 |*12:00-1:00* | Lunch|
-|*1:00-2:00*  | Collaboration: Work Styles & Strengthsfinder| Assigned | EM |
-|*2:00-2:30*  | [Class: How to Pair](playgrounds/how_to_pair_slides.markdown)| Complete | |
+|*1:00-1:30*| [Class: Intro to Playgrounds](playgrounds/intro_to_playgrounds_slides.markdown)| Complete | |
+|*1:30-2:30* | [Lab: Commands & Functions (iPad)]((playgrounds/commands_and_functions_lab.markdown))| Complete | |
 |*2:30-2:45*  | [Class: Xcode Intro](./xcode_intro_slides.markdown) | Complete | |
 |*2:45-3:15*  | [Data Types & Variables](./data_types_slides.markdown) | _Needs Review_ | Mike |
 |*3:15-4:15*  | [Lab: Variables, Strings, and Printing](./data_types_lab.markdown) | _Needs Review_ | Mike |
@@ -28,8 +28,8 @@
 |*1:00-1:30*  | Class: Arrays | Assigned | Pam  |
 |*1:30-2:30*  | Lab: Arrays & Iteration | Assigned | Pam  |
 |*2:30-2:45*  | Brain Break |  |  |
-|*2:45-3:15*  | Intro to Methods |  | Amy |
-|*3:15-4:15*  | Lab: Methods and Return Values |  | Amy |
+|*2:45-3:15*  | [Intro to Functions](./functions_slides.markdown) | _Needs Review_ | Amy |
+|*3:15-4:15*  | [Lab: Functions](./functions_lab.markdown) | _Needs Review_  | Amy |
 |*4:15-4:45*  | Wrap Up | Assigned | Amy |
 
 ### Day 3
@@ -44,8 +44,8 @@
 |*1:00-1:30*  | [Class: Dictionaries](./dictionaries_slides.markdown) | _Needs Review_ | Amy |
 |*1:30-2:15*  | [Lab: Using Dictionaries](./dictionaries_lab.markdown) | _Needs Review_ | Amy |
 |*2:15-2:30*  | Brain Break | |  |
-|*2:30-3:15*  | [Class: Classes and Objects]() | Assigned | Amy |
-|*3:15-4:15*  | [Lab: Classes and Objects]() | Assigned | Amy |
+|*2:30-3:15*  | [Class: Classes and Objects](./classes_objects_slides.markdown) | Assigned | Amy |
+|*3:15-4:15*  | [Lab: Classes and Objects](./classes_objects_lab.markdown) | Assigned | Amy |
 |*4:15-4:45*  | Wrap Up | Assigned | Amy |
 
 ### Day 4
