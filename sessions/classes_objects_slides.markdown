@@ -46,7 +46,7 @@ Let's actually LOOK at a class
 
 ```
 class Student {
-
+  // code will go here
 }
 ```
 
@@ -54,7 +54,7 @@ class Student {
 
 # Working with Classes in Xcode, Properties
 
-* create project --> macOd --> Terminal App
+* create project --> macOS --> Terminal App
 * create new file in main directory - in that file:
 
 
@@ -64,8 +64,8 @@ class Student {
 }
 ```
 
-^ Instructor should model going through the process of creating a Terminal app in Xcode and creating new file.
-Model writing the class syntax - THEN:
+^ MODEL: Instructor should model going through the process of creating a Terminal app in Xcode and creating new file.
+Walk through writing the class syntax - THEN:
 - add inside of the class code block:     
 var grade = 10
 var studying = "Swift"
@@ -85,8 +85,9 @@ print(newStudent)
 ```
 
 
-^ FIRST: Explain that newStudent is a variable which stores a student object. Back to cookie cutter reference, it is a cookie that was created by the Student cookie cutter.
-SECOND: Instructor should model putting this code into their project's main.swift. Be careful - to run the code, you have to click the play button in top left-ish, OR `cmd + r `. ALSO, you have to open up the console drawer - click the center of the three icons in top right corner of Xcode.
+^ Explain that newStudent is a variable which stores a student object. Back to cookie cutter reference, it is a cookie that was created by the Student cookie cutter.
+<Move to Xcode to model>
+MODEL: Instructor should model putting this code into their project's main.swift. Be careful - to run the code, you have to click the play button in top left-ish, OR `cmd + r `. ALSO, you have to open up the console drawer - click the center of the three icons in top right corner of Xcode.
 Notice that when you print(newStudent) - we get `ClassesObjects.Student` - that tells me this is an object from the class of 'Student'. Cool, but I wanted to the information - grade and studying - to show up.
 Change your print statement to print(newStudent.grade) and add in print(newStudent.studying) and print(newStudent.name) - run `cmd + r` again, and you should see `10`, then `Swift`, then `the name you typed in` printed out to the console.
 Explain to the students that by calling "dot then a property" we are accessing a specific property of this OBJECT.
@@ -116,7 +117,8 @@ init(studentName : String) {
 }
 ```
 ^ Let's add this init function into our class, giving it an argument of studentName, which is a string.
-Inside of init, let's re-assign `name` to whatever studentName was passed in.
+<Move to Xcode to model>
+MODEL: Inside of init, let's re-assign `name` to whatever studentName was passed in.
 This won't work quite yet - we need to hop back over to main.swift - if we try to run this, we will see an error because Student() is now expecting an argument (it is recommended you SHOW this error to this students!)
 let's pass it Student(studentName : "Pick another name") and re-run.
 You should now see the print statement reflecting the new name that was passed in.
@@ -133,7 +135,7 @@ You should now see the print statement reflecting the new name that was passed i
 ^ Inside the code block of the class, we can add functions!
 This means that every object created from a class, will have access to this function. Let's write one so we can see it in action.
 <Move to Xcode to model>
-write a function `writeCode() { }` inside the code block, print a string of "\(name) is busy writing code!"
+MODEL: write a function `writeCode() { }` inside the code block, print a string of "\(name) is busy writing code!"
 Go back to main.swift, call newStudent.writeCode() and `cmd + r`! You should see a sentence printed to the console.
 Re-iterate that `writeCode()` is a function, but more specifically an ACTION for this class, and this class only. You can even try calling it in main.swift withOUT the newStudent, preceding it, and see an error!
 
@@ -147,6 +149,7 @@ Re-iterate that `writeCode()` is a function, but more specifically an ACTION for
 
 ^ Consider doing a turn-and-talk before showing the slides here to get students talking/gauge their understanding of the difference.
 As you explain, encourage students to share their understanding/any other metaphor they've developed to make sense of this.
+<Move to Xcode to model>
 MODEL: Go back into your main.swift and create a new object with the student class - or several!
 Example:
 var secondStudent = Student("Christie")
