@@ -144,3 +144,13 @@ Feel free to put this code on a slide or just continue modeling in the playgroun
 let minutesToWalk = walkDogs(numberOfDogs : 3)
 print("Please walk the dogs. I will expect to see you complete that task in \(minutesToWalk) minutes!")
 The "let" was used because minutes to walk is not changed. If you are curious, try starting with var then noticing the warning Xcode throws.
+
+---
+
+# Functions - Lab
+
+* Give your robot another job!
+* Make sure to follow the directions closely, taking time to plan everything in your notebook with your partner
+
+^ Circulate and listen in on brainstorming. As girls ask for approval, make sure you think ahead as to what arguments could be passed in given the task they want their robot to complete.
+Make sure they are NOT jumping straight into their code and are really planning out the commands before coding. 
