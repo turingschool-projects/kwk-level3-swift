@@ -6,15 +6,13 @@
 * Students will assign things to variables.
 
 
-## Plan
-
-### String Concatenation
+### String Interpolation
 
 String values can be added together (or concatenated) with the addition operator (+) to create a new String value:
 
 let string1 = "hello"
 let string2 = " there"
-var welcome = string1 + string2
+var welcome = "\(string1) \(string2)"
 // welcome now equals "hello there
 
 If you have the strings `"First"` and `"Last"` in the following variables:
@@ -24,7 +22,7 @@ var f = "First"
 var l = "Last"
 ```
 
-Use *only* the "string concatenation" technique to complete the following:
+Use *only* the "string interpolation" technique to complete the following:
 
 1. What code can you write to output the string `"FirstLast"`?
 2. What code can you write to output the string `"LastFirst"`?
@@ -45,15 +43,11 @@ var d = 98
 
 1. Write code to find the average of these four numbers.
 2. Find the average yourself using paper or a calculator. Is your answer different than you found in A? Why?
-3. Say you have the operation `a + b * c / d`. What result do you get out from Ruby? What other outputs can you
-get out by adding one or more pairs of parentheses to the equation?
+3. Say you have the operation `a + b * c / d`. What result do you get out from Ruby? What other outputs can you get out by adding one or more pairs of parentheses to the equation?
 
 ### Happy Birthday
 
-In our family we like to say "Happy" once for every year of your age when we say "Happy birthday!". So when you turn
-four we'd say "Happy happy happy happy birthday!" Note the capitalization.
-
-Say you have an `age` variable that holds the person's age. Write code to output the appropriate greeting.
+Let's sing Happy Birthday to our favorite celebrity. Their name should be stored in a variable, just in case you want to sing to someone else.
 
 ### String Compression
 

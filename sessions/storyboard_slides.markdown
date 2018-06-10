@@ -7,8 +7,16 @@ slidenumbers: true
 
 # Learning Goals
 
-* Learning Goal 1
-* Learning Goal 2
+* Students will be able to build a UI by navigating Xcode tools
+* Students 
+
+---
+
+# Technical Vocabulary
+
+* StoryBoard
+* UI
+*
 
 ---
 
