@@ -171,15 +171,15 @@ Where would you like to fly to?
 3) Salt Lake City (1150 miles)
 ```
 
-Try flying to Denver -- but you'll find we're still stuck in St. Louis!
+Try flying to Denver -- you'll get this message: "🛬 You've arrived in St. Louis!" Hmm... I thought we just flew to Denver? Looks like we have some more work to do.
 
 ### Flying
 
-We're displaying the menu of destinations. We're allowing the user to pick a destination. But our plane isn't budging.
+We're displaying the menu of destinations. We're allowing the user to pick a destination. But our plane isn't moving.
 
 #### Reading the Simulator
 
-Back in the simulator look at the `fly` method. You'll find a line that looks like this:
+Back in the simulator look at the `fly` method (inside the 'if' statement). You'll find a line that looks like this:
 
 ```
 plane.fly_to(destinations[number])
@@ -204,7 +204,8 @@ def fly_to(destination)
 end
 ```
 
-The `destination` that comes in is the marker like `:denver`. *Can you write one line here that stores that marker into the plane's `location` variable?
+The `destination` that comes in is the marker like `:denver`. 
+*Can you write one line here that stores that marker into the plane's `location` variable?
 
 Test it in your simulator and -- you're still in St. Louis???
 
