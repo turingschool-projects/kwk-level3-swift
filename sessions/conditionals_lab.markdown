@@ -34,7 +34,7 @@ Flow Control is the idea of controlling where an application goes based on a sit
 * Try changing your `favoriteFood` to Chipotle, then Frappuccino (if it wasn't already). Do you get the expected result?
 
 
-#### The Big Finish
+#### Extension
 
 * Write a conditional that tells a student if they are in elementary, middle, or high school based on their grade level.
 
