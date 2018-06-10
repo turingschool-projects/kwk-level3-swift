@@ -66,7 +66,7 @@ class Student {
 
 ^ MODEL: Instructor should model going through the process of creating a Terminal app in Xcode and creating new file.
 Walk through writing the class syntax - THEN:
-- add inside of the class code block:     
+Add inside of the class code block:     
 var grade = 10
 var studying = "Swift"
 var name = "pick a name!"
