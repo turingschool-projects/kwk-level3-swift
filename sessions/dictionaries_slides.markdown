@@ -10,6 +10,14 @@ slidenumbers: true
 * Students will understand the difference between dictionaries and arrays
 * Students will know why we sometimes choose to use dictionaries over arrays
 * Students will know syntax to create dictionaries and access information from them
+
+---
+
+# Technical Vocabulary
+
+* Dictionary
+* Key/Value pair
+
 ---
 
 # What are they?
