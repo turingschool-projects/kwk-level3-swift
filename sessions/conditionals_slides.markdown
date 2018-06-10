@@ -18,7 +18,6 @@ slidenumbers: true
 * Comparison Operator
 * Evaluate
 
-
 ---
 
 # Flow Control

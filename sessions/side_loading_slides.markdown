@@ -11,6 +11,14 @@ slidenumbers: true
 
 ---
 
+# Technical Vocabulary
+
+* SideLoading
+* Device
+*
+
+---
+
 # Setup
 
 * Open your project in Xcode
@@ -25,14 +33,13 @@ slidenumbers: true
 
 ![inline](slide_images/side_loading_xcode_setup.png)
 
-^ This is a comment for presenter notes!
+
 ---
 
 # Identity
 
 1. Make sure your project name is typed in for 'Display Name'
 2. For the 'Bundle Identifier' field, com.yourName.projectName
-
 
 ---
 
@@ -91,6 +98,7 @@ slidenumbers: true
 * General
 * Device Management
 * Click your email, click button to approve the application
+
 ---
 
 # Run Application on iPad
