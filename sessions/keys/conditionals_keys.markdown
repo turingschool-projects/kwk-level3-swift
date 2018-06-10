@@ -3,12 +3,15 @@
 ```
 var favoriteFood = "Mac N Cheese"
 
-if favoriteFood == "Chipotle"
+if favoriteFood == "Chipotle" {
   print("Chipotle is my favorite, too 🌯")
-else if favoriteFood == "Frappuccino"
+}
+else if favoriteFood == "Frappuccino" {
   print ("My favorite flavor is Chocolate 🍫 ")
-else
+}
+else {
   print("I need to try that one!")
+}
 ```
 ^ Here, we should see "I need to try that one!" print out to the terminal
 
@@ -16,12 +19,15 @@ else
 ```
 var favoriteFood = "Chipotle"
 
-if favoriteFood == "Chipotle"
+if favoriteFood == "Chipotle" {
   print("Chipotle is my favorite, too 🌯")
-else if favoriteFood == "Frappuccino"
+}
+else if favoriteFood == "Frappuccino" {
   print ("My favorite flavor is Chocolate 🍫 ")
-else
+}
+else {
   print("I need to try that one!")
+}
 ```
 ^ Here, we should see "Chipotle is my favorite, too 🌯" print out to the terminal
 
