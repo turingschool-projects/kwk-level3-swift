@@ -21,15 +21,15 @@
 |Time|Session|Status|Assigned|
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Journaling | Assigned | EM |
-|*9:30-10:00* | [Class: Conditionals](./conditionals_slides.markdown) | _Needs Final Review_ | Christie |
-|*10:00-11:00*| [Lab: Conditionals](./conditionals_lab.markdown) | _Needs Final Review_ | Christie |
+|*9:30-10:00* | [Class: Conditionals](./conditionals_slides.markdown) | Complete |  |
+|*10:00-11:00*| [Lab: Conditionals](./conditionals_lab.markdown) | Complete |  |
 |*11:00-12:00*| Challenge: Number Guesser | Assigned | Brian |
 |*12:00-1:00* | Lunch|
 |*1:00-1:30*  | Class: Arrays | Assigned | Pam  |
 |*1:30-2:30*  | Lab: Arrays & Iteration | Assigned | Pam  |
 |*2:30-2:45*  | Brain Break |  |  |
-|*2:45-3:15*  | [Intro to Functions](./functions_slides.markdown) | _Needs Final Review_ | Christie |
-|*3:15-4:15*  | [Lab: Functions](./functions_lab.markdown) | _Needs Final Review_ | Christie |
+|*2:45-3:15*  | [Intro to Functions](./functions_slides.markdown) | Complete |  |
+|*3:15-4:15*  | [Lab: Functions](./functions_lab.markdown) | Complete |  |
 |*4:15-4:45*  | Wrap Up | Assigned | Amy |
 
 ### Day 3
@@ -41,11 +41,11 @@
 |*10:00-11:00*| Lab: Practicing Loops | Assigned | Leta |
 |*11:00-12:00*| Challenge: There a Hole in the Bottom of the Sea | Assigned | Brian |
 |*12:00-1:00* | Lunch |
-|*1:00-1:30*  | [Class: Dictionaries](./dictionaries_slides.markdown) | _Needs Final Review_ | Christie |
-|*1:30-2:15*  | [Lab: Using Dictionaries](./dictionaries_lab.markdown) | _Needs Final Review_ | Christie |
+|*1:00-1:30*  | [Class: Dictionaries](./dictionaries_slides.markdown) | Complete |  |
+|*1:30-2:15*  | [Lab: Using Dictionaries](./dictionaries_lab.markdown) | Complete |  |
 |*2:15-2:30*  | Brain Break | |  |
-|*2:30-3:15*  | [Class: Classes and Objects](./classes_objects_slides.markdown) | _Needs Final Review_ | Christie |
-|*3:15-4:15*  | [Lab: Classes and Objects](./classes_objects_lab.markdown) | _Needs Final Review_ | Christie |
+|*2:30-3:15*  | [Class: Classes and Objects](./classes_objects_slides.markdown) | Complete |  |
+|*3:15-4:15*  | [Lab: Classes and Objects](./classes_objects_lab.markdown) | Complete |  |
 |*4:15-4:45*  | Wrap Up | Assigned | Amy |
 
 ### Day 4
@@ -73,7 +73,7 @@
 |*10:00-11:00*| Lab: Working in Spirals | Assigned | Amy |
 |*11:00-12:00*| [Class: StoryBoard]() | Assigned | Amy |
 |*12:00-1:00* | Lunch |
-|*1:00-1:30*  | [Class: Side Loading](./side_loading_slides.markdown) | _Needs Final Review_ | Christie |
+|*1:00-1:30*  | [Class: Side Loading](./side_loading_slides.markdown) | Complete |  |
 |*1:30-2:45*  | [Challenge: StoryBoard]() | Assigned | Amy |
 |*2:45-3:15*  | Demo: Viewfinder | | Amy |
 |*3:15-4:15*  | Feedback: Retrospective & Survey | Assigned | EM |
