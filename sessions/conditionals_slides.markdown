@@ -12,6 +12,15 @@ slidenumbers: true
 
 ---
 
+# Technical Vocabulary
+
+* Condition
+* Comparison Operator
+* Evaluate
+
+
+---
+
 # Flow Control
 
 * In life, we make decisions based on our current situation:
@@ -24,6 +33,7 @@ slidenumbers: true
 
 ^ Turn and Talk - what are some other examples where we make decisions in real life? How about in apps or programs - besides being logged in/out, where else do we see different things happening?
 The idea of an application doing different things, going in different directions based on what the user wants is called FLOW CONTROL. It's a very important concept because it is constantly being used - no matter what language you work in!
+
 ---
 
 # Comparison Operators
@@ -88,5 +98,16 @@ else {
 etc...
 ```
 ^ The Swift language also gives us a keyword/phrase - `else if`. It works JUST like IF - takes a condition to evaluate, then reads a code block if the condition is met. We also get this ELSE statement, which 'catches' any other situation. If the dog is not less than 2 or greater than 12, the else code will be executed.
+
+---
+
+# Conditionals - Lab
+
+Practice some flow control with your favorite food!
+
+^ Circulate and make sure students are on the right track with setup. Make sure they have declared a favoriteFood variable and assigned it.
+Ask, "why is favoriteFood == "Chipotle" your first condition?"
+"Why do we have to give 'else if' statements a condition?"
+"Why don't we have to give 'else' statements a condition?"
 
 ---
