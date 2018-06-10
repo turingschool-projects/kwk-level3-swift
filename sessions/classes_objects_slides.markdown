@@ -84,7 +84,6 @@ var newStudents = Student()
 print(newStudent)
 ```
 
-
 ^ Explain that newStudent is a variable which stores a student object. Back to cookie cutter reference, it is a cookie that was created by the Student cookie cutter.
 <Move to Xcode to model>
 MODEL: Instructor should model putting this code into their project's main.swift. Be careful - to run the code, you have to click the play button in top left-ish, OR `cmd + r `. ALSO, you have to open up the console drawer - click the center of the three icons in top right corner of Xcode.
@@ -155,5 +154,12 @@ Example:
 var secondStudent = Student("Christie")
 var thirdStudent = Student("Cindy")
 Print out all the information about each object to show that they all share writeCode() and studying, but all have their own names.
+
+---
+
+# Classes & Objects - Lab
+
+* Create your own class!
+* Take the time to plan it out in your notebook before you start coding!
 
 ---

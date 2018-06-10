@@ -42,7 +42,7 @@ Take ten minutes to practice creating a new playground, then:
 * A lot more than writing code goes into building an iOS app, but we do it all in Xcode!
 * A LOT of tools - we will take it one step at a time
 
-^ Model: Open up a new project, walk through every step of setup. Show each pane (see one pager) and the buttons to expand/collapse panes. Show file tree and point out storyboard. Model resizing and moving the storyboard. Show simulator, build status bar, and different device views. Add a couple UI Elements and run simulator. Change colors/fonts, then re-run.
+^ MoODEL: Open up a new project, walk through every step of setup. Show each pane (see one pager) and the buttons to expand/collapse panes. Show file tree and point out storyboard. Model resizing and moving the storyboard. Show simulator, build status bar, and different device views. Add a couple UI Elements and run simulator. Change colors/fonts, then re-run.
 
 ---
 

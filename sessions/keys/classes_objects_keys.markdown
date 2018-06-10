@@ -84,4 +84,4 @@ print("\(student2.name) is in grade \(student2.grade) and studying \(student2.st
 * If you still have time, try to build the superclass and subclass you brainstormed. You can just create a new file in the project you've been working in.
 
   Notes:
-    - Pet could be a superclass, dog and cat could be subclasses. The both have names, ages, and colors of fur. They both play and eat. 
+    - Pet could be a superclass, dog and cat could be subclasses. The both have names, ages, and colors of fur. They both play and eat.

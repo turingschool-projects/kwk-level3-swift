@@ -131,7 +131,7 @@ BOOLEANS might come up - it is simply true or false - they are an important conc
 
 ---
 
-# Data Types Lab
+# Data Types - Lab
 
 * Students will assign values to variables
 * Students will use string interpolation to write sentences

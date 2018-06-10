@@ -15,7 +15,6 @@ slidenumbers: true
 
 * SideLoading
 * Device
-*
 
 ---
 
