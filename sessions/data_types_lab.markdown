@@ -2,9 +2,9 @@
 
 ## Learning Goals
 
-* Students will identify valid data types.
-* Students will assign things to variables.
-
+* Students will assign values to variables
+* Students will use string interpolation to write sentences
+* Students will use math operations to manipulate variables assigned to integers
 
 ### String Interpolation
 

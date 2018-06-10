@@ -7,8 +7,9 @@ slidenumbers: true
 
 # Learning Goals
 
-* Students will be able to differentiate strings, integers, floats and doubles.
+* Students will be able to differentiate strings, integers, floats and doubles
 * Students will be able to create and modify variables
+* Students will be able to use string interpolation to write a sentence using variables
 
 ---
 
@@ -18,6 +19,7 @@ slidenumbers: true
 * Integer
 * Interpolation
 * Variable
+* Keyword
 
 ---
 
@@ -25,7 +27,7 @@ slidenumbers: true
 
 * A string is a series of characters
 
-* In every day words, it's just a bunch of text. This includes letters, numbers, and symbols. We are able to tell when something is a string because it's in between two quotation marks
+* This includes letters, numbers, and symbols. We are able to tell when something is a string because it's in between two quotation marks
 
 * For example, `"Hello, world."` is a string. `"puppies"`. is also a string. And so is `"1234"`
 
@@ -33,10 +35,11 @@ slidenumbers: true
 
 # Numbers
 
-* First we had text, and now we have numbers. But we have to think about numbers slightly differently in Swift. Which is hard. It's natural to think, "What do you mean I have to think about numbers different? They're like, _numbers_. I know how numbers work."
-
 * In the most simple terms possible, we have two kinds of numbers, Integers and Doubles
+* The math operations we use all the time can be used on both of these
 
+^ Lead a quick discussion and write outcomes on whiteboard - what math operations do we have?
+Addition, subtraction, multiplication, division, parenthesis, (if it doesn't come up, I would point out that order of operations is the same as it is in math class.)
 ---
 
 # Integers
@@ -53,7 +56,7 @@ Integers are what we would think of as whole numbers. They can be positive or ne
 
 * The TL;DR is that Doubles have more accuracy than Floats, and you get to choose how much accuracy you want - how many decimal places you can use if you want
 
-* If you ever need a decimal, use a Double because you'll get more accuracy that way
+* If you ever need a decimal, **use a Double** because you'll get more accuracy that way
 
 ---
 
@@ -69,7 +72,7 @@ Integers are what we would think of as whole numbers. They can be positive or ne
 
 * Variables are these things that we use in order to reference and label information that we're going to use in our programs.
 
-* But why should we use variables? First they're kind of a shortcut. Let's say we were working with our address and it's a string, "1313 Mockingbird Lane" it would be annoying to have to type that in every time we wanted to use it.
+* But why should we use variables? They're kind of a shortcut. Let's say we were working with our address and it's a string, "1313 Mockingbird Lane" it would be annoying to have to type that in every time we wanted to use it.
 
 ---
 
@@ -80,6 +83,7 @@ var address = "1313 Mockingbird Lane"
 ```
 
 * What we've done in that line of code above is we told the computer, "Hey, I want you to create a variable called address, and I want you to store in it the string, "1313 Mockingbird Lane".
+* Every time I need to use my address, I only have to type the word `address`!
 
 ---
 
@@ -91,6 +95,10 @@ var address = "1313 Mockingbird Lane"
 
 * We use the `var` keyword here to tell the computer that in this following bit of code, we are going to declare a variable. We have to declare variables before we use them
 
+^ KEYWORDS are special, reserved words in the language. Every programming language has them. We can't use them for any other purpose (variable or function or class name), only if it's in a string.
+Xcode is helpful because it shows all keywords in pink.
+If you tried to write this without the keyword `var` Xcode will throw an error!
+
 ---
 
 # Variables
@@ -101,11 +109,15 @@ var address = "1313 Mockingbird Lane"
 address = "254 Ocean Avenue"
 ```
 * Notice we did NOT use the keyword `var` this time - that's because we REassigned the variable
+
 ---
 
 # Turn and Talk
 
 With your new best friend, can you come up with some other variables and the sorts of things they might hold? Try to come up with variables that would be both numbers and text!
+
+^ Circulate and listen in, have a short discussion afterwards.
+BOOLEANS might come up - it is simply true or false - they are an important concept in programming!
 
 ---
 
@@ -117,5 +129,14 @@ With your new best friend, can you come up with some other variables and the sor
 
 * Solution: "I am \(age) years old"
 
+---
+
+# Data Types Lab
+
+* Students will assign values to variables
+* Students will use string interpolation to write sentences
+* Students will use math operations to manipulate variables assigned to integers
+
+^ The first three challenges are completely aligned with info in slides and students should be able to complete independently; the last challenge is quite difficult so they may need a nudge.
 
 ---
