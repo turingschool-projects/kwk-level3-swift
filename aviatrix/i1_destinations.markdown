@@ -96,6 +96,19 @@ Action: b
 Where would you like to fly to?
 
 0) St. Louis (0 miles)
+1)  (0 miles)
+2)  (0 miles)
+3)  (0 miles)
+```
+
+Since the other cities aren't in our dictionary, they are nil, so nothing shows up. Let's make sure our `location_names` function returns the location names dictionary which is in our `AviatrixData` file.
+
+```
+Action: b
+
+Where would you like to fly to?
+
+0) St. Louis (0 miles)
 1) Phoenix (0 miles)
 2) Denver (0 miles)
 3) Salt Lake City (0 miles)
