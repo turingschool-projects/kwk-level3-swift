@@ -10,7 +10,7 @@
 |*11:00-12:00*  | [Class: How to Pair](playgrounds/how_to_pair_slides.markdown)| Complete | |
 |*12:00-1:00*   | Lunch|
 |*1:00-1:30*    | [Class: Intro to Playgrounds](playgrounds/intro_to_playgrounds_slides.markdown)| Complete | |
-|*1:30-2:30     | [Lab: Commands & Functions (iPad)]((playgrounds/commands_and_functions_lab.markdown))| Complete | |
+|*1:30-2:30*     | [Lab: Commands & Functions (iPad)]((playgrounds/commands_and_functions_lab.markdown))| Complete | |
 |*2:30-2:45*    | [Class: Xcode Intro](./xcode_intro_slides.markdown) | Complete | |
 |*2:45-3:15*    | [Data Types & Variables](./data_types_slides.markdown) | Complete |  |
 |*3:15-4:15*    | [Lab: Variables, Strings, and Printing](./data_types_lab.markdown) | Complete |  |
@@ -25,8 +25,8 @@
 |*10:00-11:00*| [Lab: Conditionals](./conditionals_lab.markdown) | Complete |  |
 |*11:00-12:00*| Challenge: Number Guesser | Assigned | Brian |
 |*12:00-1:00* | Lunch|
-|*1:00-1:30*  | [Class: Arrays](./arrays_slides.markdown) | _Needs Review_ | Pam  |
-|*1:30-2:30*  | [Lab: Arrays & Iteration](./arrays_lab.markdown) | _Needs Review_ | Pam  |
+|*1:00-1:30*  | [Class: Arrays](./arrays_slides.markdown) | _Needs Review_ | |
+|*1:30-2:30*  | [Lab: Arrays & Iteration](./arrays_lab.markdown) | _Needs Review_ | |
 |*2:30-2:45*  | Brain Break |  |  |
 |*2:45-3:15*  | [Intro to Functions](./functions_slides.markdown) | Complete |  |
 |*3:15-4:15*  | [Lab: Functions](./functions_lab.markdown) | Complete |  |
@@ -53,12 +53,12 @@
 |Time|Session|Status|Assigned|
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Journaling | Assigned | EM |
-|*9:30-10:00* | [Aviatrix Intro](../aviatrix) | Change to Swift | Amy |
-|*10:00-11:00*| [Ieration 0: Up and Running](../aviatrix/i0_up_and_running.markdown) | _Needs Review_ | Amy |
-|*11:00-12:00*| [Iteration 1: Destinations](../aviatrix/i1_destinations.markdown) | _Needs Review_ | Amy |
+|*9:30-10:00* | [Aviatrix Intro](../aviatrix) | _Needs Review_ | |
+|*10:00-11:00*| [Ieration 0: Up and Running](../aviatrix/i0_up_and_running.markdown) | _Needs Review_ | |
+|*11:00-12:00*| [Iteration 1: Destinations](../aviatrix/i1_destinations.markdown) | _Needs Review_ | |
 |*12:00-1:00* | Lunch |
-|*1:00-2:00*  | [Iteration 1: Routes](../aviatrix/i1_destinations.markdown) | _Needs Review_ | Amy |
-|*2:00-3:00*  | [Iteration 2: Distance & Fuel](../aviatrix/i2_distance_and_fuel.markdown) | _Needs Review_ | Amy |
+|*1:00-2:00*  | [Iteration 1: Routes](../aviatrix/i1_destinations.markdown) | _Needs Review_ | |
+|*2:00-3:00*  | [Iteration 2: Distance & Fuel](../aviatrix/i2_distance_and_fuel.markdown) | _Needs Review_ | |
 |*3:00-3:15*  | Brain Break | |  |
 |*3:15-3:45*  | Worktime: Finishing Touches | | |
 |*3:45-4:15*  | Jigsaw Demo | Assigned | EM |
