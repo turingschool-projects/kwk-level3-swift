@@ -118,10 +118,10 @@ We've got the city names and next want to add in the distances.
 In the simulator we can find the line that outputs that distance. It relies on the variable `distance` that was created here:
 
 ```
-distance = plane.distance_to(marker)
+distance = plane.distanceTo(target : String)
 ```
 
-So to get the distance to display correctly we've got to look at the `distance_to` method in our code.
+So to get the distance to display correctly we've got to look at the `distanceTo` function in our code.
 
 #### `distance_to`
 
@@ -129,29 +129,29 @@ If you look in `AviatrixData` you'll see that the distances are in there, but ho
 
 First, we need to know where we are. The stub starts our plane in St. Louis. So for a first round, let's assume that any distance being calculated is *from* St. Louis.
 
-The distance from St. Louis to Phoenix is 1260 miles. You can see that number inside the `known_distances` method of `AviatrixData`. We could get to it like this:
+The distance from St. Louis to Phoenix is 1260 miles. You can see that number inside the `knownDistances` method of `AviatrixData`. We could get to it like this:
 
 ```
-known_distances[:st_louis][:phoenix]
+knownDistances["St. Louis"]!["Phoenix"]!
 ```
 
-The `known_distances` method is returning a dictionary. `:st_louis` is a key in that dictionary. It points to a value which is *another* dictionary.
+The `knownDistances` variable is a dictionary. `"St. Louis` is a key in that dictionary. It points to a value which is *another* dictionary.
 
-`:phoenix` is a key in that second dictionary. It points to a value 1260, which is what we're looking for.
+`"Phoenix` is a key in that second dictionary. It points to a value 1260, which is what we're looking for.
 
-So the code `known_distances[:st_louis][:phoenix]` gets us the distance between St. Louis and Phoenix. We we look at our `distance_to` method we have an argument named `target` that is the city we're heading to.
+So the code `knownDistances["St. Louis"]!["Phoenix"]!` gets us the distance between St. Louis and Phoenix. We we look at our `distanceTo` function we have an argument named `target` that is the city we're heading to.
 
-*Write code in your `distance_to` method that finds the distance between St. Louis and your `target`*. Check the output you see in the simulator against the numbers in `AviatrixData`.
+*Write code in your `distanceTo` function that finds the distance between St. Louis and your `target`*. Check the output you see in `main.swift` against the numbers in `AviatrixData`.
 
 #### Planning for the Future
 
 You probably ended up with a line of code that looked like this:
 
 ```
-AviatrixData.known_distances[:st_louis][target]
+return data.knownDistances["St. Louis"]![target]!
 ```
 
-That'll work great as long as our current location is St. Louis. But we're about to start moving around. How can you modify this line so that it works based on our current location?
+That'll work great as long as our current location is St. Louis. But we're about to start moving around. How can you modify this line so that it works based on our _current_ location?
 
 #### Results
 
@@ -176,59 +176,45 @@ We're displaying the menu of destinations. We're allowing the user to pick a des
 
 #### Reading the Simulator
 
-Back in the simulator look at the `fly` method (inside the 'if' statement). You'll find a line that looks like this:
+Back in `main.swift` look at the `fly` function (inside the 'if' statement). You'll find some lines that looks like this:
 
 ```
-plane.fly_to(destinations[number])
+desiredLocation = plane.knownDestinations()[response!]
+...
+
+plane.flyTo(destination: desiredLocation)
 ```
 
 Let's break that down:
 
-* The `number` here is the menu option number that the user typed in, like `2` for Denver
-* `destinations` is an array that came from the `known_destinations` method we wrote earlier. So `destinations` contains the array `[:st_louis, :phoenix, :denver, :slc]`
-* `destinations[number]` when the `number` is `2` is like `destinations[2]` which picks out the marker `:denver`
-* So when our instruction runs it's really like `plane.fly_to(:denver)`
+* The `response` here is the menu option number that the user typed in, like `2` for Denver
+* `knownDestinations` is an array that came from the `known_destinations` method we wrote earlier. So `destinations` contains the array `["St. Louis", "Phoenix", "Denver", "SLC"]`
+* `knownDestinations()[response!]` when the `number` is `2` is like `knownDestinations[2]` which picks out the marker `"Denver"`
+* So when our instruction runs it's really like `plane.flyTo("Denver")`
 
-We'll need to work on that `fly_to` method.
+We'll need to work on that `flyTo` function.
 
 #### `fly_to`
 
-In Aviatrix, find the `fly_to` method. It looks like this:
+In Aviatrix, find the `flyTo` function. It looks like this:
 
 ```
-def fly_to(destination)
-  true #stub
-end
+func flyTo(destination : String) {
+        
+}
 ```
 
-The `destination` that comes in is the marker like `:denver`. 
-*Can you write one line here that stores that marker into the plane's `location` variable?
+The `destination` that comes in is the marker like `"Denver"`. 
+*Can you write one line here that stores that marker into the plane's `location` instance variable?
 
-Test it in your simulator and -- you're still in St. Louis???
-
-#### `location_name`
-
-Elsewhere in Aviatrix you'll find this `location_name` method:
-
-```
-def location_name
-  "St. Louis" #stub
-end
-```
-
-The job of this method is to turn a marker like `:st_louis` into a name the user is going to read like `"St. Louis"`. But right now the stub is just always saying "St. Louis", even if we're in Denver.
-
-*Can you revise this method so that it turns the current `location` marker into the real name of the city? HINT: Use the dictionary from the `location_names` method in `AviatrixData`.*
-
-When it works, your simulator should allow your plane to fly between the cities correctly.
+Test it by running `main.swift` and -- you're still in St. Louis???
 
 #### Dream Destinations
 
 Can you add a destination to the application? You'll need to carefully change `AviatrixData`:
 
-* Start by making a marker for the destination in the `location_names` method
-* Make up a gas price and add it to the `fuel_prices` method
-* The hard part is `known_distances`. Your best bet is to carefully copy and paste one of the existing dictionaries. You'll need to add your destination to each of the existing lists. Take extra care to add commas where needed!
+* Make up a gas price and add it to the `fuelPrices` method
+* The hard part is `knownDistances`. Your best bet is to carefully copy and paste one of the existing dictionaries. You'll need to add your destination to each of the existing lists. Take extra care to add commas where needed!
 
 If you'd like to use realistic distances, you can [use this online air mileage calculator](http://www.webflyer.com/travel/mileage_calculator/).
 
@@ -238,7 +224,7 @@ If you got one new destination to work correctly, feel free to add a couple more
 
 After this work, when you run the simulator:
 
-* The `plane_data` is still mostly blank, but our `Location` is accurate
+* The `planeData` is still mostly blank, but our `Location` is accurate
 * Flying to a different city works and we can move city to city
 * Refueling doesn't do anything yet
 
