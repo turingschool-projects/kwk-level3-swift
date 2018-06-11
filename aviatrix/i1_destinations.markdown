@@ -1,10 +1,10 @@
 # Aviatrix I1: Destinations
 
-As you can see in the simulator, our plane should be able to fly places. But all it can do is stay on the runway in St. Louis. Let's build up the functionality to move between cities.
+As you can see in the `main.swift`, our plane should be able to fly places. But all it can do is stay on the runway in St. Louis. Let's build up the functionality to move between cities.
 
 ## What We're Going For
 
-When this iteration is done we should be able to fly between known cities. When we run the simulator and hit `b` to fly we will see some output like this:
+When this iteration is done we should be able to fly between known cities. When we run the program and hit `b` to fly we will see some output like this:
 
 ```
 Where would you like to fly to?
@@ -21,9 +21,8 @@ Destination Number:
 
 Open the `AviatrixData` file and check out the data that's in there. You should find:
 
-* `location_names` that declares the locations we're going to support. The keys of this dictionary are the markers that we'll use internally and the values are the strings that we'll print to the user.
-* `fuel_prices` in a later iteration we'll work on purchasing fuel. At that time we'll need this collection of fuel prices.
-* `known_distances` is a huge method that defines the distances between the supported cities. Note that it's a dictionary where each city marker points to another dictionary. The second-level dictionary has the cities you could fly to along with the distance to get there.
+* `fuelPrices` in a later iteration we'll work on purchasing fuel. At that time we'll need this collection of fuel prices.
+* `knownDistances` is a huge dictionary that defines the distances between the supported cities where each city marker points to another dictionary. The second-level dictionary has the cities you could fly to along with the distance to get there.
 
 ## Building the Menu
 
@@ -43,17 +42,15 @@ Let's work on displaying more destinations.
 
 The `fly` method in the simulator is what's outputting this menu. It's some of the more complicated code in the simulator file, but we can pick it apart piece by piece.
 
-We can see in the `fly` method that it's calling `plane.known_destinations` and iterating over that array. We need to modify the `known_destinations` method.
+On the third line of the `fly` function we can see it's calling `plane.knownDestinations` and iterating over that array. We need to modify the `knownDestinations` function.
 
 ### `known_destinations`
 
-Remember that all the data about destinations is in `AviatrixData`. We want to have this method return an array like this:
+Remember that all the data about destinations is in `AviatrixData`. We want to have this function return an array like this:
 
 ```
-[:st_louis, :phoenix, :denver, :slc]
+["St. Louis", "Phoenix", "Denver", "SLC"]
 ```
-
-You can see that there's a method named `location_names` that has those markers as the keys to the dictionary.
 
 *Can you write the code so that the `known_destinations` method returns just the keys from that dictionary?*
 
