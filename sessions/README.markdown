@@ -25,8 +25,8 @@
 |*10:00-11:00*| [Lab: Conditionals](./conditionals_lab.markdown) | Complete |  |
 |*11:00-12:00*| Challenge: Number Guesser | Assigned | Brian |
 |*12:00-1:00* | Lunch|
-|*1:00-1:30*  | [Class: Arrays](./arrays_slides.markdown) | _Needs Review_ | |
-|*1:30-2:30*  | [Lab: Arrays & Iteration](./arrays_lab.markdown) | _Needs Review_ | |
+|*1:00-1:30*  | [Class: Arrays](./arrays_slides.markdown) | Complete | |
+|*1:30-2:30*  | [Lab: Arrays & Iteration](./arrays_lab.markdown) | Complete | |
 |*2:30-2:45*  | Brain Break |  |  |
 |*2:45-3:15*  | [Intro to Functions](./functions_slides.markdown) | Complete |  |
 |*3:15-4:15*  | [Lab: Functions](./functions_lab.markdown) | Complete |  |
