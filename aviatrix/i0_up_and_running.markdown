@@ -12,48 +12,50 @@ For this project you're going to work within some code we've already built. Foll
 
 You'll find that there are a couple code files that you'll work with:
 
-### `aviatrix.rb` <TODO: fix filename>
+### `Aviatrix.swift`
 
-This is the main file where we'll be doing work. There are several methods in here, but the instructions to make it work have been removed. We've put comments that say `#stub` in places where there's fake data or instructions. Eventually you'll be replacing every `#stub` with your own code.
+This is the main file where we'll be doing work. There are several functions in here, but the instructions to make it work have been removed. You can see we have several empty functions to start off with.
 
-### `aviatrix_data.rb` <TODO: fix filename>
+### `AviatrixData.swift`
 
-Our program is going to need a bunch of data like city names, distances between cities, and fuel prices. This file holds all that data.
+Our program is going to need a bunch of data like city names, distances between cities, and fuel prices. This file holds all that data. We won't need to change anything in this file.
 
-### `simulator.rb` <TODO: fix filename>
+### `main.swift`
 
-This is the simulator that we'll use to try out our code. This has a lot of code in it. You shouldn't *need* to change anything in this file, but you'll be invited to make changes later in the project.
+This is the simulator that we'll use to try out our code. This has a lot of code in it. You shouldn't *need* to change much in this file - just uncommenting some code that would currently throw errors.
 
 ## A First Run
 
-<TODO: instructions about how to run the starter code in Xcode>
+Click the play button in the top ledt hand corner, or `cmd + r` to run your code. It will run in your console so make sure that drawer is showing.
 
-Once the program is running you'll see that it doesn't really do much. This is because we've got all those `#stub` instructions in place of the code we really want to write. We'll slowly bring it to life.
+Once the program is running you'll see that it doesn't really do much. This is because we've got all those empty functions. We'll slowly bring it to life.
 
 ## Adding our First Functionality
 
 Let's start with making some small changes.
 
-### `running?`
+### `start`
 
-You'll see that there's a method named `running?` which currently always returns `true`. We'll later use this to make sure that the plane is running before we fly anywhere.
+You'll see that there's a function named `start` which currently always returns `true`. We'll later use this to make sure that the plane is running before we fly anywhere.
 
-Replace the stub in this method so it looks like this:
+Replace the stub in this function, and add the `running` instance variable so it looks like this:
 
 ```
-def running?
-  @running
-end
+var running = false
+
+fun start() {
+  running = true
+}
 ```
 
-That way our method will return the value of the `@running` variable.
+That way our method will return the value of the `running` variable.
 
 ### `author`
 
-There's an `author` method that returns the name of the program's author. Put your name in there.
+To make sure other know who build this program, we want to be able to display your name! In your `Aviatrix` class, Create an author instance variable, and use the `init` function to pass an argument in when you create an Aviatrix object. In `main.swift` there is a line that prints to the console: print("Welcome to the Aviatrix Flight System by _ _ _ _ _ _ _ _ _ " ) - change that so your author variable is interpolated.
 
 ### Run It
 
-Run the simulator and observe the Author output in the first line of the program.
+Run the program and observe the Author output in the first line of the program.
 
 Now it's time to start the real work. [Move on to Iteration 1](./i1_destinations.markdown)
