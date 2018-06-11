@@ -25,8 +25,8 @@
 |*10:00-11:00*| [Lab: Conditionals](./conditionals_lab.markdown) | Complete |  |
 |*11:00-12:00*| Challenge: Number Guesser | Assigned | Brian |
 |*12:00-1:00* | Lunch|
-|*1:00-1:30*  | Class: Arrays | Assigned | Pam  |
-|*1:30-2:30*  | Lab: Arrays & Iteration | Assigned | Pam  |
+|*1:00-1:30*  | [Class: Arrays](./arrays_slides.markdown) | _Needs Review_ | Pam  |
+|*1:30-2:30*  | [Lab: Arrays & Iteration](./arrays_lab.markdown) | _Needs Review_ | Pam  |
 |*2:30-2:45*  | Brain Break |  |  |
 |*2:45-3:15*  | [Intro to Functions](./functions_slides.markdown) | Complete |  |
 |*3:15-4:15*  | [Lab: Functions](./functions_lab.markdown) | Complete |  |
@@ -53,12 +53,12 @@
 |Time|Session|Status|Assigned|
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Journaling | Assigned | EM |
-|*9:30-10:00* | Aviatrix Intro | Change to Swift | Amy |
-|*10:00-11:00*| Lab: Liftoff, Gas, and Landing | Change to Swift | Amy |
-|*11:00-12:00*| Lab: Destinations & Routes | Change to Swift | Amy |
+|*9:30-10:00* | [Aviatrix Intro](../aviatrix) | Change to Swift | Amy |
+|*10:00-11:00*| [Ieration 0: Up and Running](../aviatrix/i0_up_and_running.markdown) | _Needs Review_ | Amy |
+|*11:00-12:00*| [Iteration 1: Destinations](../aviatrix/i1_destinations.markdown) | _Needs Review_ | Amy |
 |*12:00-1:00* | Lunch |
-|*1:00-2:00*  | Lab: Flight Plans | Change to Swift | Amy |
-|*2:00-3:00*  | Lab: Flight Controls | Change to Swift | Amy |
+|*1:00-2:00*  | [Iteration 1: Routes](../aviatrix/i1_destinations.markdown) | _Needs Review_ | Amy |
+|*2:00-3:00*  | [Iteration 2: Distance & Fuel](../aviatrix/i2_distance_and_fuel.markdown) | _Needs Review_ | Amy |
 |*3:00-3:15*  | Brain Break | |  |
 |*3:15-3:45*  | Worktime: Finishing Touches | | |
 |*3:45-4:15*  | Jigsaw Demo | Assigned | EM |
