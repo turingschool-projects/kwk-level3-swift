@@ -15,11 +15,11 @@ slidenumbers: true
 
 # Technical Vocabulary
 
-* class
-* object
-* property
-* initializer
-* actions
+* Class
+* Object
+* Property
+* Initializer
+* Actions
 
 ---
 
