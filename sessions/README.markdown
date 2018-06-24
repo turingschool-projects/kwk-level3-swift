@@ -11,7 +11,7 @@
 |*12:00-1:00*   | Lunch|
 |*1:00-1:30*    | [Class: Intro to Playgrounds](playgrounds/intro_to_playgrounds_slides.markdown)| Complete | |
 |*1:30-2:30*     | [Lab: Commands & Functions (iPad)]((playgrounds/commands_and_functions_lab.markdown))| Complete | |
-|*2:30-2:45*    | [Class: Xcode Intro](./xcode_intro_slides.markdown) | Complete | |
+|*2:30-2:45*    | [Class: Xcode Intro - Playgrounds](./xcode_intro_slides.markdown) | Complete | |
 |*2:45-3:15*    | [Data Types & Variables](./data_types_slides.markdown) | Complete |  |
 |*3:15-4:15*    | [Lab: Variables, Strings, and Printing](./data_types_lab.markdown) | Complete |  |
 |*4:15-4:45*    | Wrap Up | Assigned | Amy |
@@ -69,12 +69,12 @@
 |Time|Session|Status|Assigned|
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Technical Warm-Up | Assigned | EM |
-|*9:30-10:00* | Working in Spirals | Assigned | Amy |
-|*10:00-11:00*| Lab: Working in Spirals | Assigned | Amy |
-|*11:00-12:00*| [Class: StoryBoard]() | Assigned | Amy |
+|*9:30-10:00* | [Class: StoryBoard]() | Assigned | Amy |
+|*10:00-11:00*| [Lab: StoryBoard]() | Assigned | Amy |
+|*11:00-12:00*| [Class: Side Loading](./side_loading_slides.markdown) | Assigned | Amy |
 |*12:00-1:00* | Lunch |
-|*1:00-1:30*  | [Class: Side Loading](./side_loading_slides.markdown) | Complete |  |
-|*1:30-2:45*  | [Challenge: StoryBoard]() | Assigned | Amy |
+|*1:00-1:30*  | [Class: Actions & Outlets]() | Complete |  |
+|*1:30-2:45*  | [Lab: Actions & Outlets]() | Assigned | Amy |
 |*2:45-3:15*  | Demo: Viewfinder | | Amy |
 |*3:15-4:15*  | Feedback: Retrospective & Survey | Assigned | EM |
 |*4:15-4:45*  | Wrap Up | Assigned | Amy |
