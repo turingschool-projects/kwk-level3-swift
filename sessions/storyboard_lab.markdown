@@ -28,7 +28,7 @@ Xcode includes the tools to make the user interface (UI) of our app look the way
 
 #### Expected
 
-Plan out an app (it could be one screen on your favorite app, the app you're dreaming about making, or just a few simple elements!) by drawing it out on a sketch paper. Have in mind which UI Objects you will need on your StoryBoard.
+Plan out an app (it could be one screen on your favorite app, the app you're dreaming about making, or just a few simple elements!) by drawing it out on a sketch paper. Label the different parts of your app with the names of the Objects from Object Library you will need to use. Keep in mind the Design Principles we talked about!
 
 In your new project, drag and drop at least 3 UI Objects (View, Image, Label) in from the Object Library. Each time you add one, do the following:
 - Check the appearance on the simulator
@@ -51,4 +51,6 @@ Add an icon image - this time, make sure this will appear on _any_ iPad by also 
 
 As we close our tutorial time, we'll either write in our journals or discuss as a group:
 
-- Provide some guiding questions to reflect on - should be a mix of technical and a reflection on challenges/how are you navigating bugs/what is your problem solving like, etc.
+- What is challenging about building a UI?
+- What are two important Design Principles that you are going to keep in mind as you develop apps?
+
