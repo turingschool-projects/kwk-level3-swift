@@ -69,8 +69,8 @@
 |Time|Session|Status|Assigned|
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Technical Warm-Up | Assigned | EM |
-|*9:30-10:00* | [Class: StoryBoard]() | Assigned | Amy |
-|*10:00-11:00*| [Lab: StoryBoard]() | Assigned | Amy |
+|*9:30-10:00* | [Class: StoryBoard](./storyboard_slides.markdown) | Assigned | Amy |
+|*10:00-11:00*| [Lab: StoryBoard](./storyboard_lab.markdown) | Assigned | Amy |
 |*11:00-12:00*| [Class: Side Loading](./side_loading_slides.markdown) | Assigned | Amy |
 |*12:00-1:00* | Lunch |
 |*1:00-1:30*  | [Class: Actions & Outlets]() | Complete |  |
