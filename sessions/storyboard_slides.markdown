@@ -3,7 +3,7 @@ slidenumbers: true
 
 # StoryBoards
 
-^ Here is a repo an example of a UI you can create - I tried re-create a simplified version of Spotify's Podcast play screen. This is definitely something you want to do several times in your prep - practicing where you will stop, show them things they might get tripped up on, etc.
+^ [Here is a repo with an example of a UI you can create](https://github.com/turingschool-projects/storyboard-sample/tree/master) - I tried re-create a simplified version of Spotify's Podcast play screen. This is definitely something you want to do several times in your prep - practicing where you will stop, show them things they might get tripped up on, etc.
 
 ---
 
