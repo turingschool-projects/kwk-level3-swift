@@ -17,7 +17,7 @@ You will have some time to create your own class and some objects from it! You w
 * Under `Choose a template for your new project`, select `macOS`
 * Under `Application`, select `Command Line Tool`
 * Click the blue `Next` button in the bottom right corner
-* You will be prompted to save this file. The default name is `MyPlayground` - let's change that to "ClassesAndObjects", then click the blue `Create` button in the bottom right corner
+* You will be prompted to save this file. For `Product Name`, type in "ClassesAndObjects", then click the blue `Create` button in the bottom right corner
 
 ### Classes
 
