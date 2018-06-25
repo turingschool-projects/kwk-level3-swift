@@ -44,6 +44,7 @@ Figure is _positive space_ (or the object itself, like a tree) and Ground is the
 ![inline](slide_images/figure-ground.png)
 
 ^ A figure shall be perceived as separate from it's background.
+
 ---
 
 # Principle 2: Law of Simplicity
@@ -73,6 +74,7 @@ Figure is _positive space_ (or the object itself, like a tree) and Ground is the
 ![inline](slide_images/enclosure.png)
 
 ^ A figure shall be perceived as separate from it's background.
+
 ---
 
 # Principle 5: Law of Continuation
