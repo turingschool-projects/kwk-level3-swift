@@ -45,6 +45,7 @@ Drag a 'Navigation Bar' onto the View Controller. Edit the title. Drag 1 or more
 
 Finish the UI for the rest of your app now that you have a Navigation Bar!
 
+Add an icon image - this time, make sure this will appear on _any_ iPad by also including a 76x76 image in the 1x box.
 
 ## Circle Back
 

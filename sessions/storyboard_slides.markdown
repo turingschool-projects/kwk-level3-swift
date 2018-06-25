@@ -69,6 +69,6 @@ slidenumbers: true
 * To add an icon for iPad, it must be exactly 152x152
 * Drag and drop the image from your finder, into the '2x' box right above 'iPad App, iOS 7 - 11 76pt'
 
-^ MODEL: Go to google, image search for a 152x152 image (select tools, then exact size to set this preference) Select and save an image to desktop. WIn Xcode, click on `Assets.xcassets`, then `AppIcon`. With both Xcode and Finder windows visible, drag image file from Finder into the 2x box above 'iPad App, iOS 7 - 11 76pt'.
+^ MODEL: Go to google, image search for a 152x152 image (select tools, then exact size to set this preference) Select and save an image to desktop. In Xcode, click on `Assets.xcassets`, then `AppIcon`. With both Xcode and Finder windows visible, drag image file from Finder into the 2x box above 'iPad App, iOS 7 - 11 76pt'. To make sure it works on all iPads, we should really do the right thing and also drop a 76x76 image in the 1x box.
 
 ---
