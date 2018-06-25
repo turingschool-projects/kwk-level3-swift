@@ -69,9 +69,10 @@
 |Time|Session|Status|Assigned|
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Technical Warm-Up | Assigned | EM |
-|*9:30-10:00* | [Class: StoryBoard](./storyboard_slides.markdown) | _Needs Review_ | |
-|*10:00-11:00*| [Lab: StoryBoard](./storyboard_lab.markdown) | _Needs Review_ | |
-|*11:00-12:00*| [Class: Side Loading](./side_loading_slides.markdown) | _Needs Review_ | |
+|*9:30-10:00*  | [Class: Design Theory]() | Assigned | Amy |
+|*10:00-10:30* | [Class: StoryBoard](./storyboard_slides.markdown) | _Needs Review_ | |
+|*10:30-11:30*| [Lab: StoryBoard](./storyboard_lab.markdown) | _Needs Review_ | |
+|*11:30-12:00*| [Class: Side Loading](./side_loading_slides.markdown) | _Needs Review_ | |
 |*12:00-1:00* | Lunch |
 |*1:00-1:30*  | [Class: Actions & Outlets]() | Assigned | Amy |
 |*1:30-2:45*  | [Lab: Actions & Outlets]() | Assigned | Amy |
