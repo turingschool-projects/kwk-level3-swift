@@ -35,6 +35,7 @@ In your new project, drag and drop at least 3 UI Objects (View, Image, Label) in
 - Set constraints on each UI Object
 - Check the simulator again
 
+Now, add an icon image. Run in simulator to make sure it was loaded in correctly!
 
 #### Extension
 

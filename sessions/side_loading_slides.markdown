@@ -88,7 +88,7 @@ slidenumbers: true
 
 # It should fail
 
-![inline](slide_images/side_loading_ipad_untrusted_dev.png)
+![inline](slide_images/side_loading_ipad_untrusted_dev.jpg)
 ---
 
 # How to solve that problem
