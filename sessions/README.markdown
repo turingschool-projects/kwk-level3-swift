@@ -85,15 +85,14 @@
 |Time|Session|Status|Assigned|
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Technical Warm-Up | Assigned | EM |
-|*9:30-10:00* | Intro to Viewfinder |  | _Author Needed_ |
-|*10:00-11:00*| Lab: Viewfinder Experiments |  | _Author Needed_ |
-|*11:00-12:00*| Challenge: Paired Worktime |  | _Author Needed_ |
+|*9:30-10:00* | Collaboration: Formal DTR |  | EM |
+|*10:00-11:00*| Lab: Plan Your Design  |  | Amy|
+|*11:00-12:00*| Class: Accessing the Camera |  | Amy  |
 |*12:00-1:00* | Lunch |
-|*1:00-1:30*  | Collaboration: Formal DTR | Assigned | EM |
-|*1:30-2:30*  | Lab: Building the "About" Page |  | _Author Needed_ |
-|*2:30-2:45*  | Brain Break |  | |
-|*2:45-3:15*  | Class: Manipulating Images |  | _Author Needed_ |
-|*3:15-4:15*  | Lab: Resizing & Cropping |  | _Author Needed_ |
+|*1:00-1:30*  | Class: Displaying Photos |  | Amy |
+|*1:30-3:00*  | Lab: Mini Photo App | Assigned | Amy |
+|*3:00-3:15*  | Brain Break |  | |
+|*3:15-4:15*  | Lab: ViewFinder UI |  | Amy |
 |*4:15-4:45*  | Wrap Up | Assigned | Amy |
 
 ### Day 7
@@ -101,12 +100,12 @@
 |Time|Session|Status|Assigned|
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Journaling | Assigned | EM |
-|*9:30-10:00* | Emoji Stamps |  | _Author Needed_ |
-|*10:00-11:00*| Lab: Building Emoji Stamps |  | _Author Needed_ |
-|*11:00-12:00*| Challenge: Paired Worktime |  | _Author Needed_ |
+|*9:30-10:00* | Class: Core Data |  | Amy |
+|*10:00-11:00*| Lab: Core Data in ViewFinder |  | Amy|
+|*11:00-12:00*| Challenge: Paired Worktime |  | Amy |
 |*12:00-1:00* | Lunch |
-|*1:00-1:30*  | Class: Styling Emoji |  | _Author Needed_ |
-|*1:30-2:30*  | Collaboration: Emoji & Text Worktime |  | _Author Needed_ |
+|*1:00-1:30*  | Class: Segues |  | Amy|
+|*1:30-2:30*  | Lab: Build Photo Detail Page |  | Amy |
 |*2:30-2:45*  | Brain Break |  | |
 |*2:45-3:15*  | Trajectory: Careers in Tech | Assigned | EM |
 |*3:15-4:15*  | Lab: Careers Research | Assigned | EM |
