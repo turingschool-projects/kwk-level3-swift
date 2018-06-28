@@ -12,6 +12,7 @@ slidenumbers: true
 * Students will be able to add UI elements to the StoryBoard using the Object Library
 * Students will be able to make UI look clean on all device sizes using constraints
 * Students will be able to add a home screen icon into the project
+
 ---
 
 # Technical Vocabulary

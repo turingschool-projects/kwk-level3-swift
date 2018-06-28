@@ -35,28 +35,27 @@ slidenumbers: true
 
 # Numbers
 
-* In the most simple terms possible, we have two kinds of numbers, Integers and Doubles
+* In the most simple terms possible, we have two kinds of numbers - Integers and Doubles
 * The math operations we use all the time can be used on both of these
 
 ^ Lead a quick discussion and write outcomes on whiteboard - what math operations do we have?
 Addition, subtraction, multiplication, division, parenthesis, (if it doesn't come up, I would point out that order of operations is the same as it is in math class.)
+
 ---
 
 # Integers
 
-Integers are what we would think of as whole numbers. They can be positive or negative or zero. So, 1, 3, 4, -56 and 0 are all integers. The official definition of an integer is that it is a whole number that has **no** fractional component.
+Integers are what we would think of as whole numbers. They can be positive or negative or zero. So, 1, 3, 4, -56 and 0 are all integers.
 
 ---
 
 # Float and Double
 
-* Swift gives you two data types with which to store numbers that have a fractional component, which we can refer to as numbers with decimals. They can be positive or negative
+* Swift gives you two data types with which to store numbers that have a decimals. They can be positive or negative
 
-* Examples would be 1.1, 42.45, 3.14, -123786234.64 and so forth
+* Examples would be 1.1, 42.45, 3.14, -123786234.64
 
-* The TL;DR is that Doubles have more accuracy than Floats, and you get to choose how much accuracy you want - how many decimal places you can use if you want
-
-* If you ever need a decimal, **use a Double** because you'll get more accuracy that way
+* The TL;DR is that Doubles have more accuracy than Floats. If you ever need a decimal, **use a Double** because you'll get more accuracy that way
 
 ---
 
@@ -68,9 +67,7 @@ Integers are what we would think of as whole numbers. They can be positive or ne
 
 # Variables
 
-* So now that we know a few data types, we want to talk about how we can work with them. And we use variables for that.
-
-* Variables are these things that we use in order to reference and label information that we're going to use in our programs.
+* We use variables to store information that we're going to use in our programs.
 
 * But why should we use variables? They're kind of a shortcut. Let's say we were working with our address and it's a string, "1313 Mockingbird Lane" it would be annoying to have to type that in every time we wanted to use it.
 
@@ -82,7 +79,7 @@ Integers are what we would think of as whole numbers. They can be positive or ne
 var address = "1313 Mockingbird Lane"
 ```
 
-* What we've done in that line of code above is we told the computer, "Hey, I want you to create a variable called address, and I want you to store in it the string, "1313 Mockingbird Lane".
+* This code is telling the computer, "Please create a variable called address, and store in it the string, "1313 Mockingbird Lane".
 * Every time I need to use my address, I only have to type the word `address`!
 
 ---
@@ -93,7 +90,8 @@ var address = "1313 Mockingbird Lane"
 var address = "1313 Mockingbird Lane"
 ```
 
-* We use the `var` keyword here to tell the computer that in this following bit of code, we are going to declare a variable. We have to declare variables before we use them
+* We use the `var` keyword here to tell the computer that in this following bit of code, we are going to declare a variable.
+* We have to declare variables before we use them
 
 ^ KEYWORDS are special, reserved words in the language. Every programming language has them. We can't use them for any other purpose (variable or function or class name), only if it's in a string.
 Xcode is helpful because it shows all keywords in pink.
@@ -127,7 +125,10 @@ BOOLEANS might come up - it is simply true or false - they are an important conc
 * "\(VARIABLE NAME HERE) any other words here"
 * I'd like to write a sentence that says "I am 15 years old", but using the age variable: `var age = 15`
 
-* Solution: "I am \(age) years old"
+^ Solution:
+```swift 
+"I am \(age) years old"
+```
 
 ---
 
