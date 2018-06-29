@@ -40,6 +40,7 @@ There are several ways to add, remove, and modify values in an array. There is a
   `myHobbies[0].value` - can't find an advantage/use case for why I'd ever want this over just the index...🤷🏼‍
 - iterate
   The forEach method does the same thing as a for...in loop (the are some differences, but for more advanced concepts that we won't go into at this camp)
+  
   ```
   myHobbies.forEach { hobby in
     print("I love \(hobby)!")

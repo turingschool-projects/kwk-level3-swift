@@ -53,4 +53,3 @@ As we close our tutorial time, we'll either write in our journals or discuss as 
 
 - What is challenging about building a UI?
 - What are two important Design Principles that you are going to keep in mind as you develop apps?
-

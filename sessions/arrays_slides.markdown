@@ -28,13 +28,12 @@ slidenumbers: true
 * An array is an _ordered_ collection that stores multiple values of the same type
 * An array can store any kind of elements - from integers to strings to objects
 * Elements inside an array are separated by a comma
-* The same value can appear in an array at multiple positions
 
 ---
 
 # When would we use them?
 
-Arrays are useful whenever you need to keep track of an ordered list of items. This is similar to how we keep track of lists in the real world. When we write out a grocery shopping list, we use _one_ piece of paper to keep track of all the items we are looking to purchase. Arrays are a way to keep track of a collection of data.
+Arrays are useful whenever you need to keep track of an ordered list of items. This is similar to how we keep track of lists in the real world. When we write out a grocery shopping list, we use _one_ piece of paper to keep track of all the items we are looking to purchase.
 
 ---
 
@@ -45,8 +44,13 @@ Now that we know a bit about arrays, we want to talk about how to create them. W
 * Shorthand Syntax
 - With this syntax, we have to declare the data type of the array elements. Below we are declaring an empty array and specifying that we will be storing strings.
 
+---
+
+# Creating an Array
+
 ```
 var arrayOfStrings = [String]()
+
 var arrayOfIntegers = [Int]()
 ```
 
@@ -56,8 +60,7 @@ var arrayOfIntegers = [Int]()
 
 # Creating an Array
 
-* Starting with Data
-Instead of declaring an empty array, we can also declare an array that starts with data, like below:
+Starting with Data: Instead of declaring an empty array, we can also declare an array that starts with data, like below:
 
 ```
 var shoppingList = ["Bread", "Cheese", "Milk", "Cheese"]
@@ -68,8 +71,8 @@ var shoppingList = ["Bread", "Cheese", "Milk", "Cheese"]
 # Turn and Talk
 
 * Turn to a new best friend and explain the following:
-- What is an array? Why are they useful?
-- How do you declare an array?
+  - What is an array? Why are they useful?
+  - How do you declare an array?
 
 ---
 
@@ -77,7 +80,7 @@ var shoppingList = ["Bread", "Cheese", "Milk", "Cheese"]
 
 Each element in an array is automatically assigned a number called an **index**. This index can be used to access a specific element inside the array.
 
-Indices begin at 0 and order up incrementally. If we look back at our `shoppingList` array, the following would be true:
+Indices begin at 0 and count up. If we look back at our `shoppingList` array, the following would be true:
 
 * "Bread" has an index of 0
 * "Cheese" has an index of 1
@@ -94,11 +97,9 @@ By using the square brackets, we can use the index to access a particular value 
 var shoppingList = ["Bread", "Cheese", "Milk", "Cheese"]
 
 shoppingList[2]
-
 => "Milk"
 
 shoppingList[0]
-
 => "Bread"
 ```
 
@@ -148,6 +149,10 @@ shoppingList.remove(at: 0)
 When you need to perform an operation on all of an array's elements, you can **iterate** over the entire set of values in an array.  The most common way to iterate over values in an array is to use a `for-in` loop.
 
 Looking back at our shopping list from earlier, we can utilize a `for in` loop to print every value in the array at every index, from 0 to the last element
+
+---
+
+# Iterating Over Elements in an Array
 
 ```
 for item in shoppingList {
