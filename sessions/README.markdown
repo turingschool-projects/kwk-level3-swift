@@ -10,7 +10,7 @@
 |*11:00-12:00*  | [Class: How to Pair](playgrounds/how_to_pair_slides.markdown)| Complete | |
 |*12:00-1:00*   | Lunch|
 |*1:00-1:30*    | [Class: Intro to Playgrounds](playgrounds/intro_to_playgrounds_slides.markdown)| Complete | |
-|*1:30-2:30*    | [Lab: Commands & Functions (iPad)]((playgrounds/commands_and_functions_lab.markdown))| Complete | |
+|*1:30-2:30*    | [Lab: Commands & Functions (iPad)](playgrounds/commands_and_functions_lab.markdown)| Complete | |
 |*2:30-2:45*    | [Class: Xcode Intro - Playgrounds](./xcode_intro_slides.markdown) | Complete | |
 |*2:45-3:15*    | [Data Types & Variables](./data_types_slides.markdown) | Complete |  |
 |*3:15-4:15*    | [Lab: Variables, Strings, and Printing](./data_types_lab.markdown) | Complete |  |
