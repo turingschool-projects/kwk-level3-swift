@@ -42,4 +42,7 @@ Accessing the camera and/or photoLibrary are absolutely necessary components of 
 
 As we close our tutorial time, we'll either write in our journals or discuss as a group:
 
-- Provide some guiding questions to reflect on - should be a mix of technical and a reflection on challenges/how are you navigating bugs/what is your problem solving like, etc.
+- Why did we need to inherit from the UIImagePickerControllerDelegate and UINavigationControllerDelegate?
+- Why did we set up each button to an `action` rather than an `outlet`?
+- What did you enjoy about this lesson/lab?
+- Which feature of our app are you most excited about building? Why? 
