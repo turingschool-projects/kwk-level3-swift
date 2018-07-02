@@ -93,7 +93,7 @@
 |*1:00-1:30*  | [Class: Displaying Photos](./displaying_photos_slides.markdown) | _Needs Review_ | |
 |*1:30-3:00*  | [Lab: Displaying Photos](./displaying_photos_lab.markdown) | _Needs Review_ | |
 |*3:00-3:15*  | Brain Break |  | |
-|*3:15-4:15*  | Lab: ViewFinder UI |  | Amy |
+|*3:15-4:15*  | [Lab: ViewFinder UI](./viewfinder_ui_lab.markdown) |  | Amy |
 |*4:15-4:45*  | Wrap Up | Assigned | Amy |
 
 ### Day 7
