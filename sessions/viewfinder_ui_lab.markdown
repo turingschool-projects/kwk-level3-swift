@@ -38,19 +38,27 @@ Similar to our StoryBoard and Actions/Outlets lessons, we will need to start wit
   - This will embed the view inside of a Navigation Controller, which will allow us to use a back button, and other similar buttons on the top of the page
 * With the Navigation Controller selected, in the Utilities Pane, select the Attributes Inspector, scroll down to the View Controller section, and check the box next to `Is Initial View Controller`
 ![Use this as a reference if needed:](./slide_images/initial_view.png)
+
 * _Run on your iPad to make sure it's working_
+
 * In the Document Outline, click on the Navigation Item (under Table View Controller). Now, look at the Attributes Inspector in the Utilities Pane, and you should see a form for Title. Write the name of your app into that field.
 ![Use this as a reference if needed:](./slide_images/title_nav_item.png)
+
 * Drag a `Bar Button Item` from the Object Library onto your Navigation Bar on the Table View. In the Utilities Pane, you can change the title under `Bar Item`. You can also use the drop-down menu title `System Item` to select aiOS icon.
 * Drag a new `View Controller` onto your StoryBoard. `ctrl + click` then drag your `Add` button on the Table View over to your new View Controller. Select `show`. This is telling the computer, "when the user clicks on this `add` button, take them to this other view, please." This is called a `segue`.
 ![Use this as a reference if needed:](./slide_images/add_segue.gif)
+
 * _Run on your iPad to make sure it's working_
+
 * Drag a `Navigation Item` onto the new ViewController. Change the title in the Utilities Pane.
 * The default `back button` will list the entire app name - feel free to change that to "back" or leave as is. You change it by clicking on the home page title, then filling in the `back button` form in the Utilities Pane.
+
 * _Run on your iPad to make sure it's working_
+
 * Add buttons for Camera, PhotoLibrary, and Albums (if all of those are in your wireframes!)
 * Add in your ImageView, TextField for caption, and `Save` button. Apply constraints so it looks good on all devices.
 * Insert a placeholder image in the ImageView.
+
 * _Run on your iPad to make sure it's working_
 
 #### Extension
