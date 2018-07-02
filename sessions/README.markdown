@@ -86,8 +86,9 @@
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Technical Warm-Up | Assigned | EM |
 |*9:30-10:00* | Collaboration: Formal DTR |  | EM |
-|*10:00-11:00*| Lab: Plan Your Design  |  | Amy|
-|*11:00-12:00*| Class: Accessing the Camera |  | Amy  |
+|*10:00-10:45*| [Class: Accessing the Camera](./access_camera_slides.markdown) | _Needs Review_  | |
+|*10:45-11:30*| [Lab: Accessing the Camera & Photo Library](./access_camera_lab.markdown)  |  | Amy|
+|*11:30-12:00*| Lab: Plan Your Design |  | Amy|
 |*12:00-1:00* | Lunch |
 |*1:00-1:30*  | Class: Displaying Photos |  | Amy |
 |*1:30-3:00*  | Lab: Mini Photo App | Assigned | Amy |
