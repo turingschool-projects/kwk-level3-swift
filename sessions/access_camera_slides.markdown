@@ -51,7 +51,6 @@ When we see this 'view controller' - this tells us this a view controller, or th
 'Manages the system interface' - interface is referring to anytime more than one program works together. We know that a program is just code, so this means that different pieces of code are coming together to make this view controller.
 '... for taking pictures, etc.' tells us what use this view controller has. The name 'ImagePicker' should provide a hint, but reading the documentation carefully to make sure we are working with what we really want to work with is important.
 
-
 ---
 
 # UIImagePickerController
