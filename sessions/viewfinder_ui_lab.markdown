@@ -63,11 +63,4 @@ Similar to our StoryBoard and Actions/Outlets lessons, we will need to start wit
 
 #### Extension
 
-* This is an early finisher/extension activity!
-
-
-## Circle Back
-
-As we close our tutorial time, we'll either write in our journals or discuss as a group:
-
-- Provide some guiding questions to reflect on - should be a mix of technical and a reflection on challenges/how are you navigating bugs/what is your problem solving like, etc.
+* Fill in the blanks from your wireframe - add in colors, fonts, background images, etc. that make this the app you and your partner are dreaming of 💫
