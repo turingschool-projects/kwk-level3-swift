@@ -28,7 +28,7 @@ finish code - picture should be distorted, change to aspect fit.
 
 ![inline](slide_images/display_photo_demo.gif)
 
-^ Feel free to have yours up and running OR just show the giphy so the students get a feel of what we are working towards. 
+^ Feel free to have yours up and running OR just show the giphy so the students get a feel of what we are working towards.
 
 ---
 
@@ -43,7 +43,7 @@ finish code - picture should be distorted, change to aspect fit.
 
 #  Keep Track of that Image View
 
-* Let's call the outlet: "newImageView"
+* Let's call the outlet: `newImageView`
 * We will use `newImageView.image` later to access and change the image
 
 ^ answer - outlets! They are created similar to actions, we drag and drop from the StoryBoard to the code.  
@@ -76,7 +76,6 @@ Possible answers/ideas to guide them towards: 1) We want to update that original
 
 ![inline](slide_images/image_picker_controller.png)
 
-
 ^ We have some pseudo-code here as we think through how to actually make this happen.
 MODEL: Use the "smart keyboard" co-teaching model here, have one instructor model in Xcode while the other explains each line.
 FIRST, we have to access the photo. It is in that "info" dictionary. We access it with:
@@ -95,7 +94,6 @@ if let selectedImage = info[UIImagePickerControllerOriginalImage] as? UIImage {
 
 ![inline](slide_images/new_image_update.png)
 
-
 ^ Now we have updated our image, BUT the user wouldn't ever know, because we haven't told the app to go away from the 'select a photo' screen.
 MODEL: Go back to Xcode and model:
 call the "dismiss" function on the imagePicker instance.
@@ -108,3 +106,8 @@ RECOMMENDATION: use photo library and run on simulator rather than camera/device
 ---
 
 # Lab
+
+* Create a brand-new app that ...
+  - Has 1 button (it can either access camera, library, or albums - you choose!)
+  - Has a placeholder image where you want the selected image to appear
+  - Will allow user to tap button, select an image, then see that image in place of placeholder
