@@ -90,7 +90,7 @@
 |*10:45-11:30*| [Lab: Accessing the Camera & Photo Library](./access_camera_lab.markdown)  | _Needs Review_ | |
 |*11:30-12:00*| [Lab: Plan Your Design](./plan_your_design.markdown) | _Needs Review_ | |
 |*12:00-1:00* | Lunch |
-|*1:00-1:30*  | Class: Displaying Photos |  | Amy |
+|*1:00-1:30*  | [Class: Displaying Photos](./displaying_photos_slides.markdown) |  | Amy |
 |*1:30-3:00*  | Lab: Mini Photo App | Assigned | Amy |
 |*3:00-3:15*  | Brain Break |  | |
 |*3:15-4:15*  | Lab: ViewFinder UI |  | Amy |
