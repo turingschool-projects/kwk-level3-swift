@@ -109,7 +109,7 @@
 |*11:00-12:00*  | [Lab: Displaying Photos](./displaying_photos_lab.markdown) | _Needs Review_ | |
 |*12:00-1:00* | Lunch |
 |*1:00-1:45*| [Lab: ViewFinder UI](./viewfinder_ui_lab.markdown) |  | Amy |
-|*1:$5-2:30*| [Lab: Implement Camera and Displaying Photos]() |  | Amy |
+|*1:$5-2:30*| [Lab: Implement Camera and Displaying Photos](./implement_camera_display_photos.markdown) |  | Amy |
 |*2:30-2:45*  | Brain Break |  | |
 |*2:45-3:15*  | Trajectory: Careers in Tech | Assigned | EM |
 |*3:15-4:15*  | Lab: Careers Research | Assigned | EM |
