@@ -1,5 +1,7 @@
 # KWK L3 Swift/iOS Session Plans
 
+## KWK INSTRUCTORS: Please look through slides and complete labs for all marked with a ⭐️
+
 ### Day 1
 
 |Time|Session|Status|Assigned|
@@ -12,8 +14,8 @@
 |*1:00-1:30*    | [Class: Intro to Playgrounds](playgrounds/intro_to_playgrounds_slides.markdown)| Complete | |
 |*1:30-2:30*    | [Lab: Commands & Functions (iPad)](playgrounds/commands_and_functions_lab.markdown)| Complete | |
 |*2:30-2:45*    | [Class: Xcode Intro - Playgrounds](./xcode_intro_slides.markdown) | Complete | |
-|*2:45-3:15*    | [Data Types & Variables](./data_types_slides.markdown) | Complete |  |
-|*3:15-4:15*    | [Lab: Variables, Strings, and Printing](./data_types_lab.markdown) | Complete |  |
+|*2:45-3:15*    | ⭐️[Data Types & Variables](./data_types_slides.markdown)⭐️ | Complete |  |
+|*3:15-4:15*    | ⭐️[Lab: Variables, Strings, and Printing](./data_types_lab.markdown)⭐️ | Complete |  |
 |*4:15-4:45*    | Wrap Up | Assigned | Amy |
 
 ### Day 2
@@ -21,15 +23,15 @@
 |Time|Session|Status|Assigned|
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Journaling | Assigned | EM |
-|*9:30-10:00* | [Class: Conditionals](./conditionals_slides.markdown) | Complete |  |
-|*10:00-11:00*| [Lab: Conditionals](./conditionals_lab.markdown) | Complete |  |
+|*9:30-10:00* | ⭐️[Class: Conditionals](./conditionals_slides.markdown)⭐️ | Complete |  |
+|*10:00-11:00*| ⭐️[Lab: Conditionals](./conditionals_lab.markdown)⭐️ | Complete |  |
 |*11:00-12:00*| Challenge: Number Guesser | Assigned | Brian |
 |*12:00-1:00* | Lunch|
-|*1:00-1:30*  | [Class: Arrays](./arrays_slides.markdown) | Complete | |
-|*1:30-2:30*  | [Lab: Arrays & Iteration](./arrays_lab.markdown) | Complete | |
+|*1:00-1:30*  | ⭐️[Class: Arrays](./arrays_slides.markdown)⭐️ | Complete | |
+|*1:30-2:30*  | ⭐️[Lab: Arrays & Iteration](./arrays_lab.markdown)⭐️ | Complete | |
 |*2:30-2:45*  | Brain Break |  |  |
-|*2:45-3:15*  | [Intro to Functions](./functions_slides.markdown) | Complete |  |
-|*3:15-4:15*  | [Lab: Functions](./functions_lab.markdown) | Complete |  |
+|*2:45-3:15*  | ⭐️[Intro to Functions](./functions_slides.markdown)⭐️ | Complete |  |
+|*3:15-4:15*  | ⭐️[Lab: Functions](./functions_lab.markdown)⭐️ | Complete |  |
 |*4:15-4:45*  | Wrap Up | Assigned | Amy |
 
 ### Day 3
@@ -37,15 +39,15 @@
 |Time|Session|Status|Assigned|
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Technical Warm-Up | Assigned | EM |
-|*9:30-10:00* | [Class: For & For-In](./for-in-loops-slides.markdown) | _Needs Review_ |  |
-|*10:00-11:00*| [Lab: Practicing Loops](./for-in-loops-lab.markdown) | _Needs Review_ |  |
+|*9:30-10:00* | ⭐️[Class: For & For-In](./for-in-loops-slides.markdown)⭐️ | _Needs Review_ |  |
+|*10:00-11:00*| ⭐️[Lab: Practicing Loops](./for-in-loops-lab.markdown)⭐️ | _Needs Review_ |  |
 |*11:00-12:00*| Challenge: There a Hole in the Bottom of the Sea | Assigned | Brian |
 |*12:00-1:00* | Lunch |
-|*1:00-1:30*  | [Class: Dictionaries](./dictionaries_slides.markdown) | Complete |  |
-|*1:30-2:15*  | [Lab: Using Dictionaries](./dictionaries_lab.markdown) | Complete |  |
+|*1:00-1:30*  | ⭐️[Class: Dictionaries](./dictionaries_slides.markdown)⭐️ | Complete |  |
+|*1:30-2:15*  | ⭐️[Lab: Using Dictionaries](./dictionaries_lab.markdown)⭐️ | Complete |  |
 |*2:15-2:30*  | Brain Break | |  |
-|*2:30-3:15*  | [Class: Classes and Objects](./classes_objects_slides.markdown) | Complete |  |
-|*3:15-4:15*  | [Lab: Classes and Objects](./classes_objects_lab.markdown) | Complete |  |
+|*2:30-3:15*  | ⭐️[Class: Classes and Objects](./classes_objects_slides.markdown)⭐️ | Complete |  |
+|*3:15-4:15*  | ⭐️[Lab: Classes and Objects](./classes_objects_lab.markdown)⭐️ | Complete |  |
 |*4:15-4:45*  | Wrap Up | Assigned | Amy |
 
 ### Day 4
