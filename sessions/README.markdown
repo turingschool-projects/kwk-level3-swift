@@ -108,8 +108,9 @@
 |*10:30-11:00*  | [Class: Displaying Photos](./displaying_photos_slides.markdown) | _Needs Review_ | |
 |*11:00-12:00*  | [Lab: Displaying Photos](./displaying_photos_lab.markdown) | _Needs Review_ | |
 |*12:00-1:00* | Lunch |
-|*1:00-2:00*| [Lab: ViewFinder UI](./viewfinder_ui_lab.markdown) |  | Amy |
-|*2:00-2:40*| [Class: Core Data]() |  | Amy |
+|*1:00-1:45*| [Lab: ViewFinder UI](./viewfinder_ui_lab.markdown) |  | Amy |
+|*1:$5-2:30*| [Lab: Implement Camera and Displaying Photos]() |  | Amy |
+|*2:30-2:45*  | Brain Break |  | |
 |*2:45-3:15*  | Trajectory: Careers in Tech | Assigned | EM |
 |*3:15-4:15*  | Lab: Careers Research | Assigned | EM |
 |*4:15-4:45*  | Wrap Up | Assigned | Amy |
@@ -121,12 +122,14 @@
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Technical Warm Up | Assigned | EM |
 |*9:30-10:15* | Challenge: Paired Worktime |  | Amy |
-|*10:15-11:00*  | [Lab: Core Data in ViewFinder]() |  | Amy|
+|*10:15-11:00*| [Class: Core Data]() |  | Amy |
 |*11:00-11:15*  | Brain Break |  | |
-|*11:15-12:00*  | Class: Segues |  | Amy|
+|*11:15-12:00*  | [Lab: Core Data in ViewFinder]() |  | Amy|
 |*12:00-1:00* | Lunch |
-|*1:00-2:00*  | Lab: Build Photo Detail Page |  | Amy |
-|*2:00-4:15* | FILL THIS IN |  | Amy |
+|*1:00-1:45*  | Class: Segues |  | Amy|
+|*1:45-2:45*  | Lab: Build Photo Detail Page |  | Amy |
+|*2:45-3:00*  | Brain Break |  | |
+|*3:00-4:15* | FILL THIS IN |  | Amy |
 |*4:15-4:45*  | Wrap Up | Assigned | Amy |
 
 ### Day 9
