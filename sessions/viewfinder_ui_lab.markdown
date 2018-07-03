@@ -50,8 +50,8 @@ Similar to our StoryBoard and Actions/Outlets lessons, we will need to start wit
 
 * _Run on your iPad to make sure it's working_
 
-* Drag a `Navigation Item` onto the new ViewController. Change the title in the Utilities Pane.
 * The default `back button` will list the entire app name - feel free to change that to "back" or leave as is. You change it by clicking on the home page title, then filling in the `back button` form in the Utilities Pane.
+* Drag a `Navigation Item` onto the new ViewController. Change the title in the Utilities Pane.
 
 * _Run on your iPad to make sure it's working_
 
