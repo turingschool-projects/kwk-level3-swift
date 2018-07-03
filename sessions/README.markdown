@@ -113,11 +113,6 @@
 |*2:45-3:15*  | Trajectory: Careers in Tech | Assigned | EM |
 |*3:15-4:15*  | Lab: Careers Research | Assigned | EM |
 |*4:15-4:45*  | Wrap Up | Assigned | Amy |
-|*3:00-3:45*  | [Lab: Core Data in ViewFinder]() |  | Amy|
-
-|*1:00-1:30*  | Class: Segues |  | Amy|
-|*1:30-2:30*  | Lab: Build Photo Detail Page |  | Amy |
-|*2:30-2:45*  | Brain Break |  | |
 
 
 ### Day 8
@@ -126,12 +121,12 @@
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Technical Warm Up | Assigned | EM |
 |*9:30-10:15* | Challenge: Paired Worktime |  | Amy |
-|*10:15-10:45*  | Brain Break |  | |
-|*10:30-11:00*  | Class: Segues |  | Amy|
-|*11:00-12:00*  | Lab: Build Photo Detail Page |  | Amy |
+|*10:15-11:00*  | [Lab: Core Data in ViewFinder]() |  | Amy|
+|*11:00-11:15*  | Brain Break |  | |
+|*11:15-12:00*  | Class: Segues |  | Amy|
 |*12:00-1:00* | Lunch |
-
-
+|*1:00-2:00*  | Lab: Build Photo Detail Page |  | Amy |
+|*2:00-4:15* | FILL THIS IN |  | Amy |
 |*4:15-4:45*  | Wrap Up | Assigned | Amy |
 
 ### Day 9
@@ -140,7 +135,7 @@
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Journaling | Assigned | EM |
 |*9:30-10:15* | Challenge: Paired Worktime |  | Amy |
-
+|*10:15-12:00* | FILL THIS IN |  | Amy |
 |*12:00-1:00* | Lunch |
 |*1:15-1:45*  | Class: How to Demo |  | EM Team |
 |*1:45-2:45*  | Lab: Writing Your Demo |  | EM Team |
