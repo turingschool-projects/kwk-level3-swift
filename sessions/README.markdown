@@ -69,14 +69,16 @@
 |Time|Session|Status|Assigned|
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Technical Warm-Up | Assigned | EM |
-|*9:30-10:00*  | [Class: Design Theory]() | Assigned | Amy |
-|*10:00-10:30* | [Class: StoryBoard](./storyboard_slides.markdown) | _Needs Review_ | |
-|*10:30-11:30*| [Lab: StoryBoard](./storyboard_lab.markdown) | _Needs Review_ | |
-|*11:30-12:00*| [Class: Side Loading](./side_loading_slides.markdown) | _Needs Review_ | |
+|*9:30-10:00*  | [Collaboration: Code Challenge]() | Assigned | Amy |
+|*10:00-10:30*  | [Class: Design Theory]() | Assigned | Amy |
+|*10:30-10:45*  | Brain Break | Assigned | Amy |
+|*10:45-11:15* | [Class: StoryBoard](./storyboard_slides.markdown) | _Needs Review_ | |
+|*11:15-12:00*| [Lab: StoryBoard](./storyboard_lab.markdown) | _Needs Review_ | |
 |*12:00-1:00* | Lunch |
-|*1:00-1:30*  | [Class: Actions & Outlets]() | Assigned | Amy |
-|*1:30-2:45*  | [Lab: Actions & Outlets]() | Assigned | Amy |
-|*2:45-3:15*  | Demo: Viewfinder | | Amy |
+|*1:00-2:15*| [Lab: StoryBoard](./storyboard_lab.markdown) | _Needs Review_ | |
+|*2:15-2:45*| [Class: Side Loading](./side_loading_slides.markdown) | _Needs Review_ | |
+|*2:45-3:00*| Brain Break |  | |
+|*3:00-3:15*  | Demo: Viewfinder | | Amy |
 |*3:15-4:15*  | Feedback: Retrospective & Survey | Assigned | EM |
 |*4:15-4:45*  | Wrap Up | Assigned | Amy |
 
@@ -85,15 +87,15 @@
 |Time|Session|Status|Assigned|
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Technical Warm-Up | Assigned | EM |
-|*9:30-10:00* | Collaboration: Formal DTR |  | EM |
-|*10:00-10:45*| [Class: Accessing the Camera](./access_camera_slides.markdown) | _Needs Review_  | |
-|*10:45-11:30*| [Lab: Accessing the Camera & Photo Library](./access_camera_lab.markdown)  | _Needs Review_ | |
-|*11:30-12:00*| [Lab: Plan Your Design](./plan_your_design.markdown) | _Needs Review_ | |
+|*9:30-10:15* | Challenge: Paired Worktime |  | Amy |
+|*10:15-11:00* | [Class: Actions & Outlets]() | Assigned | Amy |
+|*11:00-12:00*| [Lab: Actions & Outlets]() | Assigned | Amy |
 |*12:00-1:00* | Lunch |
-|*1:00-1:30*  | [Class: Displaying Photos](./displaying_photos_slides.markdown) | _Needs Review_ | |
-|*1:30-3:00*  | [Lab: Displaying Photos](./displaying_photos_lab.markdown) | _Needs Review_ | |
+|*1:00-1:30*| Collaboration: Formal DTR |  | EM |
+|*1:30-2:30*  | [Lab: Plan Your Design](./plan_your_design.markdown) | _Needs Review_ | |
+|*2:30-3:00*  | [Class: Accessing the Camera](./access_camera_slides.markdown) | _Needs Review_  | |
 |*3:00-3:15*  | Brain Break |  | |
-|*3:15-4:15*  | [Lab: ViewFinder UI](./viewfinder_ui_lab.markdown) |  | Amy |
+|*3:15-4:15*  | [Lab: Accessing the Camera & Photo Library](./access_camera_lab.markdown)  | _Needs Review_ | |
 |*4:15-4:45*  | Wrap Up | Assigned | Amy |
 
 ### Day 7
@@ -101,31 +103,35 @@
 |Time|Session|Status|Assigned|
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Journaling | Assigned | EM |
-|*9:30-10:00* | Class: Core Data |  | Amy |
-|*10:00-11:00*| Lab: Core Data in ViewFinder |  | Amy|
-|*11:00-12:00*| Challenge: Paired Worktime |  | Amy |
+|*9:30-10:15* | Challenge: Paired Worktime |  | Amy |
+|*10:15-10:30*  | Brain Break |  | |
+|*10:30-11:00*  | [Class: Displaying Photos](./displaying_photos_slides.markdown) | _Needs Review_ | |
+|*11:00-12:00*  | [Lab: Displaying Photos](./displaying_photos_lab.markdown) | _Needs Review_ | |
 |*12:00-1:00* | Lunch |
-|*1:00-1:30*  | Class: Segues |  | Amy|
-|*1:30-2:30*  | Lab: Build Photo Detail Page |  | Amy |
-|*2:30-2:45*  | Brain Break |  | |
+|*1:00-2:00*| [Lab: ViewFinder UI](./viewfinder_ui_lab.markdown) |  | Amy |
+|*2:00-2:40*| [Class: Core Data]() |  | Amy |
 |*2:45-3:15*  | Trajectory: Careers in Tech | Assigned | EM |
 |*3:15-4:15*  | Lab: Careers Research | Assigned | EM |
 |*4:15-4:45*  | Wrap Up | Assigned | Amy |
+|*3:00-3:45*  | [Lab: Core Data in ViewFinder]() |  | Amy|
+
+|*1:00-1:30*  | Class: Segues |  | Amy|
+|*1:30-2:30*  | Lab: Build Photo Detail Page |  | Amy |
+|*2:30-2:45*  | Brain Break |  | |
+
 
 ### Day 8
 
 |Time|Session|Status|Assigned|
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Technical Warm Up | Assigned | EM |
-|*9:30-10:00* | Class: Manipulating Pixels |  | _Author Needed_ |
-|*10:00-11:00*| Lab: Building a B&W Filter |  | _Author Needed_ |
-|*11:00-12:00*| Challenge: Paired Worktime |  | _Author Needed_ |
+|*9:30-10:15* | Challenge: Paired Worktime |  | Amy |
+|*10:15-10:45*  | Brain Break |  | |
+|*10:30-11:00*  | Class: Segues |  | Amy|
+|*11:00-12:00*  | Lab: Build Photo Detail Page |  | Amy |
 |*12:00-1:00* | Lunch |
-|*1:00-1:30*  | Class: Palette Shifting |  | _Author Needed_ |
-|*1:30-2:30*  | Collaboration: Paired Worktime |  | _Author Needed_ |
-|*2:30-2:45*  | Collaboration: Paired Worktime |  | _Author Needed_ |
-|*2:45-3:15*  | Class: Storing & Sharing Images |  | _Author Needed_ |
-|*3:15-4:15*  | Lab: Implementing Storing & Sharing |  | _Author Needed_ |
+
+
 |*4:15-4:45*  | Wrap Up | Assigned | Amy |
 
 ### Day 9
@@ -133,10 +139,9 @@
 |Time|Session|Status|Assigned|
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Journaling | Assigned | EM |
-|*9:30-10:15* | Class: Distortions |  | _Author Needed_ |
-|*10:15-11:15*| Lab: Building a Mirror |  | _Author Needed_ |
-|*11:15-12:15*| Challenge: Paired Worktime |  | _Author Needed_ |
-|*12:15-1:15* | Lunch |
+|*9:30-10:15* | Challenge: Paired Worktime |  | Amy |
+
+|*12:00-1:00* | Lunch |
 |*1:15-1:45*  | Class: How to Demo |  | EM Team |
 |*1:45-2:45*  | Lab: Writing Your Demo |  | EM Team |
 |*2:45-3:45*  | Class: Demo Practice |  | EM Team |
