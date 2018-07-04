@@ -6,14 +6,12 @@
 
 ## Plan
 
-Give the instructor a 1-2 sentence overarching explanation of this lesson
-
+This is the most `tutorial-based` lab you will complete at Level 3 camp. Core Data is a big framework and we don't have time to learn it at a deep level. Today, follow along the step-by-step. Please **don't** copy and paste code - 1) it won't allow you to think about what the code you're typing is _doing_, and 2) you may have different names for some important variables, and need to think carefully about that. There are some reminders throughout, but keep in mind that copy and pasting along will _not_ make this piece of functionality work in your app!
 
 ### Getting Started
 
-* Provide directions for any set up needed
-* Some common ones - open an XCode Playground, Project, or get on your iPad Swift Playgrounds App.
-
+* Open up your ViewFinder project
+* Make sure you have completed the [Implement Camera and Display Photos Lab](https://github.com/turingschool-projects/kwk-level3-swift/blob/master/sessions/implement_camera_display_photos_lab.markdown)
 
 ### Core Data
 
