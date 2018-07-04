@@ -20,7 +20,6 @@ slidenumbers: true
 * Segues
 * UX (User Experience)
 
-^
 ---
 
 # Different Views in an App
@@ -32,6 +31,7 @@ slidenumbers: true
   - The note-taker will tally every time the app showed a completely different view
 
 ^ This is a warm up activity to get them to appreciate just how essential segues are in iOS apps. Feel free to make this dramatic as you'd like! After the timer is up, have each group share out. Discuss: What is the app you were on didn't have the capability to have different views? What was the transition like between views? (usually smooth, a page slide over, etc.)
+
 ---
 
 # Segues
