@@ -71,11 +71,10 @@
 |Time|Session|Status|Assigned|
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Technical Warm-Up | Assigned | EM |
-|*9:30-10:00*  | [Collaboration: Code Challenge]() | Assigned | Amy |
-|*10:00-10:30*  | [Class: Design Theory]() | Assigned | Amy |
-|*10:30-10:45*  | Brain Break | Assigned | Amy |
-|*10:45-11:15* | [Class: StoryBoard](./storyboard_slides.markdown) | _Needs Review_ | |
-|*11:15-12:00*| [Lab: StoryBoard](./storyboard_lab.markdown) | _Needs Review_ | |
+|*9:30-10:15*  | [Collaboration: Code Challenge]() | Assigned | Amy |
+|*10:15-11:00*  | [Class: Design Theory]() | Assigned | Amy |
+|*11:00-11:15*  | Brain Break | Assigned | Amy |
+|*11:15-12:00* | [Class: StoryBoard](./storyboard_slides.markdown) | _Needs Review_ | |
 |*12:00-1:00* | Lunch |
 |*1:00-2:15*| [Lab: StoryBoard](./storyboard_lab.markdown) | _Needs Review_ | |
 |*2:15-2:45*| [Class: Side Loading](./side_loading_slides.markdown) | _Needs Review_ | |
@@ -124,11 +123,11 @@
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Technical Warm Up | Assigned | EM |
 |*9:30-10:15* | Challenge: Paired Worktime |  | Amy |
-|*10:15-10:45*| [Class: Core Data]() |  | Amy |
-|*10:45-12:00*  | [Lab: Core Data in ViewFinder]() |  | Amy|
+|*10:15-10:45*| [Class: Core Data](./core_data_slides.markdown) |  | Amy |
+|*10:45-12:00*  | [Lab: Core Data in ViewFinder](./core_data_lab.markdown) |  | Amy|
 |*12:00-1:00* | Lunch |
-|*1:00-1:45*  | Class: Segues |  | Amy|
-|*1:45-2:45*  | Lab: Build Photo Detail Page |  | Amy |
+|*1:00-1:45*  | [Class: Segues](./segue_slides.markdown) |  | Amy|
+|*1:45-2:45*  | [Lab: Build Photo Detail View](./build_photo_detail_view.markdown) |  | Amy |
 |*2:45-3:00*  | Brain Break |  | |
 |*3:00-4:15* | FILL THIS IN |  | Amy |
 |*4:15-4:45*  | Wrap Up | Assigned | Amy |
