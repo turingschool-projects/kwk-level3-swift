@@ -124,9 +124,8 @@
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Technical Warm Up | Assigned | EM |
 |*9:30-10:15* | Challenge: Paired Worktime |  | Amy |
-|*10:15-11:00*| [Class: Core Data]() |  | Amy |
-|*11:00-11:15*  | Brain Break |  | |
-|*11:15-12:00*  | [Lab: Core Data in ViewFinder]() |  | Amy|
+|*10:15-10:45*| [Class: Core Data]() |  | Amy |
+|*10:45-12:00*  | [Lab: Core Data in ViewFinder]() |  | Amy|
 |*12:00-1:00* | Lunch |
 |*1:00-1:45*  | Class: Segues |  | Amy|
 |*1:45-2:45*  | Lab: Build Photo Detail Page |  | Amy |
