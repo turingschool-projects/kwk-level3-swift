@@ -55,7 +55,7 @@ Core Data:
 
 * Let's start by making sure we can access the context (❗️do NOT just copy and paste this in; you have to create the action❗️)
 
-  ```
+  ```swift
   @IBAction func savePhotoTapped(_ sender: UIButton) {
 
     if let context = (UIApplication.shared.delegate as? AppDelegate)?.persistentContainer.viewContext {
@@ -70,7 +70,7 @@ Core Data:
 
 This code won't _do_ anything yet; but it's important in the setup!
 
-```
+```swift
 if let context = (UIApplication.shared.delegate as? AppDelegate)?.persistentContainer.viewContext {
 
   let photoToSave = Photos(entity: Photos.entity(), insertInto: context)
@@ -80,7 +80,7 @@ if let context = (UIApplication.shared.delegate as? AppDelegate)?.persistentCont
 
 * Looking back at our long to-do list, it's time to store the caption! In this example, `captionText` is the OUTLET connected to the text field the user types into.
 
-```
+```swift
 if let context = (UIApplication.shared.delegate as? AppDelegate)?.persistentContainer.viewContext {
 
   let photoToSave = Photos(entity: Photos.entity(), insertInto: context)
@@ -96,7 +96,8 @@ Look at the following:
   - we are unwrapping it to make sure we have the image.
   - on the next line, we are converting the `userImage` into a format that program can read. Once that's done, we store that `userImageData` as the `imageData` property on `photoToSave`
 
-```if let context = (UIApplication.shared.delegate as? AppDelegate)?.persistentContainer.viewContext {
+```swift
+  if let context = (UIApplication.shared.delegate as? AppDelegate)?.persistentContainer.viewContext {
 
   let photoToSave = Photos(entity: Photos.entity(), insertInto: context)
 
@@ -119,7 +120,8 @@ Look at the following:
 
 * To update everything in Core Data, we will get the context, then call the `saveContext()` function on it:
 
-```if let context = (UIApplication.shared.delegate as? AppDelegate)?.persistentContainer.viewContext {
+```swift
+  if let context = (UIApplication.shared.delegate as? AppDelegate)?.persistentContainer.viewContext {
 
   let photoToSave = Photos(entity: Photos.entity(), insertInto: context)
 
@@ -138,7 +140,8 @@ Look at the following:
 
 * Lastly, we need to tell the navigationController that we want to send the user back to the other View Controller.
 
-```if let context = (UIApplication.shared.delegate as? AppDelegate)?.persistentContainer.viewContext {
+```swift
+  if let context = (UIApplication.shared.delegate as? AppDelegate)?.persistentContainer.viewContext {
 
   let photoToSave = Photos(entity: Photos.entity(), insertInto: context)
 
@@ -162,13 +165,13 @@ Look at the following:
 
 * At the top of your TableViewController class (it probably has a slightly different name), let's create an empty array, which will soon hold all our Core Data data. Call it whatever you would like/makes sense to you based on your Core Data Entity name. This example used `Photos` as the Core Data Entity name.
 
-```
+```swift
 var photos : [Photos] = []
 ```
 
 * We are saving the photos/captions, but we aren't asking Core Data for them and we aren't telling the Table View Controller to display them. In your TableViewController file (it probably has a slightly different name), right below the `viewDidLoad()` function, write a new function:
 
-```
+```swift
 function getPhotos() {
 
 }
@@ -176,7 +179,7 @@ function getPhotos() {
 
 * Again, we need to get into the Core Data context:
 
-```
+```swift
 function getPhotos() {
 
   if let context = (UIApplication.shared.delegate as? AppDelegate)?.persistentContainer.viewContext {
@@ -188,7 +191,7 @@ function getPhotos() {
 
 * Now that we have access to the context, we will use a function called `fetch()` to retrieve data from Core Data. As you write your own code, _remember_, this example used `Photos` as the name of the entity in Core Data, and `photos` is the variable that holds an array that was created at the top of the class.
 
-```
+```swift
 function getPhotos() {
 
   if let context = (UIApplication.shared.delegate as? AppDelegate)?.persistentContainer.viewContext {
@@ -208,7 +211,7 @@ function getPhotos() {
 
 * This `getPhotos()` function is all ready to go and will really help us out. BUT, we aren't calling it anywhere. Let's write a new functions, `viewWillAppear` (it should auto-populate as you start typing it), and inside of it, call the `getPhotos()` function.
 
-```
+```swift
 override func viewWillAppear(_ animated: Bool) {
   getPhotos()
 }
@@ -218,7 +221,7 @@ override func viewWillAppear(_ animated: Bool) {
 
 * We need to update one of the `tableView()` functions (the one with numberOfRowsInSection in the argument). Let's change the return value to photos.count
 
-```
+```swift
 override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
      return photos.count
 }
@@ -227,7 +230,8 @@ override func tableView(_ tableView: UITableView, numberOfRowsInSection section:
 * Run your simulator - what is different? What are we still missing? We should be seeing the right number of rows, but still seeing that placeholder image on the table. That's because we still have that icon hard-coded in on this line: `cell.imageView?.image = UIImage(named: "camera-icon")`. Let's change that!
 
 * We first need to access the current photo we are looking at.
-```
+
+```swift
 let cellPhoto = photos[indexPath.row]
 
 cell.textLabel?.text = cellPhoto.caption
@@ -235,7 +239,8 @@ cell.textLabel?.text = cellPhoto.caption
 ```
 
 * The function should end up like this:
-```
+
+```swift
 override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
     let cell = UITableViewCell()
 
