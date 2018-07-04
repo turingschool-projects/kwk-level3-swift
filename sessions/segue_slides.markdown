@@ -12,6 +12,7 @@ slidenumbers: true
 * Students will practice reading a blog post to learn a new skill!
 
 ^ This lesson will feel more like a lab. You will will be given guidance on how to read a blog post, implement the skills taught in it, then reflect on what you've learned. This is something that software engineers do almost DAILY! Many time, engineers are asked to used technologies they don't know anything about - their company doesn't send them back to school; they expect them to use their resources to learn on the job. We've talked about our 'Googling' skills - this is the next level. Using the plethora of information out there to learn and implement technologies!
+Link to Blog: https://medium.com/@fahd.saifuddin/swift4-all-you-need-to-know-about-using-segues-deac7fe835ef
 
 ---
 
