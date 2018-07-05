@@ -29,9 +29,12 @@ This lab time can be used to clean up any code, refine your UI, _OR_ add a featu
 **Tips:**
 
 Modify Table View:
+-
 
 Emoji Over Photo Detail:
-
+- In your <ProjectName>.xcdatamodeld file, add another attribute to your entity that currently has the photo and caption.
+- In your AddPhotoViewController, you will need to create another textField. In the function that is fired when you click `Submit`, you will also need to store the emoji in Core Data, similar to the way you saved the caption text.
+- In you Photo Detail View, add a Label to the StoryBoard. In the `viewDidLoad` function, you'll need to update that label with the emoji that is stored in Core Data. 
 
 ## Circle Back
 
