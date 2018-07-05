@@ -72,7 +72,7 @@
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Technical Warm-Up | Assigned | EM |
 |*9:30-10:15*  | [Collaboration: Code Challenge]() | Assigned | Amy |
-|*10:15-11:00*  | [Class: Design Theory]() | Assigned | Amy |
+|*10:15-11:00*  | [Class: Design Theory](./design_theory.markdown) | Assigned | Amy |
 |*11:00-11:15*  | Brain Break | Assigned | Amy |
 |*11:15-12:00* | [Class: StoryBoard](./storyboard_slides.markdown) | _Needs Review_ | |
 |*12:00-1:00* | Lunch |
@@ -89,8 +89,8 @@
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Technical Warm-Up | Assigned | EM |
 |*9:30-10:15* | Challenge: Paired Worktime |  | Amy |
-|*10:15-11:00* | [Class: Actions & Outlets]() | Assigned | Amy |
-|*11:00-12:00*| [Lab: Actions & Outlets]() | Assigned | Amy |
+|*10:15-11:00* | [Class: Actions & Outlets](./actions_outlets_slides.markdown) | Assigned | Amy |
+|*11:00-12:00*| [Lab: Actions & Outlets](./actions_outlets_lab.markdown) | Assigned | Amy |
 |*12:00-1:00* | Lunch |
 |*1:00-1:30*| Collaboration: Formal DTR |  | EM |
 |*1:30-2:30*  | [Lab: Plan Your Design](./plan_your_design.markdown) | _Needs Review_ | |
@@ -129,7 +129,7 @@
 |*1:00-1:45*  | [Class: Segues](./segue_slides.markdown) |  | Amy|
 |*1:45-2:45*  | [Lab: Build Photo Detail View](./build_photo_detail_view.markdown) |  | Amy |
 |*2:45-3:00*  | Brain Break |  | |
-|*3:00-4:15* | Delete Photo Functionality |  | Amy |
+|*3:00-4:15* | [Lab: Delete Photo Functionality](./delete_functionality_lab.markdown) |  | Amy |
 |*4:15-4:45*  | Wrap Up | Assigned | Amy |
 
 ### Day 9
@@ -138,12 +138,12 @@
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Journaling | Assigned | EM |
 |*9:30-10:15* | Challenge: Paired Worktime |  | Amy |
-|*10:15-12:00* | FILL THIS IN |  | Amy |
+|*10:15-12:00* | [Lab: Choose your own ... Feature!](./choose_your_own.markdown) |  | Amy |
 |*12:00-1:00* | Lunch |
 |*1:15-1:45*  | Class: How to Demo |  | EM Team |
 |*1:45-2:45*  | Lab: Writing Your Demo |  | EM Team |
 |*2:45-3:45*  | Class: Demo Practice |  | EM Team |
-|*3:45-4:15*  | Lab: Taking Your Work With You | Assigned | Amy |
+|*3:45-4:15*  | [Lab: Taking Your Work With You](./taking_work_with_you.markdown) | Assigned | Amy |
 |*4:15-4:45*  | Wrap Up | Assigned | Amy |
 
 ### Day 10
