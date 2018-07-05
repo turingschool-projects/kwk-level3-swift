@@ -109,8 +109,8 @@
 |*10:30-11:00*  | [Class: Displaying Photos](./displaying_photos_slides.markdown) | _Needs Review_ | |
 |*11:00-12:00*  | [Lab: Displaying Photos](./displaying_photos_lab.markdown) | _Needs Review_ | |
 |*12:00-1:00* | Lunch |
-|*1:00-1:45*| [Lab: ViewFinder UI](./viewfinder_ui_lab.markdown) |  | Amy |
-|*1:$5-2:30*| [Lab: Implement Camera and Displaying Photos](./implement_camera_display_photos_lab.markdown) |  | Amy |
+|*1:00-1:45*| [Lab: ViewFinder UI](./viewfinder_ui_lab.markdown) | _Needs Review_ | |
+|*1:$5-2:30*| [Lab: Implement Camera and Displaying Photos](./implement_camera_display_photos_lab.markdown) | _Needs Review_ | |
 |*2:30-2:45*  | Brain Break |  | |
 |*2:45-3:15*  | Trajectory: Careers in Tech | Assigned | EM |
 |*3:15-4:15*  | Lab: Careers Research | Assigned | EM |
@@ -123,11 +123,11 @@
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Technical Warm Up | Assigned | EM |
 |*9:30-10:15* | Challenge: Paired Worktime |  | Amy |
-|*10:15-10:45*| [Class: Core Data](./core_data_slides.markdown) |  | Amy |
-|*10:45-12:00*  | [Lab: Core Data in ViewFinder](./core_data_lab.markdown) |  | Amy|
+|*10:15-10:45*| [Class: Core Data](./core_data_slides.markdown) | _Needs Review_ | |
+|*10:45-12:00*  | [Lab: Core Data in ViewFinder](./core_data_lab.markdown) | _Needs Review_ | |
 |*12:00-1:00* | Lunch |
-|*1:00-1:45*  | [Class: Segues](./segue_slides.markdown) |  | Amy|
-|*1:45-2:45*  | [Lab: Build Photo Detail View](./build_photo_detail_view.markdown) |  | Amy |
+|*1:00-1:45*  | [Class: Segues](./segue_slides.markdown) | _Needs Review_ | |
+|*1:45-2:45*  | [Lab: Build Photo Detail View](./build_photo_detail_view.markdown) | _Needs Review_ | |
 |*2:45-3:00*  | Brain Break |  | |
 |*3:00-4:15* | [Lab: Delete Photo Functionality](./delete_functionality_lab.markdown) |  | Amy |
 |*4:15-4:45*  | Wrap Up | Assigned | Amy |
@@ -138,7 +138,7 @@
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Journaling | Assigned | EM |
 |*9:30-10:15* | Challenge: Paired Worktime |  | Amy |
-|*10:15-12:00* | [Lab: Choose your own ... Feature!](./choose_your_own.markdown) |  | Amy |
+|*10:15-12:00* | [Lab: Choose your own ... Feature!](./choose_your_own_lab.markdown) |  | Amy |
 |*12:00-1:00* | Lunch |
 |*1:15-1:45*  | Class: How to Demo |  | EM Team |
 |*1:45-2:45*  | Lab: Writing Your Demo |  | EM Team |
