@@ -256,8 +256,8 @@ override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexP
 }
 ```
 
-* You should now see your photos showing up on the list, and the list should only be as long as the number of photos you have! You can now delete all the other commented out code!
+* You should now see your photos showing up on the list, and the list should only be as long as the number of photos you have! 
 
 #### Expected
 
-* ADD IN INSTRUCTIONS FOR DELETE FUNCTIONALITY ON TABLE VIEW 
+* ADD IN INSTRUCTIONS FOR DELETE FUNCTIONALITY ON TABLE VIEW
