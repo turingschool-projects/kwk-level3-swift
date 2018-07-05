@@ -129,7 +129,7 @@
 |*1:00-1:45*  | [Class: Segues](./segue_slides.markdown) |  | Amy|
 |*1:45-2:45*  | [Lab: Build Photo Detail View](./build_photo_detail_view.markdown) |  | Amy |
 |*2:45-3:00*  | Brain Break |  | |
-|*3:00-4:15* | FILL THIS IN |  | Amy |
+|*3:00-4:15* | Delete Photo Functionality |  | Amy |
 |*4:15-4:45*  | Wrap Up | Assigned | Amy |
 
 ### Day 9
