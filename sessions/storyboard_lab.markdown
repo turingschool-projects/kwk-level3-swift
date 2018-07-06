@@ -39,7 +39,7 @@ Now, add an icon image. Run in simulator to make sure it was loaded in correctly
 
 #### Extension
 
-Start over! (You probably just want to create a new project to keep your old work.) Delete the ViewController from your StoryBoard and drag on a Navigation Controller. This should pull up 2 screens on your StoryBoard - a Navigation Controller pointing to a TableView. Delete the TableView, then drag on a View Controller. `ctrl + drag` from the Navigation to View, then select "View" to create a "segue" - (feel free to Google Xcode segues to learn more!)
+Start over!
 
 Drag a 'Navigation Bar' onto the View Controller. Edit the title. Drag 1 or more Navigation Item onto the Navigation Bar - play around with the different icons that are built in that you can use!
 

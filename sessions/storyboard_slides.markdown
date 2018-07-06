@@ -52,6 +52,37 @@ slidenumbers: true
 
 ---
 
+# Nav Bar and Tool Bar
+
+* Drag and drop a `Navigation Bar` onto the StoryBoard
+* Drag and drop a `Bar Button Item` - notice where you can place them
+
+* Drag and drop a `ToolBar` onto the StoryBoard
+* Drag and drop a `Bar Button Item` - notice where you can place them, you can also use `Flexible Space Bar Button Item` to control spacing.
+
+^ MODEL: Go back to Xcode, model dragging and dropping in (in this order):
+- Navigation Bar, change the title
+- Bar Button Item (or two). Model how to change to icon, or text.
+- ToolBar
+- Bar Button Item (2+), with Flexible Space Bar Button Items in between
+
+---
+
+# Labels, Buttons, Images, & more!
+
+* On the simulator, click the 'Home' button, and notice our app icon is pretty boring.
+* To add an icon for iPad, it must be exactly 152x152
+* Drag and drop the image from your finder, into the '2x' box right above 'iPad App, iOS 7 - 11 76pt'
+
+^ MODEL: Go back to Xcode, model dragging and dropping in (in this order):
+- View - Recommended to change color so it's clear what you did.
+- Label - Show both ways that text can be changed
+- Image
+- Recommended to scroll through and show them buttons. sliders, date picker, etc. - just to get them excited about what is available!
+
+
+---
+
 # Constraints
 
 * Everything looks great on my screen, but in the simulator... not so much.
