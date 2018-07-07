@@ -4,7 +4,7 @@ As you can see in the `main.swift`, our plane should be able to fly places. But 
 
 ## What We're Going For
 
-When this iteration is done we should be able to fly between known cities. When we run the program and hit `b` to fly we will see some output like this:
+When this iteration is done, we should be able to fly between known cities. When we run the program and type in `b` to fly we will see an output something like this:
 
 ```
 Where would you like to fly to?
@@ -21,19 +21,19 @@ Destination Number:
 
 Open the `AviatrixData` file and check out the data that's in there. You should find:
 
-* `fuelPrices` in a later iteration we'll work on purchasing fuel. At that time we'll need this collection of fuel prices.
-* `knownDistances` is a huge dictionary that defines the distances between the supported cities where each city marker points to another dictionary. The second-level dictionary has the cities you could fly to along with the distance to get there.
+* `fuelPrices` - in a later iteration we'll work on purchasing fuel. At that time we'll need this collection of fuel prices.
+* `knownDistances` - this is a huge dictionary that defines the distances between the supported cities where each city marker points to another dictionary. The second-level dictionary has the cities you could fly to along with the distance to get there.
 
 ## Building the Menu
 
-Right now when we enter `b` for the fly menu we just see:
+Right now when we type in `b` for the fly menu we just see:
 
 ```
 Action: b
 
 Where would you like to fly to?
 
-0) St. Louis (0 miles)
+0: St. Louis () miles
 ```
 
 Let's work on displaying more destinations.
@@ -54,37 +54,11 @@ Remember that all the data about destinations is in `AviatrixData`. We want to h
 
 *Can you write the code so that the `knownDestinations` function returns just the keys from that dictionary?*
 
-Run your code in `main.swift` and you should see output like this:
-
-```
-Action: b
-
-Where would you like to fly to?
-
-0) St. Louis (0 miles)
-1) St. Louis (0 miles)
-2) St. Louis (0 miles)
-3) St. Louis (0 miles)
-```
-
-St. Louis shows up four times instead of one. That's progress.
+Stuck? Remember, to access the data from `AviatrixData`, we have to have an instance of it. Also, look back at the Dictionary slides if you need to refresh on how to access keys.
 
 #### Results
 
 If you get that function right and run the program, you'll get output like this:
-
-```
-Action: b
-
-Where would you like to fly to?
-
-0) St. Louis (0 miles)
-1)  (0 miles)
-2)  (0 miles)
-3)  (0 miles)
-```
-
-Since the other cities aren't in our dictionary, they are nil, so nothing shows up. Let's make sure our `location_names` function returns the location names dictionary which is in our `AviatrixData` file.
 
 ```
 Action: b
@@ -98,6 +72,7 @@ Where would you like to fly to?
 ```
 
 We've got the city names and next want to add in the distances.
+
 
 ### Distance to Destination
 
@@ -121,7 +96,7 @@ The distance from St. Louis to Phoenix is 1260 miles. You can see that number in
 knownDistances["St. Louis"]!["Phoenix"]!
 ```
 
-The `knownDistances` variable is a dictionary. `"St. Louis` is a key in that dictionary. It points to a value which is *another* dictionary.
+The `knownDistances` variable is a dictionary. `St. Louis` is a key in that dictionary. It points to a value which is *another* dictionary.
 
 `"Phoenix` is a key in that second dictionary. It points to a value 1260, which is what we're looking for.
 
@@ -138,6 +113,16 @@ return data.knownDistances["St. Louis"]![target]!
 ```
 
 That'll work great as long as our current location is St. Louis. But we're about to start moving around. How can you modify this line so that it works based on our _current_ location?
+
+Stuck? The `distanceTo` function needs to take another argument so we don't have to hard-code a certain city in.
+
+Once this is done, let's update the message in `fly` in `main.swift` that says:
+
+```
+print("🛬 You've arrived in ________________!")
+```
+
+... so that it actually prints out the planes location.
 
 #### Results
 
@@ -186,16 +171,16 @@ In Aviatrix, find the `flyTo` function. It looks like this:
 
 ```
 func flyTo(destination : String) {
-        
+
 }
 ```
 
-The `destination` that comes in is the marker like `"Denver"`. 
-*Can you write one line here that stores that marker into the plane's `location` instance variable?
+The `destination` that comes in is the marker like `"Denver"`.
+*Can you write one line here that stores that marker into the plane's `location` instance variable?*
 
 Test it by running `main.swift` and -- you're still in St. Louis???
 
-#### Dream Destinations
+### EXTENSION: Dream Destinations
 
 Can you add a destination to the application? You'll need to carefully change `AviatrixData`:
 
