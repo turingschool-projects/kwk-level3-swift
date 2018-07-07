@@ -175,10 +175,21 @@ func flyTo(destination : String) {
 }
 ```
 
-The `destination` that comes in is the marker like `"Denver"`.
-*Can you write one line here that stores that marker into the plane's `location` instance variable?*
+The `destination` that comes in is the city like `"Denver"`.
+*Can you write one line here that stores that city into the plane's `location` instance variable?*
 
 Test it by running `main.swift` and -- you're still in St. Louis???
+
+
+#### Location Update in Gauges
+
+In `main.swift`, there is a `gauges` function that is just printing out some information what the user types in `a`. Uncomment the line that says:
+
+```
+print("| Location:  | \(plane.location)")
+```
+
+Now, run your program and type in `a`.
 
 ### EXTENSION: Dream Destinations
 

@@ -4,21 +4,16 @@ Right now our magical plane can fly around and around, never running out of fuel
 
 ## Tracking Distance Flown
 
-When you read the gauges in `main.swift` you see something like this:
+When you type in `a` to read the gauges in `main.swift` you see something like this:
 
 ```
 Reading the gauges...
 
 | Running:   | ✅
 | Location:  | St. Louis
-| Fuel:      | 0 gallons
-| Max Fuel:  | 0 gallons
-| MPG:       | 0.4
-| Fuel Bill: | $0.00
-| Distance:  | 0 miles
 ```
 
-That `Distance` line doesn't change even when we fly to other cities.
+The other line in `main.swift`'s `gauge` function are commented out because an error would be thrown - those variables don't yet exist in `Aviatrix`. Let's start out by addressing the distance.
 
 ### In The Simulator
 
@@ -32,9 +27,11 @@ That tells us the distance is coming from the `distanceTraveled` function.
 
 ### `distanceTraveled`
 
-In Aviatrix, `distanceTraveled` is an variable -- it's just a number that's stored, not a method that does calculations. Up at the top of the class, it gets set to `0` when the plane is first created.
+In Aviatrix, we need to create a `distanceTraveled` instance variable -- it's just a number that's stored, not a method that does calculations. We need to set it to `0` when the plane is first created.
 
-But it never gets changed. What code can you add to the `flyTo` function so that it updates the value of `distanceTraveled`? Make sure that the values accumulate as you go from one city to another, _not_ resetting each time. Pay careful attention to the order of your instructions in `flyTo`!
+But it never gets changed. What code can you add to the `flyTo` function so that it updates the value of `distanceTraveled`?
+
+To start: **pseudo-code** the things that need to happen here. THEN make it happen with Swift. Make sure that the values accumulate as you go from one city to another, _not_ resetting each time. Pay careful attention to the order of your instructions in `flyTo`!
 
 #### Results
 
@@ -43,10 +40,6 @@ When it's working and you fly a plane from St. Louis to Denver, the gauges would
 ```
 | Running:   | ✅
 | Location:  | Denver
-| Fuel:      | 0 gallons
-| Max Fuel:  | 0 gallons
-| MPG:       | 0.4
-| Fuel Bill: | $0.00
 | Distance:  | 768 miles
 ```
 
@@ -55,16 +48,13 @@ Then after flying back to St. Louis:
 ```
 | Running:   | ✅
 | Location:  | St. Louis
-| Fuel:      | 0 gallons
-| Max Fuel:  | 0 gallons
-| MPG:       | 0.4
-| Fuel Bill: | $0.00
 | Distance:  | 1536 miles
 ```
 
-#### Challenge
+#### AHEAD OF THE CLASS? Challenge
 
 Starting in St. Louis, what's the closest you can get to flying 5000 miles without going over?
+
 
 ## Burning Fuel
 
@@ -72,7 +62,7 @@ It takes a lot of gasoline to move an airplane. Commercial flights loaded up wit
 
 Let's build out the fuel-tracking in our project.
 
-### In The Console
+### In The Console vs. Code
 
 When you read the gauges in the console you see:
 
@@ -81,16 +71,27 @@ Reading the gauges...
 
 | Running:   | ✅
 | Location:  | St. Louis
-| Fuel:      | 0 gallons
-| Max Fuel:  | 0 gallons
-| MPG:       | 0.4
-| Fuel Bill: | $0.00
 | Distance:  | 0 miles
 ```
 
+In our code, we have something like this:
+
+```
+print("Reading the gauges...")
+print(" ")
+print("| Location:  | \(plane.location)")
+//    print("| Fuel:      | \(plane.fuelLevel) gallons")
+//    print("| Max Fuel:  | \(plane.maxFuel) gallons")
+//    print("| MPG:       | \(plane.milesPerGallon)")
+//    print("| Fuel Bill: | \(plane.fuelCost)")
+print("| Distance:  | \(plane.distanceTraveled) miles")
+```
+
+...meaning we will need a `fuelLevel`, `maxFuel`, `milesPerGallon`, and `fuelCost` variable or function.
+
 ### Max Fuel
 
-*Can you modify the code in your Aviatrix so the Max Fuel shows up as 5000 gallons?*
+*Can you modify the code in your Aviatrix so the Max Fuel shows up as 5000 gallons?* Think back to what we did to get `distanceTraveled` to appear.
 
 When it works your gauges will show this:
 
@@ -99,10 +100,7 @@ Reading the gauges...
 
 | Running:   | ✅
 | Location:  | St. Louis
-| Fuel:      | 5000 gallons
 | Max Fuel:  | 5000 gallons
-| MPG:       | 0.4
-| Fuel Bill: | $0.00
 | Distance:  | 0 miles
 ```
 
@@ -110,9 +108,10 @@ Reading the gauges...
 
 Let's track how much fuel we're using to fly:
 
-* Your plane has a `milesPerGallon` attribute with the value `0.4`
 * You know how far it is from one city to another
 * Your fuel level is stored in the `fuelLevel` attribute.
+
+Let's add another instance variable - `milesPerGallon` and set it to `0.4`.
 
 *Can you modify your `flyTo` method so that it calculates how much fuel is used during the flight and decreases `fuelLevel` the right amount?*
 
@@ -148,6 +147,7 @@ mpg = 0.55 - (Number of Gallons)x(0.00005)
 ```
 
 What's the different in the miles-per-gallon of a full tank versus when the tank is empty?
+
 
 ## Refueling
 
@@ -200,7 +200,7 @@ Here are a couple tips:
 
 Eventually you'll have to pay that fuel bill. Let's keep track of our total spent on refueling.
 
-Your plane has a `fuelCost` variable that starts at zero. Each time you refuel, add the amount that you spent to the total `fuelCost`. Read your gauges after two refuelings and make sure that the total is correct.
+Your plane has a `fuelCost` variable that starts at zero. Each time you refuel, add the amount that you spent to the total `fuelCost`. Read your gauges after two refuels and make sure that the total is correct.
 
 ## What We've Got
 
@@ -209,7 +209,8 @@ Your plane has a `fuelCost` variable that starts at zero. Each time you refuel, 
 * We can refuel in any city
 * We track the total cost of refueling
 
+
 ## Challenges
 
 * Try to visit each of the four cities we started with (St. Louis, Phoenix, Denver, and Salt Lake City). What's the *lowest possible fuel bill* to complete the trip without crashing?
-* What's the most total miles you can travel with just one refueling?
+* What's the most total miles you can travel with just one refuel?
