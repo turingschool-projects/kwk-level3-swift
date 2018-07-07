@@ -115,6 +115,19 @@ var phones = [
 
 ---
 
+# **JUST** get the keys
+
+Let's say we want a list of all the companies that make the phones, but we _don't_ want to have to look at the phone names.
+
+```
+phones.keys
+Array(phones.keys)
+```
+
+^ `phones.keys` gives us a KEYS object with "apple", and "google" but is difficult to USE because KEYS is not a commonly used data type. Typically, you'll see iOS developers wrap `Array()` around, in this case, the `phones.keys` so that KEYS objects can be converted into an ARRAY, which is much more friendly!
+
+---
+
 # Whiteboards
 
 Create a dictionary with a list of 3 people (yourself, family, friends, or other students here!) and their birthdays
