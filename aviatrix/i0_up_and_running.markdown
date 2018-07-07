@@ -4,9 +4,13 @@
 
 For this project you're going to work within some code we've already built. Follow the following steps to get it up and running on your computer:
 
-1. <TODO: steps>
-2. <TODO: steps>
-3. <TODO: Steps>
+1. Visit `https://github.com/turingschool-projects/aviatrix_swift`
+2. Click the green `Clone or Download` button
+3. Click `Download ZIP`
+4. Open in Finder, rename if you'd like
+5. Drag to Desktop (so you can easily find it!)
+6. Open the folder, double-click the file that ends in `.xcodeproj`
+7. A box will appear that says something like: “AviatrixApp” is a project downloaded from the Internet. Are you sure you want to open it? Click `Open`.
 
 ## Exploring the Code Base
 
