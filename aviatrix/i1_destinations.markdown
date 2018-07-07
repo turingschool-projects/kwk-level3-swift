@@ -199,7 +199,7 @@ After this work, when you run the program:
 * Flying to a different city works and we can move city to city
 * Refueling doesn't do anything yet
 
-Make sure your code works like that before you move on to [I2: Distances](./i2_distances_and_fuel.markdown).
+Make sure your code works like that before you move on to [I2: Distances](./i2_distance_and_fuel.markdown).
 
 ## Extra Challenge
 
