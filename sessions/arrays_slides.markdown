@@ -102,6 +102,7 @@ shoppingList[2]
 shoppingList[0]
 => "Bread"
 ```
+^ You may want/need to explain that these lines `=> "Milk"` and `=> "Bread"` are indicating the return value of the previous code; it's just a way to notate what happens after writing some code.
 
 ---
 
@@ -148,7 +149,7 @@ shoppingList.remove(at: 0)
 
 When you need to perform an operation on all of an array's elements, you can **iterate** over the entire set of values in an array.  The most common way to iterate over values in an array is to use a `for-in` loop.
 
-Looking back at our shopping list from earlier, we can utilize a `for in` loop to print every value in the array at every index, from 0 to the last element
+Looking back at our shopping list from earlier, we can utilize a `for-in` loop to print every value in the array at every index, from 0 to the last element
 
 ---
 
