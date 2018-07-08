@@ -54,8 +54,8 @@ Lead a discussion on why each data type is better for the given list
 
 # Create a Dictionary
 
-```
-var phones = [String, String]()
+```swift
+var phones : [String: String] = [:]
 
 print(phones)
 => [:]
@@ -65,8 +65,8 @@ print(phones)
 
 # Create a Dictionary
 
-```
-var phones = [String, String]()
+```swift
+var phones : [String: String] = [:]
 ```
 I have a variables called phones, which is currently an empty dictionary which will hold a String in the key and a String in the value.
 
@@ -74,7 +74,7 @@ I have a variables called phones, which is currently an empty dictionary which w
 
 # Add key/value pairs
 
-```
+```swift
 phones["apple"] = "iPhone"
 phones["google"] = "Pixel 2"
 
@@ -86,19 +86,21 @@ print(phones)
 
 # Access information
 
-Since we access values with the key, keys must be unique
-```
+Since we access values with the key, keys must be unique:
+
+```swift
 phones["apple"]
 
 => Optional("iPhone")
 ```
+
 ^ Make sure to point this out: the way we access values from a dictionary is by using the key - this means that we can't re-use keys. If you have multiple things with a similar title, you'll see programmers use key_1, key_2, etc.
 
 ---
 
 # Remove key/value pairs
 
-```
+```swift
 phones["apple"] = nil
 ```
 
@@ -106,7 +108,7 @@ phones["apple"] = nil
 
 # Start a dictionary with data
 
-```
+```swift
 var phones = [
   "apple": "iPhone",
   "google": "Pixel 2"
