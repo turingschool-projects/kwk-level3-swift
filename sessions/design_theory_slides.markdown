@@ -3,7 +3,8 @@ slidenumbers: true
 
 # Design Theory
 
-^ This is a teacher-talk heavy class as is; feel free to add in CFUs, Turn-and-Talks as you go. This isn't an _essential_ to the curriculum, but we wanted the girls to have some exposure to UX/UI principles now that they have some experience developing small apps from KWK 1&2. The most important outcome of this lesson will be having it to refer to as they are building wireframes and UIs - in their process and potential feedback you provide them with.
+^ REC: Use a deckset theme with a WHITE background - it will help for the `Law of Closure` slide. This is a teacher-talk heavy class as is; feel free to add in CFUs, Turn-and-Talks as you go. This isn't _essential_ to the curriculum, but we wanted the girls to have some exposure to UX/UI principles now that they have some experience developing small apps from KWK 1&2. The most important outcome of this lesson will be having it to refer to as they are building wireframes and UIs - in their process and potential feedback you provide them with.
+
 
 ---
 
@@ -15,9 +16,11 @@ slidenumbers: true
 
 # Gestalt Psychology
 
-Gestalt Psychology is a concept used to describe how we perceive the world around us as **complete units and patterns** rather than a series of unrelated parts.
+Gestalt Psychology is a concept used to describe how we perceive the world around us as **complete units and patterns** vs. a series of unrelated parts.
 
-"Gestalt" means "shape" or "form", which is fitting as these principals describe the ways in which humans are hard-wired to see patterns and apply structures to quickly understand their surroundings
+"Gestalt" means "shape" or "form"
+
+Humans are hard-wired to see patterns and apply structures to quickly understand their surroundings
 
 ---
 
@@ -92,6 +95,15 @@ Objects aligned on a path are viewed as moving in an implied direction. We conti
 Contours and gaps in a figure will be seen as completed contours
 
 ![inline](slide_images/closure.png)
+
+^ There are no triangles or circles in this visual, but we are able to fill the missing space to complete these familiar shapes
+
+---
+
+# Principle 6: Law of Closure
+
+Contours and gaps in a figure will be seen as completed contours
+
 ![inline](slide_images/closure2.png)
 
 ^ There are no triangles or circles in this visual, but we are able to fill the missing space to complete these familiar shapes
@@ -118,7 +130,7 @@ By using consistent size, spacing, and alignment, we see this group of icons as 
 
 # Law of Enclosure in Action
 
-This examples shows several levels of enclosure, which all help to clarify and streamline how we read and understand this content.
+Enclosure: help to clarify and streamline how we read and understand this content.
 
 ![inline](slide_images/enclosure-example.png)
 
@@ -142,9 +154,9 @@ Another example of this is the status bar of a media player. The accent color is
 
 # Law of Proximity in Action
 
-We can see that the avatar, user name, and display name are grouped closely together. This helps us read this information as a group of related and connected objects. It also separates the user details from the secondary information that described number of tweets and followers.
-
 ![inline](slide_images/proximity-example.png)
+
+^ We can see that the avatar, user name, and display name are grouped closely together. This helps us read this information as a group of related and connected objects. It also separates the user details from the secondary information that described number of tweets and followers.
 
 ---
 
