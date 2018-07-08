@@ -3,6 +3,8 @@ slidenumbers: true
 
 # Functions
 
+^ Instructor: To set up, have a playground open, with the `walkDog()` function declared, no code inside the block.
+
 ---
 
 # Learning Goals
@@ -36,14 +38,11 @@ Let's pretend we have a robot who is going to help us run a dog walking service.
 
 # Functions
 
+```swift
 func walkDog() {  
-  // put on leash
-  // open door
-  // leave house
-  // walk
-  // walk back to house
-  // etc.
+
 }
+```
 
 ^ Some people describe functions as 'packages of commands' - we usually group a few commands into one function. The function name should describe what it's job is.
 Today, we are going to write a walkDog function, which will give a set of commands to the robot to walk a dog.
@@ -54,11 +53,13 @@ Take notes on whiteboard of the list students create. Explain that those are all
 
 # Syntax - Declaring
 
+```swift
 func walkDog() {
   // code
   // goes
   // here
 }
+```
 
 ^ Switch over to a Swift playground and live code this (since you want to use the student generated list of commands)
 Start with function declaration: func walkDog() { }
@@ -90,12 +91,13 @@ We can make functions a little 'smarter' with something called 'arguments'
 
 # Arguments - Syntax
 
+```swift
 func walkDog(numberOfDogs : Int) {
   print("There are \(numberOfDogs) dogs in the house")
 }
 
-
-func walkDog(numberOfDogs : 4)
+walkDog(numberOfDogs : 4)
+```
 
 ^ Show this slide, explain that the 4 that is passed into the function call is substituted into the function, so anytime the function sees the variable `numberOfDogs` - it will substitute 4 in for that variable.
 Be careful - the spaces surrounding the ":" in the function declaration's () DO matter - (numberOfDogs : Int) works and (numberOfDogs:Int) work buts (numberOfDogs :Int) or (numberOfDogs: Int) do NOT work.
@@ -118,12 +120,14 @@ Part of the way they do this is by 'returning' a value. Return values can be any
 
 # Return Values - Syntax
 
+```swift
 func walkDogs(numberOfDogs : Int) -> Int {
 
   return 3
 }
 
 walkDogs(numberOfDogs : 3)
+```
 
 ^ Point out the "-> Int" and "return 3" pieces. Explain that the "->" tells the computer to expect a return value out of this function, and "Int" means that the return value must be an integer.
 Because it's expecting an integer to be returned, we use the "Return" keyword on the last line of the function. We can return an integer like 3; OR, and more commonly, return a variable with an integer value. That way, depending on what happens in our function, we may return something unique.
@@ -153,4 +157,4 @@ The "let" was used because minutes to walk is not changed. If you are curious, t
 * Make sure to follow the directions closely, taking time to plan everything in your notebook with your partner
 
 ^ Circulate and listen in on brainstorming. As girls ask for approval, make sure you think ahead as to what arguments could be passed in given the task they want their robot to complete.
-Make sure they are NOT jumping straight into their code and are really planning out the commands before coding. 
+Make sure they are NOT jumping straight into their code and are really planning out the commands before coding.
