@@ -9,7 +9,7 @@ slidenumbers: true
 
 * Students will be able to create a class and objects
 * Students will be able to explain the difference between a class and an object
-* Students will be able to create dynamic objects using the init function and properties
+* Students will be able to create dynamic objects using the `init` function and properties
 
 ---
 
@@ -23,9 +23,9 @@ slidenumbers: true
 
 ---
 
-# Class == Blueprint
+# Class == Blueprint/Cookie Cutter
 
-* In programming, 'class' is a special word
+* In programming, 'class' is a keyword
 * A class is like a blueprint, or a cookie cutter
 * We have one class that has all the basics, then we create objects based on a class
 
@@ -38,10 +38,16 @@ Let's actually LOOK at a class
 
 ---
 
+# Class == Blueprint/Cookie Cutter
+
+![inline](slide_images/cookie_cutter.png)
+
+---
+
 # Class syntax
 
 * start with keyword `class`, lowercased
-* class name is next, capitalized
+* class name is next, 1st letter capitalized
 * open code block with curly brackets
 
 ```
@@ -55,7 +61,7 @@ class Student {
 # Working with Classes in Xcode, Properties
 
 * create project --> macOS --> Terminal App
-* create new file in main directory - in that file:
+* create new file, call it `StudentClass` in main directory - in that file:
 
 
 ```
@@ -72,6 +78,14 @@ var studying = "Swift"
 var name = "pick a name!"
 Explain that "grade" and "studying" and "name" are PROPERTIES of this class
 One problem - the name is going to be the same for every student. Next slide explains.
+
+---
+
+# Object == THE Cookie
+
+![inline](slide_images/cookies.png)
+
+^ Objects are created FROM classes - they are like the cookie. We can have one class that creates objects and objects and objects - all can be slightly different! 
 
 ---
 
@@ -129,7 +143,6 @@ You should now see the print statement reflecting the new name that was passed i
 
 * Classes can have properties AND actions!
 * Actions are simply functions that are associated with a class.
-
 
 ^ Inside the code block of the class, we can add functions!
 This means that every object created from a class, will have **access** to this function. Let's write one so we can see it in action. ACCESS -- allowed to use in this case
