@@ -23,9 +23,8 @@ slidenumbers: true
 * Open your project in Xcode
 1. In the Navigator Pane, click on the root of the Project
 2. Then click on the Project Name under TARGETS
-3. Last, in the Interface Builder Plan, make sure you are on the 'General' Tab
+3. Last, in the Interface Builder Pane, make sure you are on the 'General' Tab
 
-^ This is a comment for presenter notes!
 ---
 
 # Setup
@@ -81,7 +80,17 @@ slidenumbers: true
 # Run Application on iPad
 
 ![inline](slide_images/side_loading_xcode_change_device.png)
+
+---
+
+# Run Application on iPad
+
 ![inline](slide_images/side_loading_xcode_select_device.png)
+
+---
+
+# Run Application on iPad
+
 ![inline](slide_images/side_loading_xcode_run_app.png)
 
 ---
@@ -89,6 +98,7 @@ slidenumbers: true
 # It should fail
 
 ![inline](slide_images/side_loading_ipad_untrusted_dev.jpg)
+
 ---
 
 # How to solve that problem
