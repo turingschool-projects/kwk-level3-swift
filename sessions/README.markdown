@@ -39,8 +39,8 @@
 |Time|Session|Status|Assigned|
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Technical Warm-Up | Assigned | EM |
-|*9:30-10:00* | ⭐️[Class: For & For-In](./for-in-loops-slides.markdown)⭐️ | _Needs Review_ |  |
-|*10:00-11:00*| ⭐️[Lab: Practicing Loops](./for-in-loops-lab.markdown)⭐️ | _Needs Review_ |  |
+|*9:30-10:00* | ⭐️[Class: For & For-In](./for_in_loops_slides.markdown)⭐️ | _Needs Review_ |  |
+|*10:00-11:00*| ⭐️[Lab: Practicing Loops](./for_in_loops_lab.markdown)⭐️ | _Needs Review_ |  |
 |*11:00-12:00*| Challenge: There a Hole in the Bottom of the Sea | Assigned | Brian |
 |*12:00-1:00* | Lunch |
 |*1:00-1:30*  | ⭐️[Class: Dictionaries](./dictionaries_slides.markdown)⭐️ | Complete |  |
