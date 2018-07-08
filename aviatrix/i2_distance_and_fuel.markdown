@@ -113,7 +113,7 @@ Let's track how much fuel we're using to fly:
 
 Let's add another instance variable - `milesPerGallon` and set it to `0.4`.
 
-*Can you modify your `flyTo` method so that it calculates how much fuel is used during the flight and decreases `fuelLevel` the right amount?*
+*Can you modify your `flyTo` in the `Aviatrix` class method so that it calculates how much fuel is used during the flight and decreases `fuelLevel` the right amount?*
 
 When it's working correctly and you fly from St. Louis to Denver your gauges will say:
 
@@ -125,7 +125,6 @@ Reading the gauges...
 | Fuel:      | 3080.00 gallons
 | Max Fuel:  | 5000 gallons
 | MPG:       | 0.4
-| Fuel Bill: | $0.00
 | Distance:  | 768 miles
 ```
 
