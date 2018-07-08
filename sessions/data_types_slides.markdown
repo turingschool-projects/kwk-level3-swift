@@ -59,6 +59,24 @@ Integers are what we would think of as whole numbers. They can be positive or ne
 
 ---
 
+# Good to Know
+
+* We can use math operations on:
+  - an integer with another integer
+  - a double with another double
+
+
+* We CANNOT use math operations on a double and and integer
+
+^ Why? They are technically different data types! Even though they all look like numbers to us - they are stored differently. To use math operations on an integer with a double, we would convert the integer into a double.
+Example:
+`var integer = 4`
+`var double = 5.0`
+`integer * double` --> ERROR
+`Double(integer) * double` --> `20.0`
+
+---
+
 # Turn and Talk
 
 * Turn to a new best friend and explain the difference between an Integer and a Double
@@ -126,7 +144,7 @@ BOOLEANS might come up - it is simply true or false - they are an important conc
 * I'd like to write a sentence that says "I am 15 years old", but using the age variable: `var age = 15`
 
 ^ Solution:
-```swift 
+```swift
 "I am \(age) years old"
 ```
 

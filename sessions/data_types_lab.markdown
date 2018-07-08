@@ -10,24 +10,26 @@
 
 String values can be added together (or concatenated) with the addition operator (+) to create a new String value:
 
+```
 let string1 = "hello"
 let string2 = " there"
 var welcome = "\(string1) \(string2)"
 // welcome now equals "hello there
+```
 
-If you have the strings `"First"` and `"Last"` in the following variables:
+If you have the strings `"Beyonce"` and `"Knowles"` in the following variables:
 
 ```
-var f = "First"
-var l = "Last"
+var first = "First"
+var last = "Last"
 ```
 
 Use *only* the "string interpolation" technique to complete the following:
 
-1. What code can you write to output the string `"FirstLast"`?
-2. What code can you write to output the string `"LastFirst"`?
-3. What code can you write to output the string `"First Last"`?
-4. What code can you write to output the string `"Last First Last First"`?
+1. What code can you write to output the string `"BeyonceKnowles"`?
+2. What code can you write to output the string `"KnowlesBeyonce"`?
+3. What code can you write to output the string `"Beyonce Last"`?
+4. What code can you write to output the string `"Knowles Beyonce Knowles Beyonce"`?
 
 
 ### Integers
@@ -51,6 +53,6 @@ Let's sing Happy Birthday to our favorite celebrity. Their name should be stored
 
 ### String Compression
 
-There's a silly compression algorithm that outputs the first letter, the number of letters in the middle,
-and the last letter. So for the string `"Kalamazoo"` it'd output `"K7o"` or `"Denver"` would be `"D4r"`.
+There's a silly compression algorithm that outputs the first letter, the number of letters in the middle, and the last letter. So for the string `"Kalamazoo"` it'd output `"K7o"` or `"Denver"` would be `"D4r"`.
+
 Can you write code to implement that?
