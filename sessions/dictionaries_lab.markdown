@@ -33,7 +33,7 @@ Dictionaries, like arrays, hold many pieces of data, which is necessary for us t
 
 #### Extension
 
-* Create a dictionary in which the values are arrays of strings. This is called a _nested_ collection, because it has collections inside of a collection.
+* Create a dictionary in which the keys are strings and the values are arrays of strings. This is called a _nested_ collection, because it has collections inside of a collection.
 * Need ideas for topics?
   - Re-write your family tree with arrays (it's ok to only have 1 item in some arrays). This will make keeping track of cousins easier in some cases!
   - Keys: dogs, cats, dinosaurs. Values: ["German Shepard", "Shih-Tzu", "Great Dane"], etc.
