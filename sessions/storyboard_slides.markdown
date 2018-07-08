@@ -41,8 +41,8 @@ slidenumbers: true
 
 # StoryBoard & Object Library
 
-* Before we write all the Swift code we've been learning to make our app DO something, we want to completely set up the UI (user interface)
-* We will drag and drop components of the UI from the _Object Library_
+* Before we write all the Swift code we've been learning to make our app DO something, we want to completely set up the _UI (user interface)_
+* We will drag and drop components of the UI from the Object Library onto the _StoryBoard_
 
 ^ MODEL: Go back to Xcode, model dragging and dropping in (in this order):
 - View - Recommended to change color so it's clear what you did.
@@ -86,7 +86,7 @@ slidenumbers: true
 # Constraints
 
 * Everything looks great on my screen, but in the simulator... not so much.
-* We will not use constraints - settings on UI Objects that make them appear the way we expect on ever device
+* _Constraints_ are settings on UI Objects that make them appear the way we expect on ever device
 
 ^ MODEL: Go back to Xcode, select one UI Object at a time, then apply the following constraints:
 - View - 0 on all sides
