@@ -12,7 +12,7 @@ You will have some time to create your own class and some objects from it! You w
 
 ### Getting Started
 
-* On your laptop, find the Xcode application by typing `cmd + space`, typing in `xcode`, then press return
+* On your laptop, start the Xcode application by pressing `cmd + space` to bring up the spotlight window, typing in `xcode`, and then pressing return
 * Click `Create a new Xcode project`
 * Under `Choose a template for your new project`, select `macOS`
 * Under `Application`, select `Command Line Tool`
@@ -27,7 +27,7 @@ In programming, we think of `classes` as blueprints or cookie cutters. They give
 
 * With your partner, brainstorm another class. Remember, we used Student because all students share some things, and also had some unique things about them. If you are struggling for an idea, Car and Dog are both commonly used to practice work with classes 🚗 🐶
 * With your partner, write a list of properties your class should have. What is true about every ____? (If you are talking about a car, every car has wheels...)
-* What function, or action, do you want your _____ to take? (If it's a car, I would want it to drive forward, reverse, stop...) Come up with at least 2 actions!
+* What function, or action, do you want your _____ to take? (If it's a dog, I would want it to bark, sit, fetch...) Come up with at least 2 actions!
 * Create a new (macOS, Swift) file inside of the ClassesAndObjects folder, name it the same thing you will name your class
 * Write your class
 * Create variables for the properties your class needs

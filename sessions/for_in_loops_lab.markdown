@@ -12,14 +12,14 @@ During this lesson, you will practice creating and using for-in loops. You will 
 
 ## Getting Started
 
-* On your laptop, find the Xcode application by typing `cmd + space`, typing in `xcode`, then press return
+* On your laptop, start the Xcode application by pressing `cmd + space` to bring up the spotlight window, typing in `xcode`, and then pressing return
 * Click `Get started with a playground`
 * Select 'blank', then click the blue `Next` in the bottom right corner
 * You will be prompted to save this file. The default name is `MyPlayground` - let's change that to "For-In Loops", then click the blue `Create` button in the bottom right corner
 
 ### For-In Loops
 
-Sometimes we want to create code that will repeat for a specific number of times. Imagine making pancakes. There's a lot of repetitive tasks! Pour the batter, wait, flip the pancake, wait, re-butter the pan, repeat the process until you have a delicious stack ready for some syrup. It would be great if we could just tell a robot, "Make twelve pancakes!" In code, we can actually write a for-in loop - which is just a bit of code that will do whatever we tell it to do, however many times we want.
+Sometimes we want to create code that will repeat for a specific number of times. Imagine making pancakes. There's a lot of repetitive tasks! Pour the batter, wait, flip the pancake, wait, re-butter the pan, amd then repeat the process until you have a delicious stack ready for some syrup. It would be great if we could just tell a robot, "Make twelve pancakes!" In code, we can actually write a for-in loop - which is just a bit of code that will do whatever we tell it to do, however many times we want.
 
 #### Expected
 

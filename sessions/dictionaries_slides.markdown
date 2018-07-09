@@ -1,4 +1,4 @@
-footer: KWK Swift/iOS: Dictionaries
+icfooter: KWK Swift/iOS: Dictionaries
 slidenumbers: true
 
 # Dictionaries
@@ -86,7 +86,7 @@ print(phones)
 
 # Access information
 
-Since we access values with the key, keys must be unique:
+Since we access values with the key, keys must be unique, meaning you can't have two things with the same key:
 
 ```swift
 phones["apple"]

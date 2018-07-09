@@ -13,14 +13,14 @@ During this lesson you will practice creating dictionaries, and accessing, addin
 
 ### Getting Started
 
-* On your laptop, find the Xcode application by typing `cmd + space`, typing in `xcode`, then press return
+* On your laptop, start the Xcode application by pressing `cmd + space` to bring up the spotlight window, typing in `xcode`, and then pressing return
 * Click `Get started with a playground`
 * Select 'blank', then click the blue `Next` in the bottom right corner
 * You will be prompted to save this file. The default name is `MyPlayground` - let's change that to "Dictionaries", then click the blue `Create` button in the bottom right corner
 
 ### Dictionaries
 
-Dictionaries, like arrays, hold many pieces of data, which is necessary for us to have. Some data doesn't need to be ordered; rather associated with a title. In this case, it's best to use dictionaries. If you are going shopping and need 4 avocados and 2 jars of salsa, would you write 'avocado, avocado, avocado, avocado, salsa, salsa'? Or would you write something like 'Avocado - 4, Salsa - 2'? I would go with the second option. That's an example of an associative relationship. The order of avocados/salsa doesn't matter, as long as I get 4 avocados and 2 jars of salsa.
+Dictionaries, like arrays, hold many pieces of data, which is necessary for us to have. Some data doesn't need to be ordered; rather associated with a title. In this case, it's best to use dictionaries. If you are going shopping and need 4 avocados and 2 jars of salsa, would you write 'avocado, avocado, avocado, avocado, salsa, salsa'? Or would you write something like 'Avocado - 4, Salsa - 2'? I would go with the second option. That's an example of an associative relationship. We don't care if we buy avocados first or salsa first, as long as we get 4 avocados and 2 jars of salsa.
 
 #### Expected
 
@@ -44,5 +44,5 @@ Dictionaries, like arrays, hold many pieces of data, which is necessary for us t
 As we close our tutorial time, we'll either write in our journals or discuss as a group:
 
 - What is a dictionary (in Swift)?
-- What's a situation in which you would want to use a dictionary instead of an array? Why?
+- What's a situation in which you would want to use a dictionary instead of an array? Why And what about vice versa?
 - What do you still want to know about dictionaries and/or what are you still confused about?
