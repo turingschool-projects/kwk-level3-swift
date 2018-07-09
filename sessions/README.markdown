@@ -71,8 +71,8 @@
 |Time|Session|Status|Assigned|
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Technical Warm-Up | Assigned | EM |
-|*9:30-10:15*  | [Collaboration: Code Challenge]() | Assigned | Amy |
-|*10:15-11:00*  | [Class: Design Theory](./design_theory_slides.markdown) | Assigned | Amy |
+|*9:30-10:15*  | [Collaboration: Code Challenge]() | _Needs Review_ | |
+|*10:15-11:00*  | [Class: Design Theory](./design_theory_slides.markdown) | _Needs Review_ | |
 |*11:00-11:15*  | Brain Break | Assigned | Amy |
 |*11:15-12:00* | [Class: StoryBoard](./storyboard_slides.markdown) | _Needs Review_ | |
 |*12:00-1:00* | Lunch |
@@ -89,8 +89,8 @@
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Technical Warm-Up | Assigned | EM |
 |*9:30-10:15* | Challenge: Paired Worktime |  | Amy |
-|*10:15-11:00* | [Class: Actions & Outlets](./actions_outlets_slides.markdown) | Assigned | Amy |
-|*11:00-12:00*| [Lab: Actions & Outlets](./actions_outlets_lab.markdown) | Assigned | Amy |
+|*10:15-11:00* | [Class: Actions & Outlets](./actions_outlets_slides.markdown) | _Needs Review_ | |
+|*11:00-12:00*| [Lab: Actions & Outlets](./actions_outlets_lab.markdown) | _Needs Review_ | |
 |*12:00-1:00* | Lunch |
 |*1:00-1:30*| Collaboration: Formal DTR |  | EM |
 |*1:30-2:30*  | [Lab: Plan Your Design](./plan_your_design.markdown) | _Needs Review_ | |
