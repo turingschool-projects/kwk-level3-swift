@@ -12,7 +12,7 @@ You will go through a set of activities building a function, then a function tha
 
 ### Getting Started
 
-* On your laptop, find the Xcode application by typing `cmd + space`, typing in `xcode`, then press return
+* On your laptop, start the Xcode application by pressing `cmd + space` to bring up the spotlight window, typing in `xcode`, and then pressing return
 * Click `Get started with a playground`
 * Select 'blank', then click the blue `Next` in the bottom right corner
 * You will be prompted to save this file. The default name is `MyPlayground` - let's change that to "Functions", then click the blue `Create` button in the bottom right corner
