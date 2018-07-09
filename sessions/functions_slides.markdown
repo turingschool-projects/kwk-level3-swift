@@ -26,8 +26,8 @@ slidenumbers: true
 # What is a function?
 
 * An action in our code
-* A function has a specific job, and it sits around waiting to be asked to to it's job
-* It can have a very small (add two numbers) or very big job (find the standard deviation of 1 million numbers)
+* A function has a specific job, and it sits around waiting to be asked to do it's job
+* It can have a very small job (add two numbers together) or a very big job (find the standard deviation of 1 million numbers)
 * We get to write them so we have control over what their jobs are
 
 ^ You've seen these before - in JavaScript they are also called functions; in Ruby they are called methods. This is the meat of a program - without functions we can't do much.
@@ -99,8 +99,8 @@ func walkDog(numberOfDogs : Int) {
 walkDog(numberOfDogs : 4)
 ```
 
-^ Show this slide, explain that the 4 that is passed into the function call is substituted into the function, so anytime the function sees the variable `numberOfDogs` - it will substitute 4 in for that variable.
-Be careful - the spaces surrounding the ":" in the function declaration's () DO matter - (numberOfDogs : Int) works and (numberOfDogs:Int) work buts (numberOfDogs :Int) or (numberOfDogs: Int) do NOT work.
+^ Show this slide, explain that the 4 that is passed into the function call is substituted in the function, so anytime that the function sees the variable `numberOfDogs` - it will substitute 4 in for that variable.
+Be careful - the spaces surrounding the ":" in the function declaration's () DO matter - (numberOfDogs : Int) works and (numberOfDogs:Int) works but (numberOfDogs :Int) or (numberOfDogs: Int) will NOT work.
 <Move to Xcode to model>
 MODEL: it's recommended to copy and paste then comment out the first function. That way you have something to start with but don't have naming conflicts.
 Add an argument into the function declarations ()

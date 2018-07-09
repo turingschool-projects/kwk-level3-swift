@@ -28,7 +28,7 @@ slidenumbers: true
 
 * We do the same thing in programming:
   * If a user is signed in, they see their account
-  * If no one is signed in, the user is prompted to do to
+  * If no one is signed in, the user is prompted to do so
 
 ^ Turn and Talk - what are some other examples where we make decisions in real life? How about in apps or programs - besides being logged in/out, where else do we see different things happening?
 The idea of an application doing different things, going in different directions based on what the user wants is called FLOW CONTROL. It's a very important concept because it is constantly being used - no matter what language you work in!
@@ -43,7 +43,7 @@ The idea of an application doing different things, going in different directions
 * Each comparison evaluates to either `true` or `false`
 
 ^ Before we get into flow control, we need to be able to use what are called COMPARISON OPERATORS. Similar to how they sound, they compare things.
-Surely you have seen < and > in math class, right? We use those in code too! We can compare integers using < > <= >=. We can compare strings with ==.
+You have seen < and > in math class, right? We use those in code too! We can compare integers using < > <= >=. We can compare strings with ==.
 
 ---
 
@@ -57,9 +57,9 @@ if dogAge < 2 {
 }
 ```
 
-^ Now that we know how to compare things, we can tell our program to take a different path based on what a certain variable is! We use this by writing an IF statement. Essentially, it says, "If <my situation evaluates to true>, then do this thing!"
-Let's look at this example. We have a variable `dogAge` assigned to the integer of 1. Next we see the `if` keyword - this tells the computer, please wait and listen for what I'm about to give you - I'll need you to check if it is true or false. The we provide what is called a condition. If the condition is TRUE, the computer looks inside the curly braces and executes any code it finds.
-In this situation, `dogAge` == 1, which IS less than 2, so this condition evaluates to TRUE. So the computer reads the code inside the curly braces, and prints out this sentence.
+^ Now that we know how to compare things, we can tell our program to take a different path based on what a certain variable may or may not be! We use this by writing an IF statement. Essentially, it says, "If <my situation is equal to true>, then do this thing!"
+Let's look at this example. We have a variable `dogAge` assigned to the integer of 1. Next we see the `if` keyword - this tells the computer, please wait and listen for what I'm about to give you - I'll need you to check if it is true or false. Then we provide what is called a condition. If the condition is TRUE, the computer looks inside the curly braces and executes any code it finds there.
+In this situation, `dogAge` == 1, which IS less than 2, so this condition evaluates to TRUE. The computer then reads the code inside the curly braces, and prints out, "You are a puppy 🐶"
 DISCUSS: What will happen if we changed dogAge to 4?
 
 ---
@@ -96,7 +96,7 @@ else {
 
 etc...
 ```
-^ The Swift language also gives us a keyword/phrase - `else if`. It works JUST like IF - takes a condition to evaluate, then reads a code block if the condition is met. We also get this ELSE statement, which 'catches' any other situation. If the dog is not less than 2 or greater than 12, the else code will be executed.
+^ The Swift language also gives us this keyword/phrase - `else if`. It works JUST like IF - takes a condition to evaluate, then runs a code block if the condition is met. We also get this ELSE statement, which 'catches' any other situation. If the dog is not less than 2 or greater than 12, the else code will be executed.
 
 ---
 

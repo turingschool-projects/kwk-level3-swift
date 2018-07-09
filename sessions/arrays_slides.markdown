@@ -26,14 +26,14 @@ slidenumbers: true
 # What is an Array?
 
 * An array is an _ordered_ collection that stores multiple values of the same type
-* An array can store any kind of elements - from integers to strings to objects
+* An array can store any kind of element - from integers to strings to objects
 * Elements inside an array are separated by a comma
 
 ---
 
 # When would we use them?
 
-Arrays are useful whenever you need to keep track of an ordered list of items. This is similar to how we keep track of lists in the real world. When we write out a grocery shopping list, we use _one_ piece of paper to keep track of all the items we are looking to purchase.
+Arrays are useful whenever you need to keep track of an ordered list of things. This is similar to how we keep track of lists in the real world. When we write out a grocery shopping list, we use _one_ piece of paper to keep track of all the items we are looking to purchase.
 
 ---
 
@@ -134,7 +134,7 @@ shoppingList.append("Pasta")
 
 # Removing Information
 
-A common way of removing elements is to use the remove(at:) method - which will remove an element at whatever index is given
+A common way of removing elements is to use the remove(at:) method - which will remove an element at whatever index you type in after the `at:`
 
 ```
 shoppingList.remove(at: 0)
