@@ -59,7 +59,7 @@
 |*10:00-11:00*| 🤗[Ieration 0: Up and Running](../aviatrix/i0_up_and_running.markdown)🤗 | _Needs Review_ | |
 |*11:00-12:00*| 🤗[Iteration 1: Destinations](../aviatrix/i1_destinations.markdown)🤗 | _Needs Review_ | |
 |*12:00-1:00* | Lunch |
-|*1:00-2:00*  | [Iteration 1: Routes](../aviatrix/i1_destinations.markdown) | _Needs Review_ | |
+|*1:00-2:00*  | 🤗[Iteration 1: Routes](../aviatrix/i1_destinations.markdown)🤗 | _Needs Review_ | |
 |*2:00-3:00*  | 🤗[Iteration 2: Distance & Fuel](../aviatrix/i2_distance_and_fuel.markdown)🤗 | _Needs Review_ | |
 |*3:00-3:15*  | Brain Break | |  |
 |*3:15-3:45*  | Worktime: Finishing Touches | | |
