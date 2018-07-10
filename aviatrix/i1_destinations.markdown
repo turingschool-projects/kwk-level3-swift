@@ -191,6 +191,8 @@ print("| Location:  | \(plane.location)")
 
 Now, run your program and type in `a`.
 
+NOTE: You will need to continue doing this as you create instance variables, and those instructions won't be written into the lab🤓 You got this.
+
 ### EXTENSION: Dream Destinations
 
 Can you add a destination to the application? You'll need to carefully change `AviatrixData`:
