@@ -61,6 +61,8 @@ To make sure other know who build this program, we want to be able to display yo
 
 In `main.swift` there is a line that prints to the console: print("Welcome to the Aviatrix Flight System by _ _ _ _ _ _ _ _ _ " ) - change that so your author variable is interpolated.
 
+Also, update the last line of `main.swift` with a string of your choice - you could use the author's name again.
+
 ### Run It
 
 Run the program and observe the `author` output in the first line of the program.
