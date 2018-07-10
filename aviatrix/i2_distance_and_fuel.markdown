@@ -172,6 +172,8 @@ Let's make sure these print statements actually print out complete sentences. Fi
 
 ### `refuel` - First Try
 
+Let's create an instance variable that starts the `fuelLevel` at `5000.0`.
+
 First there's a call to the `refuel` function. Find that function in your Aviatrix.
 
 *Can you write one line of code that fills the gas tank back to it's maximum level?*
@@ -186,8 +188,8 @@ You can see from the simulator code that it's expecting to get back a dictionary
 * `unit price` with the price per gallon in the current city
 * `spent` with the total bill for this fill-up
 
-*First: return a dictionary out of this function. The three keys are listed above.*
-*Second: Can you improve your `refuel` method so that these three values are correctly calculated?*
+*First: return a Double out of this function.*
+*Second: Can you improve your `refuel` method so that the three values listed above are correctly calculated?*
 
 Here are a couple tips:
 
@@ -199,7 +201,7 @@ Here are a couple tips:
 
 Eventually you'll have to pay that fuel bill. Let's keep track of our total spent on refueling.
 
-Your plane has a `fuelCost` variable that starts at zero. Each time you refuel, add the amount that you spent to the total `fuelCost`. Read your gauges after two refuels and make sure that the total is correct.
+Create a `fuelCost` variable in `Aviatrix` that starts at zero. Each time you refuel, add the amount that you spent to the total `fuelCost`. Read your gauges after two refuels and make sure that the total is correct.
 
 ## What We've Got
 
