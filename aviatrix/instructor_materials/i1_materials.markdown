@@ -57,6 +57,17 @@ func distanceTo(start: String, target : String) -> Int {
 }
 ```
 
+at the same time, they also need to update `main.swift`:
+
+```swift
+for (index, city) in destinations.enumerated() {
+    let distance = plane.distanceTo(start: plane.location, target: city)
+    print("\(index): \(city), \(distance) miles")
+}
+```
+
+... so that the `distanceTo` call includes the appropriate arguments.
+
 Once this is done, let's update the message in `fly` in `main.swift` that says:
 
 ```swift
