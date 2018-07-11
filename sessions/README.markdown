@@ -25,7 +25,7 @@
 |*9:15-9:30*  | Stand Up & Journaling | Assigned | EM |
 |*9:30-10:00* | [Class: Conditionals](./conditionals_slides.markdown) | Complete |  |
 |*10:00-11:00*| [Lab: Conditionals](./conditionals_lab.markdown) | Complete |  |
-|*11:00-12:00*| Challenge: Number Guesser | Assigned | Brian |
+|*11:00-12:00*| [Challenge: Paired Worktime](./challenges) | Assigned | Brian |
 |*12:00-1:00* | Lunch|
 |*1:00-1:30*  | [Class: Arrays](./arrays_slides.markdown) | Complete | |
 |*1:30-2:30*  | [Lab: Arrays & Iteration](./arrays_lab.markdown) | Complete | |
@@ -41,7 +41,7 @@
 |*9:15-9:30*  | Stand Up & Technical Warm-Up | Assigned | EM |
 |*9:30-10:00* | [Class: For & For-In](./for_in_loops_slides.markdown) | _Needs Review_ |  |
 |*10:00-11:00*| [Lab: Practicing Loops](./for_in_loops_lab.markdown) | _Needs Review_ |  |
-|*11:00-12:00*| Challenge: There a Hole in the Bottom of the Sea | Assigned | Brian |
+|*11:00-12:00*| [Challenge: Paired Worktime](./challenges) | Assigned | Brian |
 |*12:00-1:00* | Lunch |
 |*1:00-1:30*  | [Class: Dictionaries](./dictionaries_slides.markdown) | Complete |  |
 |*1:30-2:15*  | [Lab: Using Dictionaries](./dictionaries_lab.markdown) | Complete |  |
@@ -88,7 +88,7 @@
 |Time|Session|Status|Assigned|
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Technical Warm-Up | Assigned | EM |
-|*9:30-10:15* | Challenge: Paired Worktime |  | Amy |
+|*9:30-10:15* | [Challenge: Paired Worktime](./challenges) |  | Amy |
 |*10:15-11:00* | [Class: Actions & Outlets](./actions_outlets_slides.markdown) | _Needs Review_ | |
 |*11:00-12:00*| [Lab: Actions & Outlets](./actions_outlets_lab.markdown) | _Needs Review_ | |
 |*12:00-1:00* | Lunch |
@@ -104,7 +104,7 @@
 |Time|Session|Status|Assigned|
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Journaling | Assigned | EM |
-|*9:30-10:15* | Challenge: Paired Worktime |  | Amy |
+|*9:30-10:15* | [Challenge: Paired Worktime](./challenges) |  | Amy |
 |*10:15-10:30*  | Brain Break |  | |
 |*10:30-11:00*  | [Class: Displaying Photos](./displaying_photos_slides.markdown) | _Needs Review_ | |
 |*11:00-12:00*  | [Lab: Displaying Photos](./displaying_photos_lab.markdown) | _Needs Review_ | |
@@ -122,7 +122,7 @@
 |Time|Session|Status|Assigned|
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Technical Warm Up | Assigned | EM |
-|*9:30-10:15* | Challenge: Paired Worktime |  | Amy |
+|*9:30-10:15* | [Challenge: Paired Worktime](./challenges) |  | Amy |
 |*10:15-10:45*| [Class: Core Data](./core_data_slides.markdown) | _Needs Review_ | |
 |*10:45-12:00*  | [Lab: Core Data in ViewFinder](./core_data_lab.markdown) | _Needs Review_ | |
 |*12:00-1:00* | Lunch |
@@ -137,7 +137,7 @@
 |Time|Session|Status|Assigned|
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Journaling | Assigned | EM |
-|*9:30-10:15* | Challenge: Paired Worktime |  | Amy |
+|*9:30-10:15* | [Challenge: Paired Worktime](./challenges) |  | Amy |
 |*10:15-12:00* | [Lab: Choose your own ... Feature!](./choose_your_own_lab.markdown) |  | Amy |
 |*12:00-1:00* | Lunch |
 |*1:15-1:45*  | Class: How to Demo |  | EM Team |
