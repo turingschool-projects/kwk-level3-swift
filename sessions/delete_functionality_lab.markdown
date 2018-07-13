@@ -75,6 +75,9 @@ if editingStyle == .delete {
 ```
 * Run your app - is the delete functionality working? It should be. If not, re-read through this, double-checking everything, then ask another team or an instructor for a second pair of eyes.
 
+### ❗️Commit Your Work ❗️
+
+In Xcode, select `Source Control`, `Commit`, type in a message describing your changes (probably "Add delete functionality"), then click Commit Files.
 
 #### Extension
 
