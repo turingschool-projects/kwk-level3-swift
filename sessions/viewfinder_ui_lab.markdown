@@ -18,9 +18,9 @@ In this lab, you will bring your wireframes to life!
 * Under `Choose a template for your new project`, select `iOS`
 * Under `Application`, select `Single View App`
 * Click the blue `Next` button in the bottom right corner
-* **!IMPORTANT!** You must check the `Use Core Data` box! **!IMPORTANT!**
+* ‼️You must check the `Use Core Data` box! ‼️
 * You will be prompted to save this file. For `Product Name`, type in "______" - whatever name your want to officially title your app, then click the blue `Create` button in the bottom right corner
-* **!IMPORTANT!** You must check the `Create Git respository on Mac` box! **!IMPORTANT!**
+* ‼️You must check the `Create Git respository on Mac` box! ‼️
 * NOTE: This will be your ACTUAL project! From now on, you won't really be creating new projects, just opening this one up and working from wherever you left off.
 
 
@@ -60,6 +60,10 @@ Similar to our StoryBoard and Actions/Outlets lessons, we will need to start wit
 * Insert a placeholder image in the ImageView.
 
 * _Run on your iPad to make sure it's working_
+
+#### Commit Your Work 
+
+In Xcode, select `Source Control`, `Commit`, type in a message describing your changes (probably "Complete Build UI"), then click `Commit Files`.
 
 #### Extension
 
