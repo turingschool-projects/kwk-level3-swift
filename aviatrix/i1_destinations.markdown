@@ -212,7 +212,12 @@ After this work, when you run the program:
 * Flying to a different city works and we can move city to city
 * Refueling doesn't do anything yet
 
+### Commit Your Changes
+
+In Xcode, select `Source Control`, `Commit`, type in a message describing your changes (probably "Complete iteration 1"), then click `Commit Files`.
+
 Make sure your code works like that before you move on to [I2: Distances](./i2_distance_and_fuel.markdown).
+
 
 ## Extra Challenge
 
