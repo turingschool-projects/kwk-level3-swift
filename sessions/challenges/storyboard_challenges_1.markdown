@@ -4,8 +4,8 @@ Use this Code Challenge time to solely focus on building a UI that replicates on
 
 Nike Run Club
 
-![inline](./slide_images/nike_app.png)
+![inline](../slide_images/nike_app.png)
 
 Mimo
 
-![inline](./slide_images/mimo_app.png)
+![inline](../slide_images/mimo_app.png)
