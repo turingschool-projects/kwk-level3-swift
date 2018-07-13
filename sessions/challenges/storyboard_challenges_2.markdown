@@ -16,4 +16,4 @@ Spotify - Today's Top hits
 
 Spotify - Browse
 
-![inline](../slide_images/spotify_1_app.png)
+![inline](../slide_images/spotify_2_app.png)
