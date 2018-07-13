@@ -61,7 +61,7 @@ Similar to our StoryBoard and Actions/Outlets lessons, we will need to start wit
 
 * _Run on your iPad to make sure it's working_
 
-#### Commit Your Work 
+### ❗️Commit Your Work ❗️
 
 In Xcode, select `Source Control`, `Commit`, type in a message describing your changes (probably "Complete Build UI"), then click `Commit Files`.
 
