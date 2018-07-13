@@ -4,7 +4,7 @@
 
 For this project you're going to work within some code we've already built. Follow the following steps to get it up and running on your computer:
 
-1. Visit `https://github.com/turingschool-projects/aviatrix_swift`
+1. Visit [this link](https://github.com/turingschool-projects/aviatrix_swift)
 2. Click the green `Clone or Download` button
 3. Click `Download ZIP`
 4. Open in Finder, rename if you'd like
@@ -66,5 +66,9 @@ Also, update the last line of `main.swift` with a string of your choice - you co
 ### Run It
 
 Run the program and observe the `author` output in the first line of the program.
+
+### Commit Your Changes
+
+In Xcode, select `Source Control`, `Commit`, type in a message describing your changes (probably "Complete iteration 0"), then click `Commit Files`.
 
 Let's keep going! [Move on to Iteration 1](./i1_destinations.markdown)
