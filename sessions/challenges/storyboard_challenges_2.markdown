@@ -1,6 +1,6 @@
 # Replicate an App
 
-Use this Code Challenge time to solely focus on building a UI that replicates one of the following applications:
+Use this Code Challenge time to solely focus on building a UI that replicates one of the following applications. You may not be able to recreate exactly due to images, fonts, etc. but just do your best!
 
 Venmo
 
