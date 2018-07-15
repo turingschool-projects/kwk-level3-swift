@@ -94,7 +94,7 @@ One problem - the name is going to be the same for every student. Next slide exp
 * go back to main.swift file
 * create a variable, assigned to Student()
 ```
-var newStudents = Student()
+var newStudent = Student()
 print(newStudent)
 ```
 
