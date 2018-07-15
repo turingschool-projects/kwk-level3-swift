@@ -130,7 +130,7 @@ What if we wanted to use the for-in loop to edit the contents of an array? Let's
 We'd have to do something like this.
 
 ```
-for index in 0...<animals.count {
+for index in 0..<animals.count {
   animals[index] = "I love " + animals[index]
 }
 ```
@@ -142,7 +142,7 @@ for index in 0...<animals.count {
 What's going on in this code?
 
 ```
-for index in 0...<animals.count {
+for index in 0..<animals.count {
   animals[index] = "I love " + animals[index]
 }
 ```
