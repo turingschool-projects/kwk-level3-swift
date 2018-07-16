@@ -68,21 +68,6 @@ slidenumbers: true
 
 ---
 
-# Labels, Buttons, Images, & more!
-
-* On the simulator, click the 'Home' button, and notice our app icon is pretty boring.
-* To add an icon for iPad, it must be exactly 152x152
-* Drag and drop the image from your finder, into the '2x' box right above 'iPad App, iOS 7 - 11 76pt'
-
-^ MODEL: Go back to Xcode, model dragging and dropping in (in this order):
-- View - Recommended to change color so it's clear what you did.
-- Label - Show both ways that text can be changed
-- Image
-- Recommended to scroll through and show them buttons. sliders, date picker, etc. - just to get them excited about what is available!
-
-
----
-
 # Constraints
 
 * Everything looks great on my screen, but in the simulator... not so much.
@@ -102,5 +87,6 @@ slidenumbers: true
 * Drag and drop the image from your finder, into the '2x' box right above 'iPad App, iOS 7 - 11 76pt'
 
 ^ MODEL: Go to google, image search for a 152x152 image (select tools, then exact size to set this preference) Select and save an image to desktop. In Xcode, click on `Assets.xcassets`, then `AppIcon`. With both Xcode and Finder windows visible, drag image file from Finder into the 2x box above 'iPad App, iOS 7 - 11 76pt'. To make sure it works on all iPads, we should really do the right thing and also drop a 76x76 image in the 1x box.
+Visit https://developer.apple.com/design/human-interface-guidelines/ios/icons-and-images/app-icon/ for more info on sizes and tips for great icons from Apple!
 
 ---
