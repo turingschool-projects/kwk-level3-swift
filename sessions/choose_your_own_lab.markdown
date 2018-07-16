@@ -14,7 +14,7 @@ This lab time can be used to clean up any code, refine your UI, _OR_ add a featu
 
 * Open up your ViewFinder project
 * Make sure you have completed the [Delete Functionality Lab](https://github.com/turingschool-projects/kwk-level3-swift/blob/master/sessions/delete_functionality_lab.markdown) before starting
-* Make **100% sure** that you have `committed` you project. This way, if your new feature breaks your project, you can just get rid of today's changes without losing your whole project.
+* ❗️Make **100% sure** that you have `committed` you project. This way, if your new feature breaks your project, you can just get rid of today's changes without losing your whole project.
 
 
 ### Choose Your Own ... Feature!
@@ -37,6 +37,15 @@ Emoji Over Photo Detail:
 - In your <ProjectName>.xcdatamodeld file, add another attribute to your entity that currently has the photo and caption.
 - In your AddPhotoViewController, you will need to create another textField. In the function that is fired when you click `Submit`, you will also need to store the emoji in Core Data, similar to the way you saved the caption text.
 - In you Photo Detail View, add a Label to the StoryBoard. In the `viewDidLoad` function, you'll need to update that label with the emoji that is stored in Core Data.
+
+
+### ⚠️Commit (or Discard) Your Work⚠️ 
+
+Are you happy with the changes you made during this work session? If so:
+- In Xcode, select `Source Control`, `Commit`, type in a message describing your changes (probably "Add delete functionality"), then click Commit Files.
+
+Is something broken, or do you want to revert back to the version of your project you started with this morning? (which is TOTALLY ok, byt the way?) If so:
+- In Xcode, select `Source Control`, then `Discard All Changes`.
 
 ## Circle Back
 

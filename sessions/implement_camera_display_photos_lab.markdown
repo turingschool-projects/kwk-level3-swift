@@ -44,6 +44,9 @@ Using your references and all that great practice with accessing the camera and 
 
 * Write the imagePickerController function. Look back at the [Displaying Photos Slides](./displaying_photos_slides.markdown) or your practice projects as a reference if needed.
 
+### ❗️Commit Your Work ❗️
+
+In Xcode, select `Source Control`, `Commit`, type in a message describing your changes (probably "Add camera and display functionality"), then click `Commit Files`.
 
 #### Extension
 

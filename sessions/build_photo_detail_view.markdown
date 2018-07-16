@@ -2,8 +2,8 @@
 
 ## Learning Goals
 
-* Students will ...
-* Students will ...
+* Students will create a segue to another view, and connect that view to code file
+* Students will build functionality for user to see the detailed photo after tapping on a row in table view.
 
 ## Plan
 
@@ -141,6 +141,7 @@ override func viewDidLoad() {
 }
 ```
 
-#### Extension
+### ❗️Commit Your Work ❗️
 
-* This is an early finisher/extension activity!
+In Xcode, select `Source Control`, `Commit`, type in a message describing your changes (probably "Add photo detail view"), then click `Commit Files`.
+
