@@ -71,7 +71,7 @@
 |Time|Session|Status|Assigned|
 |---|---|---|---|
 |*9:15-9:30*  | Stand Up & Technical Warm-Up | Assigned | EM |
-|*9:30-10:15*  | [Collaboration: Code Challenge]() | _Needs Review_ | |
+|*9:30-10:15*  | [Challenge: Paired Worktime](./challenges) | _Needs Review_ | |
 |*10:15-11:00*  | 🤗[Class: Design Theory](./design_theory_slides.markdown)🤗 | _Needs Review_ | |
 |*11:00-11:15*  | Brain Break | Assigned | Amy |
 |*11:15-12:00* | 🤗[Class: StoryBoard](./storyboard_slides.markdown)🤗 | _Needs Review_ | |
