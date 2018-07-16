@@ -120,6 +120,14 @@ Elements that look similar will be perceived as part of the same form
 
 ---
 
+# Turn and Talk / Explore
+
+With your partner, find one of these laws in action on a website or app that you use.
+
+^ The following slides will provide some examples of implementation; this is just to get the students thinking before we have them information! Feel free to do a share-out with these - this could even be done through sharing screen shots in their slack channel.
+
+---
+
 # Law of Similarity in Action
 
 By using consistent size, spacing, and alignment, we see this group of icons as a complete set of options to choose from rather than unrelated elements.
