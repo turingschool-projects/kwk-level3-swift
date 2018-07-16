@@ -72,17 +72,17 @@ Elements next to each other tend to be grouped together.
 
 # Principle 4: Law of Enclosure
 
-Figure is _positive space_ (or the object itself, like a tree) and Ground is the _negative space_ (the space behind the object, like the sky).
+Items that are enclosed in a border or with a background color tend to be grouped together.
 
 ![inline](slide_images/enclosure.png)
 
-^ A figure shall be perceived as separate from it's background.
+^ A figure shall be perceived as separate from it's background. A border provides a separation.
 
 ---
 
 # Principle 5: Law of Continuation
 
-Objects aligned on a path are viewed as moving in an implied direction. We continue to follow contours when the elements have established a pattern of direction.
+Objects aligned on a path are viewed as moving in an implied direction. Our eye follows the full path implied by each line to see a complete circle.
 
 ![inline](slide_images/continuation.png)
 
