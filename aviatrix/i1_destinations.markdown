@@ -116,7 +116,7 @@ That'll work great as long as our current location is St. Louis. But we're about
 
 
 Stuck? 
-- You will need an instance variable in the `Aviatrix` that holds a string with the current location.
+- You will need an instance variable in the `Aviatrix` that holds a string with the current location. Let's call this variable `location`.
 - The `distanceTo` function needs to take another argument (the instance variable that holds the current location) so we don't have to hard-code a certain city in.
 
 Once this is done, let's update the message in `fly` in `main.swift` that says:
