@@ -39,7 +39,7 @@ Similar to our StoryBoard and Actions/Outlets lessons, we will need to start wit
 * With the Navigation Controller selected, in the Utilities Pane, select the Attributes Inspector, scroll down to the View Controller section, and check the box next to `Is Initial View Controller`
 ![Use this as a reference if needed:](./slide_images/initial_view.png)
 
-* _Run on your iPad to make sure it's working_
+* _Run on your iPad to make sure it's working_ - you shouldn't see much; you just want to make sure there aren't any build errors.
 
 * In the Document Outline, click on the Navigation Item (under Table View Controller). Now, look at the Attributes Inspector in the Utilities Pane, and you should see a form for Title. Write the name of your app into that field.
 ![Use this as a reference if needed:](./slide_images/title_nav_item.png)
