@@ -62,10 +62,13 @@ Similar to our StoryBoard and Actions/Outlets lessons, we will need to start wit
 
 * _Run on your iPad to make sure it's working_
 
+
 ### ❗️Commit Your Work ❗️
 
 In Xcode, select `Source Control`, `Commit`, type in a message describing your changes (probably "Complete Build UI"), then click `Commit Files`.
 
+
 #### Extension
 
+* In your original wireframes, did you and your partner plan to have a home screen? You can add in another ViewController and change the segues. Test it out on your simulator or iPad to make 100% it's behaving the way you want it to.
 * Fill in the blanks from your wireframe - add in colors, fonts, background images, etc. that make this the app you and your partner are dreaming of 💫
