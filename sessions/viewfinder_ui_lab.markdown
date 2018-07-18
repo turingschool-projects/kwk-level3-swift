@@ -44,7 +44,8 @@ Similar to our StoryBoard and Actions/Outlets lessons, we will need to start wit
 * In the Document Outline, click on the Navigation Item (under Table View Controller). Now, look at the Attributes Inspector in the Utilities Pane, and you should see a form for Title. Write the name of your app into that field.
 ![Use this as a reference if needed:](./slide_images/title_nav_item.png)
 
-* Drag a `Bar Button Item` from the Object Library onto your Navigation Bar on the Table View. In the Utilities Pane, you can change the title under `Bar Item`. You can also use the drop-down menu title `System Item` to select aiOS icon.
+* Drag a `Bar Button Item` from the Object Library onto your Navigation Bar on the Table View. In the Utilities Pane, you can change the title under `Bar Item`. You can also use the drop-down menu title `System Item` to select an iOS icon.
+
 * Drag a new `View Controller` onto your StoryBoard. `ctrl + click` then drag your `Add` button on the Table View over to your new View Controller. Select `show`. This is telling the computer, "when the user clicks on this `add` button, take them to this other view, please." This is called a `segue`.
 ![Use this as a reference if needed:](./slide_images/add_segue.gif)
 
