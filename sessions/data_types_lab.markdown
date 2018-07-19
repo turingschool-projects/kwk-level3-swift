@@ -14,7 +14,7 @@ String values can be added together (or concatenated) with the addition operator
 let string1 = "hello"
 let string2 = " there"
 var welcome = "\(string1) \(string2)"
-// welcome now equals "hello there
+// welcome is storing the string "hello there"
 ```
 
 If you have the strings `"Beyonce"` and `"Knowles"` in the following variables:
