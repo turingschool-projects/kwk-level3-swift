@@ -19,6 +19,7 @@ slidenumbers: true
 * Integer
 * Interpolation
 * Variable
+* Constant
 * Keyword
 
 ---
@@ -29,13 +30,13 @@ slidenumbers: true
 
 * This includes letters, numbers, and symbols. We are able to tell when something is a string because it's in between two quotation marks
 
-* For example, `"Hello, world."` is a string. `"puppies"`. is also a string. And so is `"1234"`
+* For example, `"Hello, world."` is a string. `"Puppies"` is also a string. And so is `"1234"`
 
 ---
 
 # Numbers
 
-* In the most simple terms possible, we have two kinds of numbers - Integers and Doubles
+* We will use two kinds of numbers - Integers and Doubles
 * The math operations we use all the time can be used on both of these
 
 ^ Lead a quick discussion and write outcomes on whiteboard - what math operations do we have?
@@ -66,7 +67,7 @@ Integers are what we would think of as whole numbers. They can be positive or ne
   - a double with another double
 
 
-* We CANNOT use math operations on a double and and integer
+* We CANNOT use math operations on a double and an integer
 
 ^ Why? They are technically different data types! Even though they all look like numbers to us - they are stored differently. To use math operations on an integer with a double, we would convert the integer into a double.
 Example:
@@ -87,7 +88,7 @@ Example:
 
 * We use variables to store information that we're going to use in our programs.
 
-* But why should we use variables? They're kind of a shortcut. Let's say we were working with our address and it's a string, "1313 Mockingbird Lane" it would be annoying to have to type that in every time we wanted to use it.
+* But why should we use variables? They're kind of a shortcut. Let's say we were working with our address and it's a string, "1313 Mockingbird Lane". It would be annoying to have to type that in every time we wanted to use it.
 
 ---
 
@@ -128,12 +129,25 @@ address = "254 Ocean Avenue"
 
 ---
 
+# Constants
+
+* If we want to store information that we know will NEVER change, use the `let` keyword to declare a **constant**.
+
+```
+let name = "Karlie"
+```
+
+^ We can still access the string "Karlie" anytime, we just cannot change it. 
+
+---
+
 # Turn and Talk
 
-With your new best friend, can you come up with some other variables and the sorts of things they might hold? Try to come up with variables that would be both numbers and text!
+With your new best friend, can you come up with some other variables and constants and the kind of information they might hold? Try to come up with variables that would be both numbers and text!
 
 ^ Circulate and listen in, have a short discussion afterwards.
 BOOLEANS might come up - it is simply true or false - they are an important concept in programming!
+Possible - age (num, var), birthday (string, let), favoriteFood (string, var).
 
 ---
 
@@ -143,10 +157,18 @@ BOOLEANS might come up - it is simply true or false - they are an important conc
 * "\(VARIABLE NAME HERE) any other words here"
 * I'd like to write a sentence that says "I am 15 years old", but using the age variable: `var age = 15`
 
-^ Solution:
+---
+
+# String Interpolation - Syntax
+
+The variable name should be written inside of `\( )`
+
 ```swift
+var age = 15
 "I am \(age) years old"
 ```
+
+The computer reads anything inside of the `\()` as swift code - it will look for a variable titled `age`.
 
 ---
 
