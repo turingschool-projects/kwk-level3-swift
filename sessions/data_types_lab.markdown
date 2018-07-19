@@ -20,8 +20,8 @@ var welcome = "\(string1) \(string2)"
 If you have the strings `"Beyonce"` and `"Knowles"` in the following variables:
 
 ```
-var first = "First"
-var last = "Last"
+var first = "Beyonce"
+var last = "Knowles"
 ```
 
 Use *only* the "string interpolation" technique to complete the following:
