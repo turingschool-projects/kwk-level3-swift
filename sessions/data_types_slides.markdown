@@ -122,7 +122,7 @@ If you tried to write this without the keyword `var` Xcode will throw an error!
 
 * After we declare a variable, we can change the contents of the variable at will. If we were to move from 1313 Mockingbird Lane to 254 Ocean Avenue, we would do this:
 
-```
+```swift
 address = "254 Ocean Avenue"
 ```
 * Notice we did NOT use the keyword `var` this time - that's because we REassigned the variable
