@@ -172,6 +172,18 @@ The computer reads anything inside of the `\()` as swift code - it will look for
 
 ---
 
+# Vocab Reflection
+
+Using your notes and what you learned in this class, write your definition for today's vocab words:
+* String
+* Integer
+* Interpolation
+* Variable
+* Constant
+* Keyword
+
+---
+
 # Data Types - Lab
 
 * Students will assign values to variables
