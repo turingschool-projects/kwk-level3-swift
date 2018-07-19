@@ -94,7 +94,7 @@ Example:
 
 # Variables - Syntax
 
-```
+```swift
 var address = "1313 Mockingbird Lane"
 ```
 
@@ -105,7 +105,7 @@ var address = "1313 Mockingbird Lane"
 
 # Variables
 
-```
+```swift
 var address = "1313 Mockingbird Lane"
 ```
 
@@ -133,11 +133,24 @@ address = "254 Ocean Avenue"
 
 * If we want to store information that we know will NEVER change, use the `let` keyword to declare a **constant**.
 
-```
+```swift
 let name = "Karlie"
 ```
 
 ^ We can still access the string "Karlie" anytime, we just cannot change it. 
+
+---
+
+# A Note on Variables
+
+In other languages you may have seen variables declared with_out_ being assigned a value. To do that in Swift, we have to tell the program what data type it should be.
+
+```swift
+var name : String
+```
+
+^ Maybe I don't know the name yet, but I do know that it will be stored in a string. 
+`var name` alone will NOT work.
 
 ---
 
