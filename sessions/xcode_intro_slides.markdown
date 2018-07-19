@@ -32,8 +32,6 @@ Take ten minutes to practice creating a new playground, then:
 * Create three variables - your name, age, and favorite thing to do during the summer
 * Print to the console a sentence that uses all three of your variables
 
-* Finish early? Print the same sentence out three times, using a loop!
-
 ---
 
 # Projects
@@ -42,7 +40,7 @@ Take ten minutes to practice creating a new playground, then:
 * A lot more than writing code goes into building an iOS app, but we do it all in Xcode!
 * A LOT of tools - we will take it one step at a time
 
-^ MoODEL: Open up a new project, walk through every step of setup. Show each pane (see one pager) and the buttons to expand/collapse panes. Show file tree and point out storyboard. Model resizing and moving the storyboard. Show simulator, build status bar, and different device views. Add a couple UI Elements and run simulator. Change colors/fonts, then re-run.
+^ MODEL: Open up a new project, walk through every step of setup. Show each pane (see one pager) and the buttons to expand/collapse panes. Show file tree and point out storyboard. Model resizing and moving the storyboard. Show simulator, build status bar, and different device views. Add a couple UI Elements and run simulator. Change colors/fonts, then re-run.
 
 ---
 
