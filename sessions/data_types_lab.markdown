@@ -47,9 +47,16 @@ var d = 98
 2. Find the average yourself using paper or a calculator. Is your answer different than you found in A? Why?
 3. Say you have the operation `a + b * c / d`. What result do you get out from Ruby? What other outputs can you get out by adding one or more pairs of parentheses to the equation?
 
+
+### How Much Do I Get Paid?
+
+Find the answer to this problem using Swift: Karina earns $10.25 per hour at her job at Express. If she worked 20 hours last week, how much should she get paid?
+
+
 ### Happy Birthday
 
 Let's sing Happy Birthday to our favorite celebrity. Their name should be stored in a variable, just in case you want to sing to someone else.
+
 
 ### String Compression
 
