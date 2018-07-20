@@ -20,18 +20,23 @@ slidenumbers: true
 
 ---
 
-# Flow Control
+# Flow Control - IRL
 
 * In life, we make decisions based on our current situation:
   * If I'm hungry, I'll eat
   * If I'm tired, I'll take a nap
 
+^ Turn and Talk - what are some other examples where we make decisions in real life? How about in apps or programs? (GET THEM THINKING ABOUT IT BEFORE WE GIVE EXAMPLES)
+
+---
+
+# Flow Control
+
 * We do the same thing in programming:
   * If a user is signed in, they see their account
   * If no one is signed in, the user is prompted to do so
 
-^ Turn and Talk - what are some other examples where we make decisions in real life? How about in apps or programs - besides being logged in/out, where else do we see different things happening?
-The idea of an application doing different things, going in different directions based on what the user wants is called FLOW CONTROL. It's a very important concept because it is constantly being used - no matter what language you work in!
+^ The idea of an application doing different things, going in different directions based on what the user wants is called FLOW CONTROL. It's a very important concept because it is constantly being used - no matter what language you work in!
 
 ---
 
@@ -40,7 +45,7 @@ The idea of an application doing different things, going in different directions
 * Compare Integers with <, >, <=, >=, ==, !=
 * Compare Strings with ==, !=
 * Compare variables
-* Each comparison evaluates to either `true` or `false`
+* Every comparison evaluates to either `true` or `false`
 
 ^ Before we get into flow control, we need to be able to use what are called COMPARISON OPERATORS. Similar to how they sound, they compare things.
 You have seen < and > in math class, right? We use those in code too! We can compare integers using < > <= >=. We can compare strings with ==.
@@ -49,7 +54,7 @@ You have seen < and > in math class, right? We use those in code too! We can com
 
 # IF Syntax
 
-```
+```swift
 dogAge = 1
 
 if dogAge < 2 {
@@ -66,7 +71,7 @@ DISCUSS: What will happen if we changed dogAge to 4?
 
 # What if we want several options?
 
-```
+```swift
 if dogAge < 2 {
   print("You are a puppy 🐶")
 }
@@ -83,7 +88,7 @@ etc...
 
 # else if and else
 
-```
+```swift
 if dogAge < 2 {
   print("You are a puppy 🐶")
 }
@@ -97,6 +102,14 @@ else {
 etc...
 ```
 ^ The Swift language also gives us this keyword/phrase - `else if`. It works JUST like IF - takes a condition to evaluate, then runs a code block if the condition is met. We also get this ELSE statement, which 'catches' any other situation. If the dog is not less than 2 or greater than 12, the else code will be executed.
+
+---
+
+# Vocabulary Reflection
+
+* Condition
+* Comparison Operator
+* Evaluate
 
 ---
 
