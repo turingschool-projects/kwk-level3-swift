@@ -26,12 +26,12 @@ Flow Control is the idea of controlling where an application goes based on a sit
 
 #### Expected
 
-* In your playground, create a variable named `favoriteFood` and assign it to a string variable of your favorite food
+* In your playground, create a variable named `favoriteFood` and assign it to a string of your favorite food
 * Write an `if` statement comparing your favorite to 'Chipotle', which if evaluates to true, prints out a sentence (you choose!)
-* Write an `if else` statement comparing your favorite to 'Frappuccino', which if evaluated to true, prints out a sentence (you choose!)
+* Write an `if else` statement comparing your favorite to 'Starbucks', which if evaluated to true, prints out a sentence (you choose!)
 * Write another `if else` - you choose what you compare it to.
 * Write an `else` statement that prints out a sentence of your choice
-* Try changing your `favoriteFood` to Chipotle, then Frappuccino (if it wasn't already). Do you get what you expected?
+* Try changing your `favoriteFood` to Chipotle, then Starbucks (if it wasn't already). Do you get what you expected?
 
 
 #### Extension
