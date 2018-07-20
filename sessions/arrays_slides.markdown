@@ -33,37 +33,38 @@ slidenumbers: true
 
 # When would we use them?
 
-Arrays are useful whenever you need to keep track of an ordered list of things. This is similar to how we keep track of lists in the real world. When we write out a grocery shopping list, we use _one_ piece of paper to keep track of all the items we are looking to purchase.
+Arrays are useful whenever you need to keep track of an ordered list of things. This is similar to how we keep track of lists in the real world. When we write out a grocery shopping list, we use _one_ piece of paper to keep track of all the items we need.
 
 ---
 
 # Creating an Array
 
-Now that we know a bit about arrays, we want to talk about how to create them. We will start by initializing an empty array - which is generally done in 1 of 2 ways:
+Now that we know a bit about arrays, we want to talk about how to create them. We can initialize them in 1 of 2 ways:
 
-* Shorthand Syntax
-- With this syntax, we have to declare the data type of the array elements. Below we are declaring an empty array and specifying that we will be storing strings.
+- Empty
+- With data 
 
 ---
 
 # Creating an Array
 
-```
+```swift
 var arrayOfStrings = [String]()
 
 var arrayOfIntegers = [Int]()
 ```
 
-^ It's worth to point out - every element of an array in Swift MUST be the same data type. In JavaScript and Ruby, the girls may have seen that arrays can hold anything, for example [1, "hello", true] could be a valid array. Swift is more strict and does NOT allow that.
+^ It's worth to point out - every element of an array in Swift MUST be the same data type. In JavaScript and Ruby, the students may have seen that arrays can hold anything, for example [1, "hello", true] could be a valid array. Swift is more strict and does NOT allow that.
+These examples initialize empty arrays.
 
 ---
 
 # Creating an Array
 
-Starting with Data: Instead of declaring an empty array, we can also declare an array that starts with data, like below:
+Starting with Data: Instead of declaring an empty array, we can also declare an array that starts with data, like this:
 
-```
-var shoppingList = ["Bread", "Cheese", "Milk", "Cheese"]
+```swift
+var shoppingList = ["Bread", "Cheese", "Milk", "Bacon"]
 ```
 
 ---
@@ -71,7 +72,8 @@ var shoppingList = ["Bread", "Cheese", "Milk", "Cheese"]
 # Turn and Talk
 
 * Turn to a new best friend and explain the following:
-  - What is an array? Why are they useful?
+  - What is an array? 
+  - Why are they useful?
   - How do you declare an array?
 
 ---
@@ -80,21 +82,27 @@ var shoppingList = ["Bread", "Cheese", "Milk", "Cheese"]
 
 Each element in an array is automatically assigned a number called an **index**. This index can be used to access a specific element inside the array.
 
+Indices begin at 0 and count up. 
+
+---
+
+# Accessing Information - cont
+
 Indices begin at 0 and count up. If we look back at our `shoppingList` array, the following would be true:
 
 * "Bread" has an index of 0
 * "Cheese" has an index of 1
 * "Milk" has an index of 2
-* "Cheese" has an index of 3  
+* "Bacon" has an index of 3  
 
 ---
 
 # Accessing Information
 
-By using the square brackets, we can use the index to access a particular value in an array.
+By using the square brackets, we can use the index to access a specific value in an array.
 
-```
-var shoppingList = ["Bread", "Cheese", "Milk", "Cheese"]
+```swift
+var shoppingList = ["Bread", "Cheese", "Milk", "Bacon"]
 
 shoppingList[2]
 => "Milk"
@@ -108,12 +116,12 @@ shoppingList[0]
 
 # Updating Information
 
-We can also update elements with the square bracket syntax we looked at earlier. We access the index value that we would like to change, and then reassign a new value for that index on the right-hand side of the assignment operator `=`
+We can also update elements with the square bracket syntax we looked at earlier. We access the index value that we would like to change, and then reassign a new value for that index with a  `=`
 
-```
+```swift
 shoppingList[2] = "Candy"
 
-=> ["Cheese", "Milk", "Candy", "Pasta"]
+=> ["Bread", "Cheese", "Candy", "Bacon"]
 ```
 
 ---
@@ -122,11 +130,10 @@ shoppingList[2] = "Candy"
 
 A common way to add something to an already existing array is to use the append() method - which will add an element to the end of the array
 
-```
-
+```swift
 shoppingList.append("Pasta")
 
-=> ["Bread", "Cheese", "Milk", "Cheese", "Pasta"]
+=> ["Bread", "Cheese", "Candy", "Bacon", "Pasta"]
 
 ```
 
@@ -136,10 +143,10 @@ shoppingList.append("Pasta")
 
 A common way of removing elements is to use the remove(at:) method - which will remove an element at whatever index you type in after the `at:`
 
-```
+```swift
 shoppingList.remove(at: 0)
 
-=> ["Cheese", "Milk", "Cheese", "Pasta"]
+=> ["Cheese", "Candy", "Bacon", "Pasta"]
 
 ```
 
@@ -147,15 +154,15 @@ shoppingList.remove(at: 0)
 
 # Iterating Over Elements in an Array
 
-When you need to perform an operation on all of an array's elements, you can **iterate** over the entire set of values in an array.  The most common way to iterate over values in an array is to use a `for-in` loop.
+When you need to perform an operation on all of an array's elements, you can **iterate** over the array.  The most common way to do this is to use a `for-in` loop.
 
-Looking back at our shopping list from earlier, we can utilize a `for-in` loop to print every value in the array at every index, from 0 to the last element
+Looking back at our shopping list from earlier, we can use a `for-in` loop to print every value in the array.
 
 ---
 
 # Iterating Over Elements in an Array
 
-```
+```swift
 for item in shoppingList {
   print(item)
 }
@@ -168,3 +175,15 @@ for item in shoppingList {
 
 ^ We will go into more detail on loops tomorrow - the focus here should be more on the CONCEPT of iterating through a collection.
 Discussion - let's think about Instagram - where might that application use arrays? (list of followers, list of images to show on screen, list of people who liked a photo, etc.) <Pick one strong example to continue with> Why might the Instagram application need to iterate over it's array of ___________? (most likely this will be around 'rendering' or showing the data on the screen. We would iterate over the list of followers and for each one, render a template with that followers specific info.)
+  
+---
+
+# Vocabulary Reflection
+
+* Array
+* Index
+* Element
+* Initialize
+* Iterate
+
+---
