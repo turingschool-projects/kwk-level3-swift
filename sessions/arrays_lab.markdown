@@ -47,5 +47,5 @@ Jot down your discoveries in your notebook so you remember them and can share th
 As we close our tutorial time, we'll answer the following questions in our journals, leaving time to discuss our answers as a group
 
 - What is an array (in Swift)? Why is it useful?
-- We talked about how writing out a grocery list and a list to keep track of temperatures are some real life ways we group and track data. What is another real-life example of arrays?
+- We talked about how writing out a grocery list is a real-life way we group and track data. What is another real-life example of arrays?
 - How might some of your favorite apps (Snap, Instagram, etc) use arrays to keep track of data?
