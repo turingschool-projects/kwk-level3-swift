@@ -16,9 +16,10 @@ slidenumbers: true
 # Technical Vocabulary
 
 * For-In Loop
-* Index
+* Array
+* Dictionary
 * Element
-* String
+* Index
 * Iterate
 
 ---
@@ -103,6 +104,22 @@ By using the word `animal` after the `for` keyword, we're telling our code that 
 
 ---
 
+# For-In Loops and Dictionaries - Syntax
+
+```swift
+var capitals = ["France": "Paris", "Cuba": "Havana", "Japan": "Tokyo"]
+
+for pair in capitals {
+  print(pair)
+}
+```
+
+^ What do you think will print? Why does the variable "pair" represent on each iteration?
+<MODEL> In a playground, show how you can print `pair.key` and `pair.value` - with string interpolation: 
+"The capital of \(pair.key) is \(pair.value)"!
+
+---
+
 # Turn and Talk
 
 * Turn to a new best friend and explain the following:
@@ -138,12 +155,9 @@ Take a few minutes to journal your thoughts and guesses! Then turn and talk with
 
 ---
 
-# Technical Vocabulary
+# Vocabulary Reflection
 
 * For-In Loop
-* Index
-* Element
-* String
 * Iterate
 
 ---
