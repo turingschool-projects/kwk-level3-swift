@@ -28,7 +28,8 @@ Accessing the camera and/or photoLibrary are absolutely necessary components of 
 #### Expected
 
 * Decide who is going to drive/navigate and set a timer for the switch.
-* Following your notes or going back through the [slides](./access_camera_slides.markdown), get your app up and running so it can access the camera like we did in class.
+* Create a project with one button and one Image View. When the button is tapped, the user should see the camera open, be able to take a photo, select it, then see the photo displayed in the Image View.
+* Following your notes or going back through the [slides](./access_camera_slides.markdown), get your app up and running!
 * Add another button, and when that button is tapped, the user should be taken to the photo library. Refer back to the [documentation](https://developer.apple.com/documentation/uikit/uiimagepickercontroller?changes=_8) if you're not sure how 😉
 
 
