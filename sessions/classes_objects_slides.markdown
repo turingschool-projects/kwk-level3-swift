@@ -40,7 +40,7 @@ Let's actually LOOK at a class
 
 # Class == Blueprint/Cookie Cutter
 
-![inline](slide_images/cookie_cutter.png)
+![inline](slide_images/cookie_cutter.jpg)
 
 ---
 
@@ -83,9 +83,9 @@ One problem - the name is going to be the same for every student. Next slide exp
 
 # Object == THE Cookie
 
-![inline](slide_images/cookies.png)
+![inline](slide_images/cookies.jpeg)
 
-^ Objects are created FROM classes - they are like the cookie. We can have one class that creates objects and objects and objects - all can be slightly different! 
+^ Objects are created FROM classes - they are like the cookie. We can have one class that creates objects and objects and objects - all can be slightly different!
 
 ---
 
