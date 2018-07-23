@@ -7,11 +7,11 @@ This is a one-day Swift project for the first week of KWK Level 3 Swift/iOS camp
 * Students will practice using basic data types and control-flow instructions in Swift
 * Students will practice using Xcode to write and execute code
 * Students will apply problem-solving skills to design and implement code
-* Students will test and debug a complex program
+* Students will debug a complex program
 
 ## Introduction
 
-Let's imagine that we're pilots setting off to fly cross-country. Maybe you decide to take the Kode with Klossy tour and will visit every city where KWK camps are happening. Let's build a tool to help plan our routes and keep track of things like travel time and fuel consumption.
+Let's imagine that we're pilots setting off to fly cross-country. Maybe you decide to take the Kode With Klossy tour and will visit every city where KWK camps are happening. Let's build a tool to help plan our routes and keep track of things like travel time and fuel consumption.
 
 ## Process & Theory
 

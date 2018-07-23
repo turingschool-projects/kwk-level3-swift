@@ -27,7 +27,7 @@
 |*12:00-1:00* | Lunch |
 |*1:00-1:30*  | [Class: Arrays](./arrays_slides.markdown)
 |*1:30-2:30*  | [Lab: Arrays & Iteration](./arrays_lab.markdown)
-|*2:30-2:45*  | Brain Break |
+|*2:30-2:45*  | [Brain Break](./brain_break_resources.markdown) |
 |*2:45-3:15*  | [Intro to Functions](./functions_slides.markdown) |
 |*3:15-4:15*  | [Lab: Functions](./functions_lab.markdown) |
 |*4:15-4:45*  | Wrap Up |
@@ -43,7 +43,7 @@
 |*12:00-1:00* | Lunch |
 |*1:00-1:30*  | [Class: Dictionaries](./dictionaries_slides.markdown) |
 |*1:30-2:15*  | [Lab: Using Dictionaries](./dictionaries_lab.markdown) |
-|*2:15-2:30*  | Brain Break
+|*2:15-2:30*  | [Brain Break](./brain_break_resources.markdown) |
 |*2:30-3:15*  | [Class: Classes and Objects](./classes_objects_slides.markdown) |
 |*3:15-4:15*  | [Lab: Classes and Objects](./classes_objects_lab.markdown) |
 |*4:15-4:45*  | Wrap Up |
@@ -59,7 +59,7 @@
 |*12:00-1:00* | Lunch |
 |*1:00-2:00*  | [Iteration 1: Routes](../aviatrix/i1_destinations.markdown) |
 |*2:00-3:00*  | [Iteration 2: Distance & Fuel](../aviatrix/i2_distance_and_fuel.markdown) |
-|*3:00-3:15*  | Brain Break |
+|*3:00-3:15*  | [Brain Break](./brain_break_resources.markdown) |
 |*3:15-3:45*  | Worktime: Finishing Touches |
 |*3:45-4:15*  | Gallery Walk |
 |*4:15-4:45*  | Wrap Up |
@@ -71,15 +71,15 @@
 |*9:15-9:30*  | [Stand Up & Journaling](./opening_circle_stand_up.markdown) |
 |*9:30-10:15* | [Challenge: Paired Worktime](./challenges) |
 |*10:15-11:00*| [Class: Design Theory](./design_theory_slides.markdown) |
-|*11:00-11:15*| Brain Break |
+|*11:00-11:15*| [Brain Break](./brain_break_resources.markdown)|
 |*11:15-12:00*| [Class: StoryBoard](./storyboard_slides.markdown) |
 |*12:00-1:00* | Lunch |
 |*1:00-2:15*  | [Lab: StoryBoard](./storyboard_lab.markdown) |
 |*2:15-2:45*  | [Class: Side Loading](./side_loading_slides.markdown) |
-|*2:45-3:00*  | Brain Break |
+|*2:45-3:00*  | [Brain Break](./brain_break_resources.markdown) |
 |*3:00-3:15*  | Demo: Viewfinder |
 |*3:15-4:15*  | Feedback: Retrospective & Survey |
-|*4:15-4:45*  | Wrap Up | 
+|*4:15-4:45*  | Wrap Up |
 
 ### Day 6
 
@@ -93,7 +93,7 @@
 |*1:00-1:30*  | Collaboration: Formal DTR |  | EM |
 |*1:30-2:30*  | [Lab: Plan Your Design](./plan_your_design_lab.markdown) | _Needs Review_ | |
 |*2:30-3:00*  | [Class: Accessing the Camera](./access_camera_slides.markdown) | _Needs Review_  | |
-|*3:00-3:15*  | Brain Break |  | |
+|*3:00-3:15*  | [Brain Break](./brain_break_resources.markdown) |  | |
 |*3:15-4:15*  | [Lab: Accessing the Camera & Photo Library](./access_camera_lab.markdown)  | _Needs Review_ | |
 |*4:15-4:45*  | Wrap Up | Assigned | Amy |
 
@@ -103,13 +103,13 @@
 |---|---|---|---|
 |*9:15-9:30*  | [Stand Up & Journaling](./opening_circle_stand_up.markdown) | |  |
 |*9:30-10:15* | [Challenge: Paired Worktime](./challenges) |  | Amy |
-|*10:15-10:30*| Brain Break |  | |
+|*10:15-10:30*| [Brain Break](./brain_break_resources.markdown) |  | |
 |*10:30-11:00*| [Class: Displaying Photos](./displaying_photos_slides.markdown) | _Needs Review_ | |
 |*11:00-12:00*| [Lab: Displaying Photos](./displaying_photos_lab.markdown) | _Needs Review_ | |
 |*12:00-1:00* | Lunch |
 |*1:00-1:45*  | [Lab: ViewFinder UI](./viewfinder_ui_lab.markdown) | _Needs Review_ | |
 |*1:45-2:30*  | [Lab: Implement Camera and Displaying Photos](./implement_camera_display_photos_lab.markdown) | _Needs Review_ | |
-|*2:30-2:45*  | Brain Break |  | |
+|*2:30-2:45*  | [Brain Break](./brain_break_resources.markdown) |  | |
 |*2:45-3:15*  | [Trajectory: Careers in Tech](./careers_in_tech.markdown) | Assigned | EM |
 |*3:15-4:15*  | Lab: Careers Research | Assigned | EM |
 |*4:15-4:45*  | Wrap Up | Assigned | Amy |
@@ -122,12 +122,12 @@
 |*9:15-9:30*  | [Stand Up & Journaling](./opening_circle_stand_up.markdown) | |  |
 |*9:30-10:15* | [Challenge: Paired Worktime](./challenges) |  | Amy |
 |*10:15-10:45*| [Class: Core Data](./core_data_slides.markdown) | _Needs Review_ | |
-|*10:45-12:00*  | [Lab: Core Data in ViewFinder](./core_data_lab.markdown) | _Needs Review_ | |
+|*10:45-12:00* | [Lab: Core Data in ViewFinder](./core_data_lab.markdown) | _Needs Review_ | |
 |*12:00-1:00* | Lunch |
 |*1:00-1:45*  | [Class: Segues](./segue_slides.markdown) | _Needs Review_ | |
 |*1:45-2:45*  | [Lab: Build Photo Detail View](./build_photo_detail_view.markdown) | _Needs Review_ | |
-|*2:45-3:00*  | Brain Break |  | |
-|*3:00-4:15* | [Lab: Delete Photo Functionality](./delete_functionality_lab.markdown) |  | Amy |
+|*2:45-3:00*  | [Brain Break](./brain_break_resources.markdown) |  | |
+|*3:00-4:15*  | [Lab: Delete Photo Functionality](./delete_functionality_lab.markdown) |  | Amy |
 |*4:15-4:45*  | Wrap Up | Assigned | Amy |
 
 ### Day 9
