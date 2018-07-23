@@ -185,20 +185,13 @@ Try it in your simulator. When you fly to another city, then refuel, is your gas
 
 ### `refuel` - Doing Better
 
-You can see from the simulator code that it's expecting to get back a dictionary with three key/value pairs:
-
-* `quantity` referencing how many gallons were added
-* `unit price` with the price per gallon in the current city
-* `spent` with the total bill for this fill-up
-
-*First: return a Double out of this function.*
-*Second: Can you improve your `refuel` method so that the three values listed above are correctly calculated?*
+*First: return a Double out of this function - it should represent the number of gallons you need to purchase.*
 
 Here are a couple tips:
 
 * start by calculating how much gas you need
 * find the price in the current city in `AviatrixData`
-* the simulator will take care of rounding off the cents, so don't worry about that
+* `main.swift` will take care of rounding off the cents, so don't worry about that
 
 ### Tracking Total Fuel Costs
 
