@@ -56,7 +56,7 @@ finish code - picture should be distorted, change to aspect fit.
 * Will be called once a user selects a photo
 * This is where we need to tell it what to do once user has selected a photo!
 
-^ imagePickerController is another function that Apple has written - it is smart of to keep track of and know when a user selects a photo from camera, library, or albums. Once a user selects a photo, this function will be called, or `fire`, and execute any code written inside of the code block ( the `{ }` curly braces).
+^ imagePickerController is another function that Apple has written - it is smart enough to keep track of and know when a user selects a photo from camera, library, or albums. Once a user selects a photo, this function will be called, or `fire`, and execute any code written inside of the code block ( the `{ }` curly braces).
 
 ---
 
