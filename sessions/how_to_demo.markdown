@@ -1,4 +1,4 @@
-footer: KWK Swift/iOS: Jigsaw Demo
+footer: KWK Swift/iOS: Demo
 slidenumbers: true
 
 # Demo Best Practices
@@ -15,11 +15,11 @@ slidenumbers: true
 
 # How do I demo?
 
-* PRACTICE.  PRACTICE.  PRACTICE. 
+* PRACTICE.  PRACTICE.  PRACTICE.
     * You should practice your presentation multiple times.
     * Use a timer when you practice.
     * Be comfortable with the words you are using.
-    
+
 ---
 
 # How do I demo?
@@ -30,7 +30,7 @@ slidenumbers: true
     * Share the technologies you used.
     * Highlight any challenges that you came across in creating your app
     * Discuss what you want to do in the future.
-    
+
 ---
 
 # How do I demo?
@@ -38,7 +38,7 @@ slidenumbers: true
 * Technology matters (your technology)
     * Make sure the audience can see your screen
     * If you have time, create slides that highlight your talking points
-    * Practice connecting to the screen you are presenting on 
+    * Practice connecting to the screen you are presenting on
     * Make sure your audience can see the screen from anywhere in the room
 
 ---
@@ -50,12 +50,12 @@ slidenumbers: true
     * SMILE!
     * Make eye contact
     * Thank your audience
-    
+
 ---
 
-# Let's practice! 
- 
-(Instructors customize based on the numer of students)
+# Let's practice!
+
+(Instructors customize based on the number of students)
 
 * You will have 5 minutes to put together your "demo script"
 * You will present your demo to your small group of 3-4 scholars
@@ -69,5 +69,3 @@ slidenumbers: true
 https://www.linkedin.com/pulse/20-best-practices-technical-demos-presentations-girish-jain/
 
 https://apptimize.com/blog/2014/02/how-to-give-a-great-app-demo/
-
-

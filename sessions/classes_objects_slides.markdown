@@ -30,7 +30,7 @@ slidenumbers: true
 * We have one class that has all the basics, then we create objects based on a class
 
 ^ Walk through talking points
-It makes a lot more sense with an example, so let's talk about a STUDENT. (You might want to whiteboard this out as you walk)
+It makes a lot more sense with an example, so let's talk about a STUDENT. (You might want to whiteboard this out as you talk)
 We can have a student class/blueprint. What are things that all students HAVE? (Solicit answers - name, age, grade, favorite XYZ, etc.)
 Great, every student has _______, but the details of those things will vary from student to student. We don't want to say that every student is named _______, but we do want to know every student's name.
 A class sets the framework for us - it says that objects can have certain pieces of info and can do certain things, but it doesn't deal with the details. We'll get to that soon!
@@ -40,7 +40,7 @@ Let's actually LOOK at a class
 
 # Class == Blueprint/Cookie Cutter
 
-![inline](slide_images/cookie_cutter.png)
+![inline](slide_images/cookie_cutter.jpg)
 
 ---
 
@@ -60,9 +60,8 @@ class Student {
 
 # Working with Classes in Xcode, Properties
 
-* create project --> macOS --> Terminal App
-* create new file, call it `StudentClass` in main directory - in that file:
-
+* Xcode --> create project --> macOS --> Command Line Tool
+* create new Swift file inside the main directory. Call it `StudentClass`. Inside:
 
 ```
 class Student {
@@ -83,9 +82,9 @@ One problem - the name is going to be the same for every student. Next slide exp
 
 # Object == THE Cookie
 
-![inline](slide_images/cookies.png)
+![inline](slide_images/cookies.jpeg)
 
-^ Objects are created FROM classes - they are like the cookie. We can have one class that creates objects and objects and objects - all can be slightly different! 
+^ Objects are created FROM classes - they are like the cookie. We can have one class that creates objects and objects and objects - all can be slightly different!
 
 ---
 
@@ -93,6 +92,7 @@ One problem - the name is going to be the same for every student. Next slide exp
 
 * go back to main.swift file
 * create a variable, assigned to Student()
+
 ```
 var newStudent = Student()
 print(newStudent)
@@ -131,7 +131,7 @@ init(studentName : String) {
 ```
 ^ Let's add this init function into our class, giving it an argument of studentName, which is a string.
 <Move to Xcode to model>
-MODEL: Inside of init, let's re-assign `name` to whatever studentName was passed in.
+MODEL: Inside of init, let's re-assign `name` to whatever studentName was passed in as.
 This won't work quite yet - we need to hop back over to main.swift - if we try to run this, we will see an error because Student() is now expecting an argument (it is recommended you SHOW this error to this students!)
 let's pass it Student(studentName : "Pick another name") and re-run.
 You should now see the print statement reflecting the new name that was passed in.
@@ -145,7 +145,7 @@ You should now see the print statement reflecting the new name that was passed i
 * Actions are simply functions that are associated with a class.
 
 ^ Inside the code block of the class, we can add functions!
-This means that every object created from a class, will have **access** to this function. Let's write one so we can see it in action. ACCESS -- allowed to use in this case
+This means that every object created from a class, will have **access** to this function. Let's write one so we can see it in action. Vocab - ACCESS means we are allowed to use in this case
 <Move to Xcode to model>
 MODEL: write a function `writeCode() { }` inside the code block, print a string of "\(name) is busy writing code!"
 Go back to main.swift, call newStudent.writeCode() and `cmd + r`! You should see a sentence printed to the console.

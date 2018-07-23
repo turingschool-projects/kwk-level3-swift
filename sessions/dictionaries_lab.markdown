@@ -44,5 +44,5 @@ Dictionaries, like arrays, hold many pieces of data, which is necessary for us t
 As we close our tutorial time, we'll either write in our journals or discuss as a group:
 
 - What is a dictionary (in Swift)?
-- What's a situation in which you would want to use a dictionary instead of an array? Why And what about vice versa?
+- What's a situation in which you would want to use a dictionary instead of an array? Why? And what about vice versa?
 - What do you still want to know about dictionaries and/or what are you still confused about?

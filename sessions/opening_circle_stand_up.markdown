@@ -1,16 +1,13 @@
-# Opening Circle/Stand Up
-
-## For all of the opening circle/stand up sessions, please customize for your students based on the content that matters most for you. 
-
-
 footer: KWK Swift/iOS: Opening Circle
 slidenumbers: true
 
 # Opening Circle and Stand Up
 
+^ For all of the opening circle/stand up sessions, please customize for your students based on the content that matters most for you.
+
 ---
 
-# Day 1: 	Opening Circle 
+# Day 1: 	Opening Circle
 
 In your notebooks, take 5 minutes to reflect on the following questions
 
@@ -61,7 +58,7 @@ In your notebooks, take 5 minutes to reflect on the following questions
 
 In your notebooks, take 5 minutes to reflect on the following questions
 
-* Week one is over.  What is your biggest take away from this week? 
+* Week one is over.  What is your biggest take away from this week?
 * What did you learn about yourself technically?  
 * What did you learn about yourself professionally? (think about how you work with others and face challenges)
 
@@ -81,7 +78,7 @@ In your notebooks, take 5 minutes to reflect on the following questions
 In your notebooks, take 5 minutes to reflect on the following questions
 
 * What is the biggest challenge you are facing this week?
-* What mindset do you have about your challenges? 
+* What mindset do you have about your challenges?
 
 ---
 

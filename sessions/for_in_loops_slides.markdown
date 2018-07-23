@@ -17,9 +17,9 @@ slidenumbers: true
 
 * For-In Loop
 * Array
-* Index
+* Dictionary
 * Element
-* String
+* Index
 * Iterate
 
 ---
@@ -35,7 +35,7 @@ slidenumbers: true
 
 # When would we use them?
 
-`For-in` loops are useful whenever you want to repeat a bit of code a specified number of times. We can also use them to iterate over arrays and dictionaries.
+`For-in` loops are useful whenever you want to repeat a bit of code a certain number of times. We can also use them to iterate over arrays and dictionaries.
 
 ---
 
@@ -50,31 +50,11 @@ Let's learn how to create `for-in` loops. We will specify what we are working wi
 A for-in loop has a few parts:
 
 * The keyword `for` which begins the loop
-* A name for the data we're working with - in the loop below, we use an underscore because we're not really using any data
+* A name for the data we're working with
 * The keyword `in`
 * The number of times the loop will run
   - The first number is the low point
   - The second number is the high point
-
----
-
-# Creating a For-In Loop
-
-```swift
-for _ in 1...4 {
-  print("Hello!")
-}
-```
-
-^ Why didn't we use a variable here? We didn't _need_ one. We weren't iterating over an array and trying to do something with each element.
-
----
-
-# Turn and Talk
-
-* Turn to a new best friend and explain the following:
-  - What is a `for-in` loop? Why are they useful?
-  - How many times do you think that loop will print "Hello" to the console?
 
 ---
 
@@ -90,17 +70,18 @@ We could write a for-in loop to do the same thing with each of the strings in ou
 
 ---
 
-# For-In Loops and Arrays
-
-Unlike the first for-in loop we saw, which used an underscore and two numbers to indicate how many times the loop will run, we can write a `for-in` loop that will work with this array no matter how many elements it has.
+# For-In Loops and Arrays - Syntax
 
 ```swift
+var animals = ["red pandas", "giraffes", "sea turtles"]
+
 for animal in animals {
   print("I love \(animal)!")"
 }
 ```
 
 ^ What do you think will happen? What if we add another animal to our array? Why do you think we used the words "animal" and "animals" in our for-in loop?
+
 ---
 
 # For-In Loops and Arrays
@@ -123,19 +104,41 @@ By using the word `animal` after the `for` keyword, we're telling our code that 
 
 ---
 
-# For-In Loops and Arrays
+# For-In Loops and Dictionaries - Syntax
 
-What if we wanted to use the for-in loop to edit the contents of an array? Let's say, for example, that instead of printing `"I love " + animal` to the console, we wanted to update each element to be that string!
+```swift
+var capitals = ["France": "Paris", "Cuba": "Havana", "Japan": "Tokyo"]
 
-We'd have to do something like this.
-
-```
-for index in 0..<animals.count {
-  animals[index] = "I love " + animals[index]
+for pair in capitals {
+  print(pair)
 }
 ```
 
+^ What do you think will print? Why does the variable "pair" represent on each iteration?
+<MODEL> In a playground, show how you can print `pair.key` and `pair.value` - with string interpolation: 
+"The capital of \(pair.key) is \(pair.value)"!
+
 ---
+
+# Turn and Talk
+
+* Turn to a new best friend and explain the following:
+  - What is a `for-in` loop? Why are they useful?
+
+---
+
+# For-In Loops WITHOUT Collections
+
+```swift
+for _ in 1...4 {
+  print("Hello!")
+}
+```
+
+^ Why didn't we use a variable here? We didn't _need_ one. We weren't iterating over an array and trying to do something with each element, so we use the underscore.
+
+---
+
 
 # For-In loops and Arrays
 
@@ -143,7 +146,7 @@ What's going on in this code?
 
 ```
 for index in 0..<animals.count {
-  animals[index] = "I love " + animals[index]
+  print("I love " + animals[index])
 }
 ```
 
@@ -151,3 +154,14 @@ for index in 0..<animals.count {
 Take a few minutes to journal your thoughts and guesses! Then turn and talk with your neighbor - do you have different ideas?
 
 ---
+
+# Vocabulary Reflection
+
+* For-In Loop
+* Iterate
+
+---
+
+# Lab
+
+Practice time!

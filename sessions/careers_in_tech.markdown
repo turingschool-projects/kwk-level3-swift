@@ -41,9 +41,11 @@ slidenumbers: true
 * Whole group share (10 min)
 
 ---
+
 # Action Plans
 
 (15 min)
 * Give each group a chart paper and have them start to brainstorm action steps they will take on their path to become software developers
 * Give time for a gallery walk to see other group ideas! 
 
+---
