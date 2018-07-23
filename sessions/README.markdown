@@ -22,7 +22,7 @@
 
 |Time|Session|Status|Assigned|
 |---|---|---|---|
-|*9:15-9:30*  | [Stand Up & Journaling)[./opening_circle_stand_up.markdown] | |  |
+|*9:15-9:30*  | (Stand Up & Journaling)[./opening_circle_stand_up.markdown] | |  |
 |*9:30-10:00* | [Class: Conditionals](./conditionals_slides.markdown) |  |  |
 |*10:00-11:00*| [Lab: Conditionals](./conditionals_lab.markdown) |  |  |
 |*11:00-12:00*| [Challenge: Paired Worktime](./challenges) |  |  |
@@ -38,7 +38,7 @@
 
 |Time|Session|Status|Assigned|
 |---|---|---|---|
-|*9:15-9:30*  | [Stand Up & Journaling)[./opening_circle_stand_up.markdown] | |  |
+|*9:15-9:30*  | (Stand Up & Journaling)[./opening_circle_stand_up.markdown] | |  |
 |*9:30-10:00* | [Class: For & For-In](./for_in_loops_slides.markdown) |  |  |
 |*10:00-11:00*| [Lab: Practicing Loops](./for_in_loops_lab.markdown) |  |  |
 |*11:00-12:00*| [Challenge: Paired Worktime](./challenges) |  |  |
@@ -54,7 +54,7 @@
 
 |Time|Session|Status|Assigned|
 |---|---|---|---|
-|*9:15-9:30*  | [Stand Up & Journaling)[./opening_circle_stand_up.markdown] | |  |
+|*9:15-9:30*  | (Stand Up & Journaling)[./opening_circle_stand_up.markdown] | |  |
 |*9:30-10:00* | 🤗[Aviatrix Intro](../aviatrix)🤗 | _Needs Review_ | |
 |*10:00-11:00*| 🤗[Ieration 0: Up and Running](../aviatrix/i0_up_and_running.markdown)🤗 | _Needs Review_ | |
 |*11:00-12:00*| 🤗[Iteration 1: Destinations](../aviatrix/i1_destinations.markdown)🤗 | _Needs Review_ | |
@@ -70,7 +70,7 @@
 
 |Time|Session|Status|Assigned|
 |---|---|---|---|
-|*9:15-9:30*  | [Stand Up & Journaling)[./opening_circle_stand_up.markdown] | |  |
+|*9:15-9:30*  | (Stand Up & Journaling)[./opening_circle_stand_up.markdown] | |  |
 |*9:30-10:15* | [Challenge: Paired Worktime](./challenges) | | |
 |*10:15-11:00*| [Class: Design Theory](./design_theory_slides.markdown) | | |
 |*11:00-11:15*| Brain Break | Assigned | Amy |
@@ -87,7 +87,7 @@
 
 |Time|Session|Status|Assigned|
 |---|---|---|---|
-|*9:15-9:30*  | [Stand Up & Journaling)[./opening_circle_stand_up.markdown] | |  |
+|*9:15-9:30*  | (Stand Up & Journaling)[./opening_circle_stand_up.markdown] | |  |
 |*9:30-10:15* | [Challenge: Paired Worktime](./challenges) |  | Amy |
 |*10:15-11:00*| [Class: Actions & Outlets](./actions_outlets_slides.markdown) | _Needs Review_ | |
 |*11:00-12:00*| [Lab: Actions & Outlets](./actions_outlets_lab.markdown) | _Needs Review_ | |
@@ -103,7 +103,7 @@
 
 |Time|Session|Status|Assigned|
 |---|---|---|---|
-|*9:15-9:30*  | [Stand Up & Journaling)[./opening_circle_stand_up.markdown] | |  |
+|*9:15-9:30*  | (Stand Up & Journaling)[./opening_circle_stand_up.markdown] | |  |
 |*9:30-10:15* | [Challenge: Paired Worktime](./challenges) |  | Amy |
 |*10:15-10:30*| Brain Break |  | |
 |*10:30-11:00*| [Class: Displaying Photos](./displaying_photos_slides.markdown) | _Needs Review_ | |
@@ -121,7 +121,7 @@
 
 |Time|Session|Status|Assigned|
 |---|---|---|---|
-|*9:15-9:30*  | [Stand Up & Journaling)[./opening_circle_stand_up.markdown] | |  |
+|*9:15-9:30*  | (Stand Up & Journaling)[./opening_circle_stand_up.markdown] | |  |
 |*9:30-10:15* | [Challenge: Paired Worktime](./challenges) |  | Amy |
 |*10:15-10:45*| [Class: Core Data](./core_data_slides.markdown) | _Needs Review_ | |
 |*10:45-12:00*  | [Lab: Core Data in ViewFinder](./core_data_lab.markdown) | _Needs Review_ | |
@@ -136,7 +136,7 @@
 
 |Time|Session|Status|Assigned|
 |---|---|---|---|
-|*9:15-9:30*  | [Stand Up & Journaling)[./opening_circle_stand_up.markdown] | |  |
+|*9:15-9:30*  | (Stand Up & Journaling)[./opening_circle_stand_up.markdown] | |  |
 |*9:30-10:15* | [Challenge: Paired Worktime](./challenges) |  | Amy |
 |*10:15-12:00* | [Lab: Choose your own ... Feature!](./choose_your_own_lab.markdown) |  | Amy |
 |*12:00-1:00* | Lunch |
@@ -150,7 +150,7 @@
 
 |Time|Session|Status|Assigned|
 |---|---|---|---|
-|*9:15-9:30*  | [Stand Up & Journaling)[./opening_circle_stand_up.markdown] | |  |
+|*9:15-9:30*  | (Stand Up & Journaling)[./opening_circle_stand_up.markdown] | |  |
 |*9:30-10:00* | Collaboration: Cross-Pair Share |  | _Author Needed_ |
 |*10:00-12:00*| Lab: Final Touches |  | _Author Needed_ |
 |*12:00-1:00* | Lunch |
