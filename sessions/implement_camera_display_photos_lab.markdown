@@ -10,8 +10,8 @@ Using your references and all that great practice with accessing the camera and 
 
 ### Getting Started
 
-* Provide directions for any set up needed
-* Some common ones - open an Xcode Playground, Project, or get on your iPad Swift Playgrounds App.
+* Open up your ViewFinder project 
+* Make sure you've complete the [ViewFinder UI Lab](https://github.com/turingschool-projects/kwk-level3-swift/blob/master/sessions/viewfinder_ui_lab.markdown) before starting this!
 
 ### Implement Camera & Display Photos
 
