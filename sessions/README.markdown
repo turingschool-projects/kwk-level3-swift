@@ -8,7 +8,7 @@
 |---|---|
 |*9:15-9:30*    | Opening Circle |
 |*9:30-10:30*   | Welcome to KWK |
-|*10:30-11:00*  | (Collaboration: Work Styles)[./collaboration_working_styles.markdown]|
+|*10:30-11:00*  | [Collaboration: Work Styles](./collaboration_working_styles.markdown)|
 |*11:00-12:00*  | [Class: How to Pair](playgrounds/how_to_pair_slides.markdown)|
 |*12:00-1:00*   | Lunch |
 |*1:00-1:30*    | [Class: Intro to Playgrounds](playgrounds/intro_to_playgrounds_slides.markdown)|  
@@ -140,7 +140,7 @@
 |*9:30-10:15* | [Challenge: Paired Worktime](./challenges) |  | Amy |
 |*10:15-12:00* | [Lab: Choose your own ... Feature!](./choose_your_own_lab.markdown) |  | Amy |
 |*12:00-1:00* | Lunch |
-|*1:15-1:45*  | [Class: How to Demo)[./how_to_demo.markdown] |  | EM Team |
+|*1:15-1:45*  | [Class: How to Demo](./how_to_demo.markdown) |  | EM Team |
 |*1:45-2:45*  | Lab: Writing Your Demo |  | EM Team |
 |*2:45-3:45*  | Class: Demo Practice |  | EM Team |
 |*3:45-4:15*  | [Lab: Taking Your Work With You](./taking_work_with_you.markdown) | Assigned | Amy |
