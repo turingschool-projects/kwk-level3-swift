@@ -201,7 +201,7 @@ NOTE: You will need to continue doing this as you create instance variables, and
 
 ## What We've Got
 
-After this work, when you run the program:
+### After this work, when you run the program:
 
 * The `gauges` info that prints out is still mostly blank, but our `Location` is accurate
 * Flying to a different city works and we can move from city to city
@@ -224,7 +224,7 @@ If you'd like to use realistic distances, you can [use this online air mileage c
 
 If you get one new destination to work correctly, feel free to add a couple more!
 
-## Extra Challenge
+### Extra Challenge
 
 Was flying around too easy for you? How about a tricky challenge?
 
