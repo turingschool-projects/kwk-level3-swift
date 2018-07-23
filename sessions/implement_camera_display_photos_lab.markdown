@@ -11,7 +11,7 @@ Using your references and all that great practice with accessing the camera and 
 ### Getting Started
 
 * Open up your ViewFinder project 
-* Make sure you've complete the [ViewFinder UI Lab](https://github.com/turingschool-projects/kwk-level3-swift/blob/master/sessions/viewfinder_ui_lab.markdown) before starting this!
+* Make sure you've completed the [ViewFinder UI Lab](https://github.com/turingschool-projects/kwk-level3-swift/blob/master/sessions/viewfinder_ui_lab.markdown) before starting this!
 
 ### Implement Camera & Display Photos
 
