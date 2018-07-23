@@ -25,9 +25,12 @@ Sometimes we want to create code that will repeat for a specific number of times
 
 * Write a for-in loop that prints `Hello` to the console five times
 * Write a for-in loop that prints numbers from 1 to 5 to the console
-* Iterate over an array using a for-in loop
+* Iterate over an array using a for-in loop:
   - Create an array of the names of five of your friends
   - Write a for-in loop that uses each name and prints `Hello, [friend's name]` to the console
+* Iterate over a dictionary using these directions:
+  - Create a dictionary where the keys are names of cities, and the values hold the distance between that city and your location (you'll need to do some research! You choose the cities!)
+  - Write a for-in loop that uses each city and distance and prints `You are currently ___ miles away from _____`.
 
 #### Extension
 
