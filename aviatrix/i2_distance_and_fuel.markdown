@@ -13,21 +13,21 @@ Reading the gauges...
 | Location:  | St. Louis
 ```
 
-The other line in `main.swift`'s `gauge` function are commented out because an error would be thrown - those variables don't yet exist in `Aviatrix`. Let's start out by addressing the distance.
+The other lines in `main.swift`'s `gauge` function are commented out because an error would be thrown; those variables don't yet exist in `Aviatrix`. Let's start out by addressing the distance.
 
 ### In The Simulator
 
-When you look in the `gauges` method of the simulator you see a line like this:
+When you look in the `gauges` function in `main.swift` you see a line like this:
 
 ```
 print("| Distance:  | \(plane.distanceTraveled) miles")
 ```
 
-That tells us the distance is coming from the `distanceTraveled` function.
+That tells us the distance is coming from the `distanceTraveled` instance variable on the `Aviatrix` class, which doesn't exist yet...
 
 ### `distanceTraveled`
 
-In Aviatrix, we need to create a `distanceTraveled` instance variable -- it's just a number that's stored, not a method that does calculations. We need to set it to `0` when the plane is first created.
+In Aviatrix, we need to create a `distanceTraveled` instance variable -- it's just a number that's stored, not a function that does calculations. We need to set it to `0` when the plane is first created.
 
 But it never gets changed. What code can you add to the `flyTo` function so that it updates the value of `distanceTraveled`?
 
@@ -58,7 +58,7 @@ Starting in St. Louis, what's the closest you can get to flying 5000 miles witho
 
 ## Burning Fuel
 
-It takes a lot of gasoline to move an airplane. Commercial flights loaded up with passengers can need five gallons of gas to go just one mile!
+It takes a lot of gasoline to move an airplane. Commercial flights loaded up with passengers use about five gallons of gas to go just one mile!
 
 Let's build out the fuel-tracking in our project.
 
@@ -79,17 +79,18 @@ In our code, we have something like this:
 ```
 print("Reading the gauges...")
 print(" ")
+print("| Running:   | ✅   ")
 print("| Location:  | \(plane.location)")
+print("| Distance:  | \(plane.distanceTraveled) miles")
 //    print("| Fuel:      | \(plane.fuelLevel) gallons")
 //    print("| Max Fuel:  | \(plane.maxFuel) gallons")
 //    print("| MPG:       | \(plane.milesPerGallon)")
 //    print("| Fuel Bill: | \(plane.fuelCost)")
-print("| Distance:  | \(plane.distanceTraveled) miles")
 ```
 
-...meaning we will need a `fuelLevel`, `maxFuel`, `milesPerGallon`, and `fuelCost` variable or function.
+...meaning we will need a `fuelLevel`, `maxFuel`, `milesPerGallon`, and `fuelCost` variable or function. Let's take it one step at a time:
 
-### Max Fuel
+### Max Fuel & Fuel Level
 
 *Can you modify the code in your Aviatrix so the Max Fuel shows up as 5000 gallons?* Think back to what we did to get `distanceTraveled` to appear.
 
@@ -100,9 +101,11 @@ Reading the gauges...
 
 | Running:   | ✅
 | Location:  | St. Louis
-| Max Fuel:  | 5000 gallons
 | Distance:  | 0 miles
+| Max Fuel:  | 5000 gallons
 ```
+
+*Now, create a Fuel Level instance variable that starts at 5000 also, assuming that we start the trip with a full gas tank!*
 
 ### Fuel to Fly
 
@@ -113,7 +116,7 @@ Let's track how much fuel we're using to fly:
 
 Let's add another instance variable - `milesPerGallon` and set it to `0.4`.
 
-*Can you modify your `flyTo` in the `Aviatrix` class method so that it calculates how much fuel is used during the flight and decreases `fuelLevel` the right amount?*
+*Can you modify your `flyTo` function in the `Aviatrix` class so that it calculates how much fuel is used during the flight and decreases `fuelLevel` by the right amount?*
 
 When it's working correctly and you fly from St. Louis to Denver your gauges will say:
 
@@ -122,10 +125,10 @@ Reading the gauges...
 
 | Running:   | ✅
 | Location:  | Denver
+| Distance:  | 768 miles
 | Fuel:      | 3080.00 gallons
 | Max Fuel:  | 5000 gallons
 | MPG:       | 0.4
-| Distance:  | 768 miles
 ```
 
 #### Challenge
@@ -145,14 +148,14 @@ Instead of your MPG always being `0.4` can you modify your code so the MPG is ap
 mpg = 0.55 - (Number of Gallons)x(0.00005)
 ```
 
-What's the different in the miles-per-gallon of a full tank versus when the tank is empty?
+What's the difference in the miles-per-gallon of a full tank versus when the tank is empty?
 
 
 ## Refueling
 
 Each airport is happy to sell us jet fuel.
 
-### In The Simulator
+### In `main.swift`
 
 You can look at the `refuel` function in `main.swift` and you'll see:
 
