@@ -50,4 +50,4 @@ In Xcode, select `Source Control`, `Commit`, type in a message describing your c
 
 #### Extension
 
-* Continue refining you UI - colors, fonts, sizing, etc.
+* Continue refining your UI - colors, fonts, sizing, etc!
