@@ -1,10 +1,10 @@
 # Aviatrix I1: Destinations
 
-As you can see in the `main.swift`, our plane should be able to fly places. But all it can do is stay on the runway in St. Louis. Let's build up the functionality to move between cities.
+As you can see in the `main.swift`, our plane should be able to fly places. But right now, all it can do is stay on the runway in St. Louis. Let's build up the functionality to move between cities.
 
 ## What We're Going For
 
-When this iteration is done, we should be able to fly between known cities. When we run the program and type in `b` to fly we will see an output something like this:
+When this iteration is done, we should be able to fly between known cities. When we run the program and type in `b` to fly, we will see an output something like this:
 
 ```
 Where would you like to fly to?
@@ -40,13 +40,15 @@ Let's work on displaying more destinations.
 
 ### Looking at `main.swift`
 
-The `fly` method in `main.swift` is what's outputting this menu. It's some of the more complicated code in `main.swift` file, but we can pick it apart piece by piece.
+The `fly` method in `main.swift` is what's outputting this menu. It's some of the more complicated code in the `main.swift` file, but we can pick it apart piece by piece.
 
-On the third line of the `fly` function we can see it's calling `plane.knownDestinations` and iterating over that array. We need to modify the `knownDestinations` function.
+On the third line of the `fly` function we can see it's calling `plane.knownDestinations` and below, iterating over that array. We need to modify the return value of `knownDestinations` function (which lives in `Aviatrix`).
+
+_Let's take a minute to talk as a group about how we are calling this function that belongs to the `Aviatrix Class`._
 
 ### `knownDestinations`
 
-Remember that all the data about destinations is in `AviatrixData`. We want to have this function return an array like this:
+Remember that all the data about destinations is in `AviatrixData`. We _want_ to have the `knownDestinations` function return an array like this:
 
 ```
 ["St. Louis", "Phoenix", "Denver", "SLC"]
@@ -82,15 +84,15 @@ In `main.swift` we can find the line that outputs that distance. It relies on th
 distance = plane.distanceTo(target : String)
 ```
 
-So to get the distance to display correctly we've got to look at the `distanceTo` function in our code.
+So to get the distance to display correctly we've got to look at the `distanceTo` function in our code (in `Aviatrix`).
 
-#### `distance_to`
+#### `distanceTo`
 
 If you look in `AviatrixData` you'll see that the distances are in there, but how do we get to them?
 
-First, we need to know where we are. The stub starts our plane in St. Louis. So for a first round, let's assume that any distance being calculated is *from* St. Louis.
+First, we need to know where we are. By default, our plane stats in St. Louis. So for a first round, let's assume that any distance being calculated is *from* St. Louis.
 
-The distance from St. Louis to Phoenix is 1260 miles. You can see that number inside the `knownDistances` function of `AviatrixData`. We could get to it like this:
+The distance from St. Louis to Phoenix is 1260 miles. You can see that number inside the `knownDistances` function of `AviatrixData`. To access this data, we could use the following code:
 
 ```
 knownDistances["St. Louis"]!["Phoenix"]!
@@ -100,9 +102,9 @@ The `knownDistances` variable is a dictionary. `St. Louis` is a key in that dict
 
 `"Phoenix` is a key in that second dictionary. It points to a value 1260, which is what we're looking for.
 
-So the code `knownDistances["St. Louis"]!["Phoenix"]!` gets us the distance between St. Louis and Phoenix. We we look at our `distanceTo` function we have an argument named `target` that is the city we're heading to.
+So the code `knownDistances["St. Louis"]!["Phoenix"]!` gets us the distance between St. Louis and Phoenix. When we look at our `distanceTo` function we have an argument named `target` that is the city we're heading to.
 
-*Write code in your `distanceTo` function that finds the distance between St. Louis and your `target`*. Check the output you see in `main.swift` against the numbers in `AviatrixData`.
+*Write code in your `distanceTo` function that finds the distance between St. Louis and your `target`. Make sure your function returns this value!* Re-run the program and check the output you see in `main.swift` against the numbers in `AviatrixData`.
 
 #### Planning for the Future
 
@@ -116,7 +118,7 @@ That'll work great as long as our current location is St. Louis. But we're about
 
 
 Stuck? 
-- You will need an instance variable in the `Aviatrix` that holds a string with the current location. Let's call this variable `location`.
+- You will need an instance variable in `Aviatrix` that holds a string with the current location. Let's call this variable `location`.
 - The `distanceTo` function needs to take another argument (the instance variable that holds the current location) so we don't have to hard-code a certain city in.
 
 Once this is done, let's update the message in `fly` in `main.swift` that says:
