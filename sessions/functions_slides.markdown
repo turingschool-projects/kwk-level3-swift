@@ -102,7 +102,7 @@ walkDog(numberOfDogs : 4)
 ^ Show this slide, explain that the 4 that is passed into the function call is substituted in the function, so anytime that the function sees the variable `numberOfDogs` - it will substitute 4 in for that variable.
 Be careful - the spaces surrounding the ":" in the function declaration's () DO matter - (numberOfDogs : Int) works and (numberOfDogs:Int) works but (numberOfDogs :Int) or (numberOfDogs: Int) will NOT work.
 <Move to Xcode to model>
-MODEL: it's recommended to copy and paste then comment out the first function. That way you have something to start with but don't have naming conflicts.
+MODEL: it's recommended to copy and paste then comment out your first `walkDog` function. That way you have something to start with but don't have naming conflicts.
 Add an argument into the function declarations ()
 If you already have a function call below, it should be throwing an error. Delete it, re-type, and as you type the function name it will pre-populate the argument name and data type.
 Pass an argument in, replacing "Int"
@@ -123,14 +123,14 @@ Part of the way they do this is by 'returning' a value. Return values can be any
 ```swift
 func walkDogs(numberOfDogs : Int) -> Int {
 
-  return 3
+  return numberOfDogs
 }
 
 walkDogs(numberOfDogs : 3)
 ```
 
-^ Point out the "-> Int" and "return 3" pieces. Explain that the "->" tells the computer to expect a return value out of this function, and "Int" means that the return value must be an integer.
-Because it's expecting an integer to be returned, we use the "Return" keyword on the last line of the function. We can return an integer like 3; OR, and more commonly, return a variable with an integer value. That way, depending on what happens in our function, we may return something unique.
+^ Point out the "-> Int" and "return numberOfDogs" pieces. Explain that the "->" tells the computer to expect a return value out of this function, and "Int" means that the return value must be an integer.
+Because it's expecting an integer to be returned, we use the "return" keyword on the last line of the function. We can return an integer like 3; OR, and more commonly, return a variable with an integer value. That way, depending on what happens in our function, we may return something unique.
 <Move to Xcode to model>
 MODEL: again copy/paste and comment out previous code. Model for the students - adding in the "-> Int", and the return keyword.
 Possible calculation to make/return:
@@ -148,6 +148,15 @@ Feel free to put this code on a slide or just continue modeling in the playgroun
 let minutesToWalk = walkDogs(numberOfDogs : 3)
 print("Please walk the dogs. I will expect to see you complete that task in \(minutesToWalk) minutes!")
 The "let" was used because minutes to walk is not changed. If you are curious, try starting with var then noticing the warning Xcode throws.
+
+---
+
+# Technical Vocabulary
+
+* Function
+* Argument
+* Return Value
+* Call (a function)
 
 ---
 
