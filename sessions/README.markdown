@@ -9,9 +9,10 @@
 |*10:30-11:00*  | [Collaboration: Work Styles](./collaboration_working_styles.markdown)|
 |*11:00-12:00*  | [Class: How to Pair](playgrounds/how_to_pair_slides.markdown)|
 |*12:00-1:00*   | Lunch |
-|*1:00-1:30*    | [Class: Intro to Playgrounds](playgrounds/intro_to_playgrounds_slides.markdown)|  
-|*1:30-2:30*    | [Lab: Commands & Functions (iPad)](playgrounds/commands_and_functions_lab.markdown)|
-|*2:30-3:00*    | [Class: Xcode & Swift Intro](./xcode_intro_slides.markdown) |
+|*1:00-1:30*    | [Class: Xcode & Swift Intro](./xcode_intro_slides.markdown) |
+|*1:30-2:00*    | [Class: Intro to Playgrounds](playgrounds/intro_to_playgrounds_slides.markdown)|  
+|*2:00-2:15*    | [Brain Break](./brain_break_resources.markdown) |
+|*2:15-3:00*    | [Lab: Commands & Functions (iPad)](playgrounds/commands_and_functions_lab.markdown)|
 |*3:00-3:30*    | [Data Types & Variables](./data_types_slides.markdown) |
 |*3:30-4:15*    | [Lab: Variables, Strings, and Printing](./data_types_lab.markdown) |
 |*4:15-4:45*    | Wrap Up |
@@ -54,7 +55,7 @@
 |---|---|
 |*9:15-9:30*  | [Stand Up & Journaling](./opening_circle_stand_up.markdown) |
 |*9:30-10:00* | [Aviatrix Intro](../aviatrix) |
-|*10:00-11:00*| [Ieration 0: Up and Running](../aviatrix/i0_up_and_running.markdown) |
+|*10:00-11:00*| [Iteration 0: Up and Running](../aviatrix/i0_up_and_running.markdown) |
 |*11:00-12:00*| [Iteration 1: Destinations](../aviatrix/i1_destinations.markdown) |
 |*12:00-1:00* | Lunch |
 |*1:00-2:00*  | [Iteration 1: Routes](../aviatrix/i1_destinations.markdown) |
@@ -122,7 +123,7 @@
 |*9:15-9:30*  | [Stand Up & Journaling](./opening_circle_stand_up.markdown) | |  |
 |*9:30-10:15* | [Challenge: Paired Worktime](./challenges) |  | Amy |
 |*10:15-10:45*| [Class: Core Data](./core_data_slides.markdown) | _Needs Review_ | |
-|*10:45-12:00* | [Lab: Core Data in ViewFinder](./core_data_lab.markdown) | _Needs Review_ | |
+|*10:45-12:00*| [Lab: Core Data in ViewFinder](./core_data_lab.markdown) | _Needs Review_ | |
 |*12:00-1:00* | Lunch |
 |*1:00-1:45*  | [Class: Segues](./segue_slides.markdown) | _Needs Review_ | |
 |*1:45-2:45*  | [Lab: Build Photo Detail View](./build_photo_detail_view.markdown) | _Needs Review_ | |
@@ -136,7 +137,7 @@
 |---|---|---|---|
 |*9:15-9:30*  | [Stand Up & Journaling](./opening_circle_stand_up.markdown) | |  |
 |*9:30-10:15* | [Challenge: Paired Worktime](./challenges) |  | Amy |
-|*10:15-12:00* | [Lab: Choose your own ... Feature!](./choose_your_own_lab.markdown) |  | Amy |
+|*10:15-12:00*| [Lab: Choose your own ... Feature!](./choose_your_own_lab.markdown) |  | Amy |
 |*12:00-1:00* | Lunch |
 |*1:15-1:45*  | [Class: How to Demo](./how_to_demo.markdown) |  | EM Team |
 |*1:45-2:45*  | Lab: Writing Your Demo |  | EM Team |
