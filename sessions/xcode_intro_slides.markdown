@@ -31,7 +31,7 @@ What do you think the `print` statements do (similar to `console.log` & `puts`)
 
 # What are some of the big differences?
 
-![inline](slide_images/arra_data_types.png)
+![inline](slide_images/array_data_types.png)
 
 ^ While Swift looks a lot like JavaScript in ways, and also has a lot in common with Ruby (if statements, loops, variables, data types, etc), there are some major differences. We will go into the details as they come up in lessons, but just to give you a preview...
 - This image shows an error we are getting because we tried to MIX data types in an array. You _can_ do it, but it is strongly discouraged, so you have to do some extra work to get around it.
