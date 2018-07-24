@@ -55,7 +55,7 @@ Here are a few questions to discuss with a pair:
 
 You've already done one set of Swift Playground labs. We're about to do another. But this time we'll be pairing.
 
-## Turn to your pair and try a 5-minute DTR
+**Turn to your pair and try a 5-minute DTR**
 
 ---
 

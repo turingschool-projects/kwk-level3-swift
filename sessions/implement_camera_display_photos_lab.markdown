@@ -29,12 +29,12 @@ Using your references and all that great practice with accessing the camera and 
 
 * _Run your app in the simulator to make sure it's working! Not much should happen; that's ok. We just want to make sure it doesn't crash._
 
-* Use the Info.plist to ask user for permission to access camera and photo library.
+* Use the `Info.plist` to ask user for permission to access camera and photo library.
 
 (For the following steps, look back at [Accessing Camera Slides](./access_camera_slides.markdown) if you're stuck!)
-* Inherit from UIImagePickerControllerDelegate and UINavigationControllerDelegate
+* Inherit from `UIImagePickerControllerDelegate` and `UINavigationControllerDelegate`
 
-* Create an instance of UIImagePickerController, stored in variable
+* Create an instance of `UIImagePickerController`, stored in variable
 
 * Tell that instance to give it's information to this class
 
@@ -42,7 +42,7 @@ Using your references and all that great practice with accessing the camera and 
 
 * Inside of your actions, write the code necessary to access the camera/library/albums, based on which action you are in.
 
-* Write the imagePickerController function. Look back at the [Displaying Photos Slides](./displaying_photos_slides.markdown) or your practice projects as a reference if needed.
+* Write the `imagePickerController` function. Look back at the [Displaying Photos Slides](./displaying_photos_slides.markdown) or your practice projects as a reference if needed.
 
 ### ❗️Commit Your Work ❗️
 
