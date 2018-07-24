@@ -67,13 +67,11 @@ Possible answers/ideas to guide them towards:
 ![inline](slide_images/image_picker_controller.png)
 
 ^ We have some pseudo-code here as we think through how to actually make this happen.
-MODEL: Use the "smart keyboard" co-teaching model here, have one instructor model in Xcode while the other explains each line.
 FIRST, we have to access the photo. It is in that "info" dictionary. We access it with:
-let selectedImage = info[UIImagePickerControllerOriginalImage]. Just in case, for some weird reason, there is no photo, we need to unwrap this with an "if let" to make sure we have a UIImage. This looks like:
-if let selectedImage = info[UIImagePickerControllerOriginalImage] as? UIImage {
-
+let selectedImage = info[UIImagePickerControllerOriginalImage]. In the event there is no photo, we need to unwrap this with an "if let" to make sure we have a UIImage. This looks like:
+if let selectedImage = info[UIImagePickerControllerOriginalImage] as? UIImage { 
 }
-Now that we know we have the photo, we need to now access the outlet: newImageView. To tell the computer we want to access the image specifically, let's use `newImageView.image`. NOW, let's assign it to the value of the selectedImage.
+Now that we know we have the photo, we need to now access the outlet: newImageView. To tell the computer we want to access the image specifically, let's use `newImageView.image` and assign it to the value of the selectedImage.
 if let selectedImage = info[UIImagePickerControllerOriginalImage] as? UIImage {
   newImageView.image = selectedImage
 }
