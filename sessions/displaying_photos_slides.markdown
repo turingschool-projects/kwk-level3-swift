@@ -46,21 +46,19 @@ finish code - picture should be distorted, change to aspect fit.
 * Let's call the outlet: `newImageView`
 * We will use `newImageView.image` later to access and change the image
 
-^ answer - outlets! They are created similar to actions, we drag and drop from the StoryBoard to the code.  
-
 ---
 
 #  func `imagePickerController`
 
 * Another built-in function
 * Will be called once a user selects a photo
-* This is where we need to tell it what to do once user has selected a photo!
+* This is where we need to tell it what to do once the user has selected a photo!
 
-^ imagePickerController is another function that Apple has written - it is smart of to keep track of and know when a user selects a photo from camera, library, or albums. Once a user selects a photo, this function will be called, or `fire`, and execute any code written inside of the code block ( the `{ }` curly braces).
+^ imagePickerController is another function that Apple has written - we want to keep track of and know when a user selects a photo from the camera, library, or albums. Once a user selects a photo, this function will be called, or will `fire`, and execute any code written inside of the code block ( the `{ }` curly braces).
 DISCUSS: What do we want to tell the app to do at this point?
 Possible answers/ideas to guide them towards: 
 1) We want to update that original photo on our main view controller with the photo that was selected by the user. 
-2) We want to user to be taken back to the screen where they can see their photo in that space from answer # 1.
+2) We want the user to be taken back to the screen where they can see their photo in that space from answer # 1.
 
 ---
 
