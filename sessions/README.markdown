@@ -11,9 +11,9 @@
 |*12:00-1:00*   | Lunch |
 |*1:00-1:30*    | [Class: Intro to Playgrounds](playgrounds/intro_to_playgrounds_slides.markdown)|  
 |*1:30-2:30*    | [Lab: Commands & Functions (iPad)](playgrounds/commands_and_functions_lab.markdown)|
-|*2:30-2:45*    | [Class: Xcode Intro - Playgrounds](./xcode_intro_slides.markdown) |
-|*2:45-3:15*    | [Data Types & Variables](./data_types_slides.markdown) |
-|*3:15-4:15*    | [Lab: Variables, Strings, and Printing](./data_types_lab.markdown) |
+|*2:30-3:00*    | [Class: Xcode & Swift Intro](./xcode_intro_slides.markdown) |
+|*3:00-3:30*    | [Data Types & Variables](./data_types_slides.markdown) |
+|*3:30-4:15*    | [Lab: Variables, Strings, and Printing](./data_types_lab.markdown) |
 |*4:15-4:45*    | Wrap Up |
 
 ### Day 2
@@ -95,7 +95,7 @@
 |*2:30-3:00*  | [Class: Accessing the Camera](./access_camera_slides.markdown) |
 |*3:00-3:15*  | [Brain Break](./brain_break_resources.markdown) |
 |*3:15-4:15*  | [Lab: Accessing the Camera & Photo Library](./access_camera_lab.markdown) |
-|*4:15-4:45*  | Wrap Up | 
+|*4:15-4:45*  | Wrap Up |
 
 ### Day 7
 
