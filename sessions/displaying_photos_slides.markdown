@@ -5,18 +5,6 @@ slidenumbers: true
 
 ---
 
-<!--
-
-explain what that info dictionary is doing.
-
-explain how this function is being called.
-
-there are two things we want to do once this is called - tell the image to show up where we want it, then dismiss this VIEW so the imagePicker goes away!
-
-finish code - picture should be distorted, change to aspect fit.
-
- -->
-
 # Learning Goals
 
 * Students will be able to display photos selected from UIImagePicker
