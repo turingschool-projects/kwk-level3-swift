@@ -81,6 +81,14 @@ RECOMMENDATION: use photo library and run on simulator rather than camera/device
 
 ---
 
+#  func imagePickerController
+
+![inline](slide_images/dismiss.png)
+
+^ The dismiss function is another function that Apple gives us. It takes an argument of `animated` and `completion`. Like we've done before, give `animated:true` and `completion:nil`. If you're wondering what animated does, try changing it to false and see what happens. EWE! 
+
+---
+
 # Lab
 
 * Create a brand-new app that ...
