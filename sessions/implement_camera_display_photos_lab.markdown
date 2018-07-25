@@ -17,7 +17,7 @@ Using your references and all that great practice with accessing the camera and 
 
 #### Expected
 
-* Add a new ViewController - code version of the `Add Photo View` on our StoryBoard. Here's how: File --> New --> File --> iOS --> Cocoa Touch Class --> Click `Next` -->
+* Add a new ViewController.swift - code version of the `Add Photo View` on our StoryBoard. Here's how: File --> New --> File --> iOS --> Cocoa Touch Class --> Click `Next` -->
 
 * Give your View Controller an appropriate name (maybe AddPhotoViewController? NewPhotoViewController?), make sure it is a subclass of UIViewController --> Click `Next` --> Click `Create`
 
