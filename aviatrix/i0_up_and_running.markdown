@@ -60,9 +60,9 @@ That way our method will return the value of the `running` variable.
 
 To make sure the user knows who built this program, we want to be able to display your name! In your `Aviatrix` class, create an `author` instance variable (data type: String, value: none, yet), and write an `init` function to pass an argument in when you create an Aviatrix object.
 
-In `main.swift`, an Aviatrix object is being created using the variable name `av`. You should now see an error - fix that error!
+In `main.swift`, an Aviatrix object is being created using the variable name `plane`. You should now see an error - fix that error!
 
-Now, right below the `av` object, there is a line of code that prints to the console: print("Welcome to the Aviatrix Flight System by _ _ _ _ _ _ _ _ _ " ) - change that so your author variable is interpolated.
+Now, right below the `plane` object, there is a line of code that prints to the console: print("Welcome to the Aviatrix Flight System by _ _ _ _ _ _ _ _ _ " ) - change that so your author variable is interpolated.
 
 Also, update the last line of `main.swift` with a string of your choice - you could use the author's name again.
 

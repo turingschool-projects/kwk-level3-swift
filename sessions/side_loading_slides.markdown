@@ -20,6 +20,7 @@ slidenumbers: true
 
 # Setup
 
+* Plug your iPad into computer
 * Open your project in Xcode
 1. In the Navigator Pane, click on the root of the Project
 2. Then click on the Project Name under TARGETS
@@ -49,11 +50,10 @@ slidenumbers: true
 
 # Signing
 
-1. Click the drop down menu for 'Team'
-2. Select 'Add an Account'
-3. Type in your iCloud credentials
-4. Exit that window once you see your information
-5. Back in the Interface Builder pane, select the team you just added
+1. Click 'Add an Account'
+2. Type in your iCloud credentials
+3. Exit that window once you see your information
+4. Back in the Interface Builder pane, select the team you just added
 
 ---
 
@@ -63,17 +63,11 @@ slidenumbers: true
 
 ---
 
-# iPad time!
-
-* Plug your iPad into your laptop
-* Make sure the iPad is unlocked
-
----
-
 # Run Application on iPad
 
-1. Change the device to your physical iPad
-2. Run application by clicking the play button or `cmd + r`
+1. Make sure the iPad is unlocked
+2. Change the device to your physical iPad
+3. Run application by clicking the play button or `cmd + r`
 
 ---
 
@@ -95,6 +89,14 @@ slidenumbers: true
 
 ---
 
+# It might ask for a keychain password...
+
+* Build fails - exit 1 signal 0
+* Try to type in computer password
+* If that doesn't work, click 'Deny'
+
+---
+
 # It should fail
 
 ![inline](slide_images/side_loading_ipad_untrusted_dev.jpg)
@@ -105,8 +107,8 @@ slidenumbers: true
 
 * iPad Settings
 * General
-* Device Management
-* Click your email, click button to approve the application
+* Profiles & Device Management
+* Click your email, click 'Trust' button to approve the application
 
 ---
 
