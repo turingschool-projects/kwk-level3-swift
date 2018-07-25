@@ -38,7 +38,7 @@ Using your references and all that great practice with accessing the camera and 
 
 * Tell that instance to give it's information to this class
 
-* Create actions for each button, and an outlet for the placeholder photo
+* Create actions for each button, and an outlet for the placeholder photo and text field
 
 * Inside of your actions, write the code necessary to access the camera/library/albums, based on which action you are in.
 
