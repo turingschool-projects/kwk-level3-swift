@@ -13,7 +13,7 @@
 |*1:30-2:00*    | [Class: Intro to Playgrounds](playgrounds/intro_to_playgrounds_slides.markdown)|  
 |*2:00-2:15*    | [Brain Break](./brain_break_resources.markdown) |
 |*2:15-3:00*    | [Lab: Commands & Functions (iPad)](playgrounds/commands_and_functions_lab.markdown)|
-|*3:00-3:30*    | [Data Types & Variables](./data_types_slides.markdown) |
+|*3:00-3:30*    | [Class: Data Types & Variables](./data_types_slides.markdown) |
 |*3:30-4:15*    | [Lab: Variables, Strings, and Printing](./data_types_lab.markdown) |
 |*4:15-4:45*    | Wrap Up |
 
@@ -21,7 +21,7 @@
 
 |Time|Session|
 |---|---|
-|*9:15-9:30*  | [Stand Up & Journaling](./opening_circle_stand_up.markdown)
+|*9:15-9:30*  | [Stand Up & Journaling](./opening_circle_stand_up.markdown) |
 |*9:30-10:00* | [Class: Conditionals](./conditionals_slides.markdown) |
 |*10:00-11:00*| [Lab: Conditionals](./conditionals_lab.markdown) |
 |*11:00-12:00*| [Challenge: Paired Worktime](./challenges) |
@@ -29,7 +29,7 @@
 |*1:00-1:30*  | [Class: Arrays](./arrays_slides.markdown)
 |*1:30-2:30*  | [Lab: Arrays & Iteration](./arrays_lab.markdown)
 |*2:30-2:45*  | [Brain Break](./brain_break_resources.markdown) |
-|*2:45-3:15*  | [Intro to Functions](./functions_slides.markdown) |
+|*2:45-3:15*  | [Class: Intro to Functions](./functions_slides.markdown) |
 |*3:15-4:15*  | [Lab: Functions](./functions_lab.markdown) |
 |*4:15-4:45*  | Wrap Up |
 
@@ -37,7 +37,7 @@
 
 |Time|Session|
 |---|---|
-|*9:15-9:30*  | [Stand Up & Journaling](./opening_circle_stand_up.markdown)
+|*9:15-9:30*  | [Stand Up & Journaling](./opening_circle_stand_up.markdown)|
 |*9:30-10:00* | [Class: For & For-In](./for_in_loops_slides.markdown) |
 |*10:00-11:00*| [Lab: Practicing Loops](./for_in_loops_lab.markdown) |
 |*11:00-12:00*| [Challenge: Paired Worktime](./challenges) |
@@ -100,58 +100,58 @@
 
 ### Day 7
 
-|Time|Session|Status|Assigned|
-|---|---|---|---|
-|*9:15-9:30*  | [Stand Up & Journaling](./opening_circle_stand_up.markdown) | |  |
-|*9:30-10:15* | [Challenge: Paired Worktime](./challenges) |  | Amy |
-|*10:15-10:30*| [Brain Break](./brain_break_resources.markdown) |  | |
-|*10:30-11:00*| [Class: Displaying Photos](./displaying_photos_slides.markdown) | _Needs Review_ | |
-|*11:00-12:00*| [Lab: Displaying Photos](./displaying_photos_lab.markdown) | _Needs Review_ | |
+|Time|Session|
+|---|---|
+|*9:15-9:30*  | [Stand Up & Journaling](./opening_circle_stand_up.markdown) |
+|*9:30-10:15* | [Challenge: Paired Worktime](./challenges) |
+|*10:15-10:30*| [Brain Break](./brain_break_resources.markdown) |
+|*10:30-11:00*| [Class: Displaying Photos](./displaying_photos_slides.markdown) |
+|*11:00-12:00*| [Lab: Displaying Photos](./displaying_photos_lab.markdown) |
 |*12:00-1:00* | Lunch |
-|*1:00-1:45*  | [Lab: ViewFinder UI](./viewfinder_ui_lab.markdown) | _Needs Review_ | |
-|*1:45-2:30*  | [Lab: Implement Camera and Displaying Photos](./implement_camera_display_photos_lab.markdown) | _Needs Review_ | |
-|*2:30-2:45*  | [Brain Break](./brain_break_resources.markdown) |  | |
-|*2:45-3:15*  | [Trajectory: Careers in Tech](./careers_in_tech.markdown) | Assigned | EM |
-|*3:15-4:15*  | Lab: Careers Research | Assigned | EM |
-|*4:15-4:45*  | Wrap Up | Assigned | Amy |
+|*1:00-1:45*  | [Lab: ViewFinder UI](./viewfinder_ui_lab.markdown) |
+|*1:45-2:30*  | [Lab: Implement Camera and Displaying Photos](./implement_camera_display_photos_lab.markdown) |
+|*2:30-2:45*  | [Brain Break](./brain_break_resources.markdown) |
+|*2:45-3:15*  | [Trajectory: Careers in Tech](./careers_in_tech.markdown) |
+|*3:15-4:15*  | Lab: Careers Research |
+|*4:15-4:45*  | Wrap Up |
 
 
 ### Day 8
 
-|Time|Session|Status|Assigned|
-|---|---|---|---|
-|*9:15-9:30*  | [Stand Up & Journaling](./opening_circle_stand_up.markdown) | |  |
-|*9:30-10:15* | [Challenge: Paired Worktime](./challenges) |  | Amy |
-|*10:15-10:45*| [Class: Core Data](./core_data_slides.markdown) | _Needs Review_ | |
-|*10:45-12:00*| [Lab: Core Data in ViewFinder](./core_data_lab.markdown) | _Needs Review_ | |
+|Time|Session|
+|---|---|
+|*9:15-9:30*  | [Stand Up & Journaling](./opening_circle_stand_up.markdown) |
+|*9:30-10:15* | [Challenge: Paired Worktime](./challenges) |
+|*10:15-10:45*| [Class: Core Data](./core_data_slides.markdown) |
+|*10:45-12:00*| [Lab: Core Data in ViewFinder](./core_data_lab.markdown) |  
 |*12:00-1:00* | Lunch |
-|*1:00-1:45*  | [Class: Segues](./segue_slides.markdown) | _Needs Review_ | |
-|*1:45-2:45*  | [Lab: Build Photo Detail View](./build_photo_detail_view.markdown) | _Needs Review_ | |
+|*1:00-1:45*  | [Class: Segues](./segue_slides.markdown) |
+|*1:45-2:45*  | [Lab: Build Photo Detail View](./build_photo_detail_view.markdown) |
 |*2:45-3:00*  | [Brain Break](./brain_break_resources.markdown) |  | |
-|*3:00-4:15*  | [Lab: Delete Photo Functionality](./delete_functionality_lab.markdown) |  | Amy |
-|*4:15-4:45*  | Wrap Up | Assigned | Amy |
+|*3:00-4:15*  | [Lab: Delete Photo Functionality](./delete_functionality_lab.markdown) |  
+|*4:15-4:45*  | Wrap Up |
 
 ### Day 9
 
-|Time|Session|Status|Assigned|
-|---|---|---|---|
-|*9:15-9:30*  | [Stand Up & Journaling](./opening_circle_stand_up.markdown) | |  |
-|*9:30-10:15* | [Challenge: Paired Worktime](./challenges) |  | Amy |
-|*10:15-12:00*| [Lab: Choose your own ... Feature!](./choose_your_own_lab.markdown) |  | Amy |
+|Time|Session|
+|---|---|
+|*9:15-9:30*  | [Stand Up & Journaling](./opening_circle_stand_up.markdown) |
+|*9:30-10:15* | [Challenge: Paired Worktime](./challenges) |
+|*10:15-12:00*| [Lab: Choose your own ... Feature!](./choose_your_own_lab.markdown) |  
 |*12:00-1:00* | Lunch |
-|*1:15-1:45*  | [Class: How to Demo](./how_to_demo.markdown) |  | EM Team |
-|*1:45-2:45*  | Lab: Writing Your Demo |  | EM Team |
-|*2:45-3:45*  | Class: Demo Practice |  | EM Team |
-|*3:45-4:15*  | [Lab: Taking Your Work With You](./taking_work_with_you.markdown) | Assigned | Amy |
-|*4:15-4:45*  | Wrap Up | Assigned | Amy |
+|*1:15-1:45*  | [Class: How to Demo](./how_to_demo.markdown) |
+|*1:45-2:45*  | Lab: Writing Your Demo |
+|*2:45-3:45*  | Class: Demo Practice |
+|*3:45-4:15*  | [Lab: Taking Your Work With You](./taking_work_with_you.markdown) |
+|*4:15-4:45*  | Wrap Up |
 
 ### Day 10
 
-|Time|Session|Status|Assigned|
-|---|---|---|---|
-|*9:15-9:30*  | [Stand Up & Journaling](./opening_circle_stand_up.markdown) | |  |
-|*9:30-10:00* | Collaboration: Cross-Pair Share |  | _Author Needed_ |
-|*10:00-12:00*| Lab: Final Touches |  | _Author Needed_ |
+|Time|Session|
+|---|---|
+|*9:15-9:30*  | [Stand Up & Journaling](./opening_circle_stand_up.markdown) |
+|*9:30-10:00* | Collaboration: Cross-Pair Share |
+|*10:00-12:00*| Lab: Final Touches |  
 |*12:00-1:00* | Lunch |
-|*1:00-4:00*  | Graduation - Details TBD |  | _Author Needed_ |
-|*4:15-4:45*  | Wrap Up | Assigned | Amy |
+|*1:00-4:00*  | Graduation - Details TBD |  
+|*4:15-4:45*  | Wrap Up |

@@ -137,7 +137,7 @@ address = "254 Ocean Avenue"
 let name = "Karlie"
 ```
 
-^ We can still access the string "Karlie" anytime, we just cannot change it. 
+^ We can still access the string "Karlie" anytime, we just cannot change it.
 
 ---
 
@@ -149,7 +149,7 @@ In other languages you may have seen variables declared with_out_ being assigned
 var name : String
 ```
 
-^ Maybe I don't know the name yet, but I do know that it will be stored in a string. 
+^ Maybe I don't know the name yet, but I do know that it will be stored in a string.
 `var name` alone will NOT work.
 
 ---
@@ -188,6 +188,7 @@ The computer reads anything inside of the `\()` as swift code - it will look for
 # Vocab Reflection
 
 Using your notes and what you learned in this class, write your definition for today's vocab words:
+
 * String
 * Integer
 * Interpolation
