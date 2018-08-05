@@ -1,7 +1,7 @@
 # Augmented Reality in iOS
 
 ## What is AR?
-Read this article. After, answer the following questions:
+Read [this](http://mobileedar.weebly.com/what-is-ar.html) article. After, answer the following questions:
 - What is AR?
 - What is the difference between AR, VR, and MR? Which one are you most excited about/interested in? Why?
 - Do you use any apps that integrate AR or VR? 
