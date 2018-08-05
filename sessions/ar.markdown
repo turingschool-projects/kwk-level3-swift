@@ -12,4 +12,4 @@ Read through [this blog](https://medium.freecodecamp.org/how-to-get-started-with
 ## Explore the ARKit
 While building the Home Decor app, you used the `SCNCapsule` to create the capsule/pill, then the `SCNPlane` to create the appearance of a flat floor along the horizontal plane. What other 3D figures are available in the ARKit?
 
-Probably in another project, try to get a different figure to appear on your app - maybe a box or sphere? If you are completely stuck, you can follow along with one (or more) of the tutorials [here](https://medium.com/@azamsharp/arkit-geometry-materials-nodes-gestures-oh-my-c4bc04e8aadf)
+Probably in another project, try to get a different figure to appear on your app - maybe a box or sphere? If you are completely stuck, you can follow along with one (or more) of the tutorials [here](https://medium.com/@azamsharp/arkit-geometry-materials-nodes-gestures-oh-my-c4bc04e8aadf).
