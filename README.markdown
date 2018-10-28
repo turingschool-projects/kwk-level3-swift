@@ -19,15 +19,14 @@ We will anchor the camp around the following principles:
 ## Success
 
 * The planning and execution of this camp will be a success when:
-* The staff are adequately equipped to execute the camp plan faithfully
-* The students are highly engaged and excited about the technology
-* The students walk away with one project that they can show off
-* The students are equipped with professional skills to amplify their success in school and work/life
-* The students feel and demonstrate an increased confidence for challenging work
+  * The staff are adequately equipped to execute the camp plan faithfully
+  * The students are highly engaged and excited about the technology
+  * The students walk away with one project that they can show off
+  * The students are equipped with professional skills to amplify their success in school and work/life
+  * The students feel and demonstrate an increased confidence for challenging work
 
-## Link Tracker
+## Example of Final Project
 
-* Original planning Google Doc: https://docs.google.com/document/d/1uk-7OTh2PfcIIC4guN64e6yH3IWTkuSsD9tqoip3yio/edit
 * Viewfinder Project: https://github.com/turingschool/kwk-camera-app
 
 ## Collaboration
