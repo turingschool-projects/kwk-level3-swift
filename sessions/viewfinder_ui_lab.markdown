@@ -44,7 +44,7 @@ Similar to our StoryBoard and Actions/Outlets lessons, we will need to start wit
 * In the Document Outline, click on the Navigation Item (under Table View Controller). Now, look at the Attributes Inspector in the Utilities Pane, and you should see a form for Title. Write the name of your app into that field.
 ![Use this as a reference if needed:](./slide_images/title_nav_item.png)
 
-* Drag a `Bar Button Item` from the Object Library onto your Navigation Bar on the Table View. In the Utilities Pane, you can change the title under `Bar Item`. You can also use the drop-down menu title `System Item` to select an iOS icon.
+* Drag a `Bar Button Item` from the Object Library onto the right-side of your Navigation Bar on the Table View. This will be the button the user taps to visit the "Add New Photo" page. In the Utilities Pane, you can change the title under `Bar Item`. You can also use the drop-down menu title `System Item` to select an iOS icon.
 
 * Drag a new `View Controller` onto your StoryBoard. `ctrl + click` then drag your `Add` button on the Table View over to your new View Controller. Select `show`. This is telling the computer, "when the user clicks on this `add` button, take them to this other view, please." This is called a `segue`.
 ![Use this as a reference if needed:](./slide_images/add_segue.gif)
@@ -52,7 +52,8 @@ Similar to our StoryBoard and Actions/Outlets lessons, we will need to start wit
 * _Run on your iPad to make sure it's working_
 
 * The default `back button` will list the entire app name - feel free to change that to "back" or leave as is. You change it by clicking on the home page title, then filling in the `back button` form in the Utilities Pane.
-* Drag a `Navigation Item` onto the new ViewController. Change the title in the Utilities Pane.
+
+* Drag a `Navigation Item` onto the new ViewController. Change the title in the Utilities Pane to something like "Add New Photo".
 
 * _Run on your iPad to make sure it's working_
 
